@@ -41,7 +41,8 @@ Our team prepared set of interesting topics in but if you have any cool idea you
 * Kotlin
 * RxJava
 * Data Binding
-* Testing and Architecture best practices (MVP, MVVP, Clean Architecture)
+* Architecture best practices (MVP, MVVP, Clean Architecture)
+* Testing (Automatic, ...)
 
 #### Web
 * Progressive Web Apps
@@ -49,6 +50,7 @@ Our team prepared set of interesting topics in but if you have any cool idea you
 * Service Workers
 * Physical Web
 * RAIL
+* Testing (Automatic, ...)
 
 #### Cloud
 * Machine Learning (TensorFlow, Vision API, Speech API, etc.)
