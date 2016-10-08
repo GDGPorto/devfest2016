@@ -47,7 +47,10 @@
 
     <div class="container container-narrow">
       <h4 class="heading">[[localize(app.data.callToAction.videoTitle)]]</h4>
-      <paper-button class="open-dialog-button" on-tap="playVideo">[[localize('action')]]</paper-button>
+
+      <a class="open-photos" style="color:white; text-decoration: none" href$="[[app.data.gallery.albumUrl]]" target="_blank">
+        <paper-button class="open-dialog-button" >[[localize('action')]]</paper-button>
+      </a>
     </div>
 
   </template>

@@ -39,7 +39,8 @@ The instructions below are based on the [Firebase quick start][Firebase quick st
 
 1.  Deploy
 
-        firebase deploy
+        firebase deploy --project 
+
 
     The URL to your live site is listed in the output.
 

@@ -78,7 +78,7 @@
     "url": "https://gdg.us11.list-manage.com/subscribe/post?u=b7e853a79164ddfdbda3ed77b&amp;id=7993e39fbe",
     "name": "b_b7e853a79164ddfdbda3ed77b_7993e39fbe"
   },
-  "partnershipProposition": "http://bit.ly/df16-sponsor",
+  "partnershipProposition": "mailto:devfest@gdgporto.xyz",
   "disqusShortName": "hoverboard-gdg-x",
   "languages": [
     {
@@ -119,9 +119,10 @@
       "links": [
         {
           "text": "partnership-proposition",
-          "url": "http://bit.ly/df16-sponsor",
-          "newTab": true
-        },
+          "url": "mailto:devfest@gdgporto.xyz",
+          "newTab": false
+        }
+      ,
         {
           "text": "media-kit",
           "url": "http://bit.ly/df16-media",
@@ -200,13 +201,13 @@
   "location": {
     "apiKey": "",
     "pointer": {
-      "latitude": 41.162928,
-      "longitude": -8.6568725,
+      "latitude": 41.1778457,
+      "longitude": -8.6081006,
       "zoom": 15
     },
     "mapCenter": {
-      "latitude": 41.162928,
-      "longitude": -8.6568725
+      "latitude": 41.1778457,
+      "longitude": -8.6081006
     },
     "images": [
       "/images/backgrounds/location_1.jpg",
