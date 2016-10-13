@@ -140,7 +140,7 @@
     ]
   },
   "tickets": {
-    "url": "alert('Tickets will be available soon! Stay tuned.')",
+    "url": "javascript:alert('Tickets will be available soon! Stay tuned.')",
     "elements": [
       {
         "name": "student-ticket",
