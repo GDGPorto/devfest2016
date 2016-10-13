@@ -1,4 +1,4 @@
-GDG Porto is proud to announce the second annual GDG DevFest 2016 which is the biggest Google related event in Portugal carefully crafted by GDG community! The event will take place on **19 of November** in **Porto**.
+GDG Porto is proud to announce the second annual GDG DevFest 2016 which is the biggest Google related event in Portugal carefully crafted by GDG community! The event will take place on **December 3rd** in **Porto**.
 
 ### What to expect
 

@@ -1,8 +1,8 @@
-GDG DevFest Porto 2016 has been announced! The 2th edition of the biggest conference about Google technologies in Portugal will take on **November 19**.
+GDG DevFest Porto 2016 has been announced! The 2th edition of the biggest conference about Google technologies in Portugal will take on **December 3rd**.
 
 That means that it is time to open [call for talk submissions](https://goo.gl/forms/NpjzukH1qzcK9ehh1). If you are passionate about your work and want to share your experience with the biggest tech audience in Portugal, you knocked on the right door.
 
-**Last year DevFest broke all expectations** of the audience, speakers, and even our ones. 
+**Last year DevFest broke all expectations** of the audience, speakers, and even our ones.
 
 
 To keep up this year, we decided to focus on the content. **We’re looking for speakers like you**, who are ready to rock the stage and deliver the best talk or workshop in the field.
@@ -59,7 +59,7 @@ Our team prepared set of interesting topics in but if you have any cool idea you
 * Kubernetes
 
 #### Anything else!
-* If you thing it's interesting to share, **send it**. 
+* If you thing it's interesting to share, **send it**.
 
 <br/>
 
