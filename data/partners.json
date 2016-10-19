@@ -2,16 +2,7 @@
   {
     "title": "general-partner",
     "logos": [
-      {
-        "name": "ISEP",
-        "url": "http://www.isep.ipp.pt/Home",
-        "logoUrl": "../images/logos/ISEP.png"
-      },
-      {
-        "name": "AE ISEP",
-        "url": "http://aeisep.pt/site/",
-        "logoUrl": "../images/logos/aeISEP.png"
-      },
+
       {
         "name": "Google",
         "url": "https://www.google.com.ua/intl/en/about/",
