@@ -90,6 +90,13 @@
 
   <script>
 
+    try{
+      if(window.location.pathname && window.location.pathname.indexOf("sponsorshipkit.pdf")){
+        window.location.replace("https://goo.gl/sNB76w");
+      }
+    }catch (e){
+
+    }
 
     window.HOVERBOARD = window.HOVERBOARD || {};
     window.ENV = 'prod';
