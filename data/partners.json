@@ -4,6 +4,11 @@
     "logos": [
 
       {
+        "name": "alumniei",
+        "url": "http://alumniei.fe.up.pt/",
+        "logoUrl": "../images/logos/alumniei.png"
+      },
+      {
         "name": "Google",
         "url": "https://www.google.com.ua/intl/en/about/",
         "logoUrl": "../images/logos/google.svg"

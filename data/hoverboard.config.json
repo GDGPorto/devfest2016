@@ -201,13 +201,13 @@
   "location": {
     "apiKey": "",
     "pointer": {
-      "latitude": 41.162928,
-      "longitude": -8.6568725,
-      "zoom": 15
+      "latitude": 41.1782164,
+      "longitude": -8.5957738,
+      "zoom": 17
     },
     "mapCenter": {
-      "latitude": 41.162928,
-      "longitude": -8.6568725
+      "latitude": 41.1782164,
+      "longitude": -8.5957738
     },
     "images": [
       "/images/backgrounds/location_1.jpg",
