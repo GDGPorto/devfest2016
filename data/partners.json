@@ -1,22 +1,32 @@
 [
   {
-    "title": "general-partner",
+    "title": "gold-sponsors",
     "logos": [
-
       {
-        "name": "alumniei",
-        "url": "http://alumniei.fe.up.pt/",
-        "logoUrl": "../images/logos/alumniei.png"
-      },
+        "name": "i2S",
+        "url": "http://www.i2s.pt/index/",
+        "logoUrl": "../images/logos/i2s.png"
+      }
+    ]
+  },
+  {
+    "title": "with-support-of",
+    "logos": [
       {
         "name": "Google",
         "url": "https://www.google.com.ua/intl/en/about/",
         "logoUrl": "../images/logos/google.svg"
       },
       {
-        "name": "GDG[x]",
-        "url": "https://github.com/gdg-x",
-        "logoUrl": "../images/logos/gdg-x.svg"
+        "name": "Last2Ticket",
+        "url": "https://www.last2ticket.com/",
+        "logoUrl": "../images/logos/last2ticket.png"
+      },
+
+      {
+        "name": "alumniei",
+        "url": "http://alumniei.fe.up.pt/",
+        "logoUrl": "../images/logos/alumniei.png"
       }
     ]
   }
