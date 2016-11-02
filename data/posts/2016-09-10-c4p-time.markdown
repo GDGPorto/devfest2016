@@ -64,11 +64,11 @@ Our team prepared set of interesting topics in but if you have any cool idea you
 * Kubernetes
 
 #### Anything else!
-* If you thing it's interesting to share, **send it**.
+* If you think it's interesting to share, **send it**.
 
 <br/>
 
-**Call for Papers will stay open until November 5th, 2016.** Don’t miss out :)
+**Call for Papers will stay open until November 15th, 2016.** Don’t miss out :)
 
 <div class="text-center">
 <a href="https://goo.gl/forms/NpjzukH1qzcK9ehh1" target="_blank" class="style-scope header-content" style="color: white; ">
@@ -77,7 +77,7 @@ Our team prepared set of interesting topics in but if you have any cool idea you
 </div>
 <br/>
 
-**Please note:** There is no guarantee that a submission will be put onto the conference agenda! The program committee picks the most interesting talk proposals and informs the selected submitters until November 10th, 2016.
+**Please note:** There is no guarantee that a submission will be put onto the conference agenda! The program committee picks the most interesting talk proposals and informs the selected submitters until November 20th, 2016.
 
 Any questions? Email organizers at [devfest@gdgporto.xyz](mailto:devfest@gdgporto.xyz)
 
