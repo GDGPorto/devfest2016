@@ -37,6 +37,13 @@
         font-size: 0.9em;
       }
 
+      .detailsajuda {
+        margin: 10px auto 0;
+        font-size: 17px;
+        color: white;
+        max-width: 600px;
+      }
+
       .details {
         margin: 10px auto 0;
         font-size: 14px;
@@ -75,18 +82,18 @@
             type="[[localize(ticket.name)]]"
             price="[[ticket.price]]"
             currency="[[ticket.currency]]"
-            starts="[[localize(ticket.starts)]]"
-            ends="[[localize(ticket.ends)]]"
+            headline="[[localize(ticket.headline)]]"
             info="[[localize(ticket.info)]]"
             sold-out="[[ticket.soldOut]]"
             sold-out-text="[[localize('sold-out-tickets')]]"
           ></ticket-element>
         </template>
       </div>
+      <div class="detailsajuda">[[localize('tickets-ajuda-details')]]</div>
       <div class="details">[[localize('tickets-details')]]</div>
-      <!--<a href$="[[app.data.tickets.url]]" target="_blank" on-tap="_trackBuyClick">
+      <a href$="[[app.data.tickets.url]]" target="_blank" on-tap="_trackBuyClick">
         <paper-button class="buy-button" raised>[[localize('buy-ticket')]]</paper-button>
-      </a>-->
+      </a>
     </div>
 
   </template>

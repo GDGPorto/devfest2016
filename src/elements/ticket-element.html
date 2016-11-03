@@ -17,7 +17,7 @@
         @apply(--layout-justified);
         @apply(--shadow-elevation-2dp);
         @apply(--shadow-transition);
-        --ticket-color: #fff;
+        --ticket-color: #e0b240;
         --background-color: var(--default-primary-color);
 
         background: var(--ticket-color);
@@ -98,12 +98,12 @@
 
       .dates {
         font-size: 16px;
-        color: var(--secondary-text-color);
+        color: var(--primary-text-color);
       }
 
       .additional-info {
         font-size: 12px;
-        color: var(--disabled-text-color);
+        color: var(--secondary-text-color);
       }
 
       .overlay {
@@ -130,7 +130,7 @@
         <div class="divider">
           <iron-icon icon="icons:star"></iron-icon>
         </div>
-        <div class="dates">[[starts]] - [[ends]]</div>
+        <div class="dates">[[headline]]</div>
         <template is="dom-if" if="[[info]]">
           <div class="additional-info">[[info]]</div>
         </template>
@@ -167,11 +167,7 @@
             type: String
           },
 
-          starts: {
-            type: String
-          },
-
-          ends: {
+          headline: {
             type: String
           },
 

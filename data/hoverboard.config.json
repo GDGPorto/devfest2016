@@ -75,7 +75,7 @@
   ],
   "url": "https://hoverboard.firebaseapp.com/",
   "mailchimp": {
-    "url": "https://gdg.us11.list-manage.com/subscribe/post?u=b7e853a79164ddfdbda3ed77b&amp;id=7993e39fbe",
+    "url": "https://mc.us11.list-manage.com/subscribe/post?u=aeeb2cfabeff9252e9729f5c9&amp;id=d62591b2ad",
     "name": "b_b7e853a79164ddfdbda3ed77b_7993e39fbe"
   },
   "partnershipProposition": "mailto:devfest@gdgporto.xyz",
@@ -140,15 +140,22 @@
     ]
   },
   "tickets": {
-    "url": "javascript:alert('Tickets will be available soon! Stay tuned.')",
+    "url": "http://www2.last2ticket.com/pt/events/45/gdg-devfest-porto-2016",
     "elements": [
       {
-        "name": "student-ticket",
+        "name": "ajuda-ticket",
         "price": 10,
         "currency": "€",
-        "starts": "student-ticket-starts",
-        "ends": "student-ticket-ends",
-        "info": "student-ticket-info",
+        "headline": "ajuda-ticket-headline",
+        "info": "ajuda-ticket-info",
+        "soldOut": false
+      },
+      {
+        "name": "normal-ticket",
+        "price": 10,
+        "currency": "€",
+        "headline": "normal-ticket-headline",
+        "info": "normal-ticket-info",
         "soldOut": false
       }
     ]
@@ -157,7 +164,7 @@
   "teamPageText": "team-page-text",
   "statistics": [
     {
-      "counter": 200,
+      "counter": 180,
       "caption": "attendees"
     },
     {
