@@ -10,6 +10,16 @@
     ]
   },
   {
+    "title": "bronze-sponsors",
+    "logos": [
+      {
+        "name": "Critical Manufactoring",
+        "url": "http://www.criticalmanufacturing.com/",
+        "logoUrl": "../images/logos/critical.png"
+      }
+    ]
+  },
+  {
     "title": "with-support-of",
     "logos": [
       {
