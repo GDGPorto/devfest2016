@@ -39,5 +39,15 @@
         "logoUrl": "../images/logos/alumniei.png"
       }
     ]
+  },
+  {
+    "title": "media-partner",
+    "logos": [
+      {
+        "name": "Aberto até de Madrugada",
+        "url": "https://www.abertoatedemadrugada.com",
+        "logoUrl": "../images/logos/aberto.png"
+      }
+    ]
   }
 ]
