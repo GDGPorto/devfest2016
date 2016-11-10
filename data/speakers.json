@@ -1,20 +1,43 @@
 {
     "1": {
-        "id": 1,
-        "featured": "true",
-        "name": "To be announced",
-        "photoUrl": "/images/people/tobeconfirmed.png",
-        "shortBio": "To be announced...",
-        "tags": [
-            "Soon",
-            "Available"
-        ],
-        "badges": [
-
-        ],
-        "socials": [
-
-        ]
+      "id": 1,
+      "featured": "true",
+      "name": "Sascha Wolter",
+      "title": "Senior Developer Evangelist Connected Home",
+      "company": "Deutsche Telekom AG - Group Innovation+ | Freelancer",
+      "country": "Munich and Dusseldorf, Germany",
+      "photoUrl": "/images/people/sascha_wolter.jpg",
+      "shortBio": "UX enthusiast with passion for the IoT. Board member of the Usability & User Experience committee at the federal association BITKOM.",
+      "bio": "Sascha Wolter is a professional developer and user experience enthusiast with passion for the Internet of Things in all flavors. He also works as a consultant, trainer, lecturer, keynote-speaker, and author who focusses on understanding, innovation and value. Sascha is the founder of the User Group flashforum.de with more than 100,000 members, and as such he is committed to the interests of the user. After organizing internationally renowned events like beyond tellerrand from 2001 to 2011, he is now board member of the Usability & User Experience committee at the federal association BITKOM. When he is not tinkering with new soft- and hardware for Deutsche Telekom AG \u2013 Connected Home, he likes discovering the world together with his kids in an odd way.",
+      "tags": [
+        "Web",
+        "IoT",
+        "Smart Home"
+      ],
+      "badges": [
+        {
+          "name": "GDE",
+          "description": "Google Developer Expert for IoT",
+          "link": "https://developers.google.com/experts/people/sascha-wolter"
+        }
+      ],
+      "socials": [
+        {
+          "icon": "website",
+          "name": "Website",
+          "link": "http://www.wolter.biz"
+        },
+        {
+          "icon": "twitter",
+          "name": "Twitter",
+          "link": "http://twitter.com/saschawolter"
+        },
+        {
+          "icon": "linkedin",
+          "name": "LinkedIn",
+          "link": "http://www.linkedin.com/pub/sascha-wolter/5/a38/493"
+        }
+      ]
     },
     "2": {
         "id": 2,
