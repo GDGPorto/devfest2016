@@ -10,12 +10,27 @@
     ]
   },
   {
+    "title": "silver-sponsors",
+    "logos": [
+      {
+        "name": "Blip",
+        "url": "http://www.blip.pt",
+        "logoUrl": "../images/logos/blip.png"
+      }
+    ]
+  },
+  {
     "title": "bronze-sponsors",
     "logos": [
       {
         "name": "Critical Manufactoring",
         "url": "http://www.criticalmanufacturing.com/",
         "logoUrl": "../images/logos/critical.png"
+      },
+      {
+        "name": "Mindera",
+        "url": "http://www.mindera.com",
+        "logoUrl": "../images/logos/mindera.png"
       }
     ]
   },
