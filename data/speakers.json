@@ -1,7 +1,7 @@
 {
     "1": {
       "id": 1,
-      "featured": "true",
+      "featured": true,
       "name": "Sascha Wolter",
       "title": "Senior Developer Evangelist Connected Home",
       "company": "Deutsche Telekom AG - Group Innovation+ | Freelancer",
@@ -41,7 +41,7 @@
     },
     "2": {
       "id": 2,
-      "featured": "true",
+      "featured": true,
       "name": "Marco Perestrelo",
       "title": "Head of Product Development",
       "company": "i2S",
@@ -66,7 +66,7 @@
     },
   "3": {
       "id": 3,
-      "featured": "true",
+      "featured": true,
       "name": "Manuel Ribeiro",
       "title": "Business Analyst Manager",
       "company": "i2S",
@@ -91,24 +91,33 @@
     },
     "4": {
         "id": 4,
-        "featured": "true",
-        "name": "To be announced",
-        "photoUrl": "/images/people/tobeconfirmed.png",
-        "shortBio": "To be announced...",
+        "featured": true,
+        "name": "Ben Lee",
+        "photoUrl": "/images/people/benlee.jpg",
+      "title": "Software Engineer",
+      "company": "Palantir",
+      "country": "London, UK",
+      "shortBio": "Software engineer at Palantir Technologies. Interested in user experience, design and what makes people click (buttons).",
+      "bio": "Software engineer at Palantir Technologies. Interested in user experience, design and what makes people click (buttons).",
         "tags": [
-            "Soon",
-            "Available"
+          "Typescript",
+          "React",
+          "Blueprint"
         ],
         "badges": [
 
         ],
         "socials": [
-
+          {
+            "icon": "linkedin",
+            "name": "LinkedIn",
+            "link": "https://uk.linkedin.com/in/benjaminyplee"
+          }
         ]
     },
     "5": {
         "id": 5,
-        "featured": "false",
+        "featured": false,
         "name": "To be announced",
         "photoUrl": "/images/people/tobeconfirmed.png",
         "shortBio": "To be announced...",
@@ -125,7 +134,7 @@
     },
     "6": {
         "id": 6,
-        "featured": "false",
+        "featured": false,
         "name": "To be announced",
         "photoUrl": "/images/people/tobeconfirmed.png",
         "shortBio": "To be announced...",
@@ -142,7 +151,7 @@
     },
     "7": {
         "id": 7,
-        "featured": "false",
+        "featured": false,
         "name": "To be announced",
         "photoUrl": "/images/people/tobeconfirmed.png",
         "shortBio": "To be announced...",
@@ -159,7 +168,7 @@
     },
     "8": {
         "id": 8,
-        "featured": "false",
+        "featured": false,
         "name": "To be announced",
         "photoUrl": "/images/people/tobeconfirmed.png",
         "shortBio": "To be announced...",
@@ -176,7 +185,7 @@
     },
     "9": {
         "id": 9,
-        "featured": "false",
+        "featured": false,
         "name": "To be announced",
         "photoUrl": "/images/people/tobeconfirmed.png",
         "shortBio": "To be announced...",

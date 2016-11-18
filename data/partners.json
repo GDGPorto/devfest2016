@@ -11,6 +11,11 @@
         "name": "WIT",
         "url": "https://www.wit-software.com",
         "logoUrl": "../images/logos/wit.png"
+      },
+      {
+        "name": "Palantir",
+        "url": "https://www.palantir.com/",
+        "logoUrl": "../images/logos/palantir.png"
       }
     ]
   },

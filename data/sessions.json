@@ -147,15 +147,17 @@
     },
     "105": {
         "id": 105,
-        "title": "Intro to TensorFlow",
-        "description": "TBD",
+        "title": "Typescript 101",
+        "description": "The purpose of this talk is to provide an introduction to typescript. Initially this talk was about “functional typescript” but most folks showing really wanted to know more about typescript, not the functional aspect of it. So this talk aims at giving an introduction to the syntax, and how you can incrementally transform your coding style from pure javascript to typescript. \nIn the end you’ll take home how to setup a typescript build pipeline, how these interact with react and blueprint, we will look at the transpilation and how code and structure a typescript project (including good practices and linting).",
         "speakers": [
-            9
+            4
         ],
         "language": "English",
         "complexity": "Intermediate",
         "tags": [
-            "Cloud"
+          "Typescript",
+          "React",
+          "Blueprint"
         ]
     },
     "104": {
