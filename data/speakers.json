@@ -187,20 +187,26 @@
     },
     "7": {
         "id": 7,
-        "featured": false,
-        "name": "To be announced",
-        "photoUrl": "/images/people/tobeconfirmed.png",
-        "shortBio": "To be announced...",
-        "tags": [
-            "Soon",
-            "Available"
-        ],
-        "badges": [
-
-        ],
-        "socials": [
-
-        ]
+        "featured": true,
+        "name": "José Santos",
+      "photoUrl": "/images/people/jose.jpg",
+      "title": "Head of development",
+      "company": "Jumia Travel",
+      "country": "Porto, Portugal",
+      "shortBio": "José Santos is leading development at Jumia Travel, the leading travelling company in Africa. ",
+      "bio": "José Santos is leading development at Jumia Travel, the leading travelling company in Africa. In 2016 Jumia Travel re-think the way we deliver applications across sub saharan africa, where connection are mostly 2G and data consumption is very expensive. José is leading teams of developers to build advance mobile web applications using the progressive web apps experiences with the App toolbox from Polymer and AMP.",
+      "tags": [
+        "Web", "Polymer", "AMP", "Go"
+      ],
+      "badges": [
+      ],
+      "socials": [
+        {
+          "icon": "linkedin",
+          "name": "LinkedIn",
+          "link": "https://www.linkedin.com/in/jos%C3%A9-santos-a9752240"
+        }
+      ]
     },
     "8": {
         "id": 8,

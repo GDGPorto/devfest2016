@@ -108,10 +108,10 @@
     },
     "108": {
         "id": 108,
-        "title": "New Data Architecture in Angular 2",
-        "description": "Angular 2 introduces a new Data Architecture based on Reactive Programming using RxJS 5. We are really excited to see the new approach using Observable sequences aka Observables. We will cover a basic introduction of Angular 2 followed by RxJS 5 and the new HTTP API covering some basic use cases.",
+        "title": "Instant loading and great User Experience with PWA & AMP",
+        "description": "Jumia Travel is the travel division of Jumia group, the African largest e-commerce website. As the African market is characterised by slow networks, performance has been one of the main priority of Jumia Travel to improve conversion.\nBy combining Polymer and PWA technologies, Jumia Travel has been able to reduce the Avg. page load time of 60% on slow networks, reduce data usage by 30% and deliver an app-like experience to their users. Jumia Travel also managed to lower the first page load time, typical pain point of Progressive Web Apps, by using AMP landing pages that asynchronously side-load the PWA.",
         "speakers": [
-            9
+            7
         ],
         "language": "English",
         "complexity": "Intermediate",
@@ -121,15 +121,16 @@
     },
     "107": {
         "id": 107,
-        "title": "Introduction to Progressive Web Apps in Angular 2",
-        "description": "There's been much discussion about Progressive Web Apps. They're still a relatively new model. In this talk, I'll summarise few options and techniques for getting started with your own Progressive Web App",
+        "title": "Realm or: How I learned to stop worrying and love my app database",
+        "description": "Using sql in mobile apps suck... is not nice. It makes us generate tons of boilerplate and it's slow to develop. We will talk about Realm, a new database engine (not an ORM!) for mobile that helps us to speed up our development process and suits better for mobile needs, I've been using almost from first release and I never came back to SQL. I will not only explain how it works, but also how I use it and how to avoid some common pitfalls when you start with Realm.",
         "speakers": [
-            9
+            6
         ],
         "language": "English",
         "complexity": "Beginner",
         "tags": [
-            "Web"
+            "Realm",
+          "Android"
         ]
     },
     "106": {
@@ -206,15 +207,16 @@
     },
     "170": {
         "id": 170,
-        "title": "Workshop2 - To be announced",
-        "description": "Available soon",
+        "title": "It's the Arts! Playing with android canvas",
+        "description": "Many Android developers do not know the Canvas object or how to use the painting process. We will discuss about this process and see how to perform effects and views using the Canvas with some practical examples. Good knowledge of the Canvas and the drawing techniques could help us to do better applications and views with some spectacular effects in a few lines. (We will also vandalise some art in the workshop, just for the fun)",
         "speakers": [
-            9
+            6
         ],
         "language": "English",
-        "complexity": "Beginner",
+        "complexity": "Intermediate",
         "tags": [
-            "Android"
+            "Android",
+          "Canvas"
         ]
     },
     "101": {
