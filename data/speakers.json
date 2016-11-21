@@ -45,13 +45,14 @@
       "name": "Marco Perestrelo",
       "title": "Head of Product Development",
       "company": "i2S",
-      "country": "Portugal",
+      "companyLogo": "/images/logos/i2s.png",
+      "country": "Porto, Portugal",
       "photoUrl": "/images/people/marco.jpg",
       "shortBio": "Marco is the Head of Product Development at i2S. He has more than 20 years experience in IT and almost 10 years experience in insurance as the CIO of an insurance company (pre-financial melt-down) and for an insurance broker, part of the Sonae Group.",
       "bio": "Marco is the Head of Product Development at i2S. You can say he’s a big fish around here, but better not tell him because he likes to think of himself as an agile deer. He has more than 20 years’ experience in IT and almost 10 years´ experience in insurance (would you now call it Insurtech?) as the CIO of an insurance company (pre-financial melt-down) and for an insurance broker, part of the Sonae Group.  That totals more than 30 years which is really strange since he’s only 29 years old. So is he some kind of insurance magician or just lying about his age? We’re not sure but we dare you to find out. Before insurance Marco worked for a beer company, but once he quit drinking, he moved to insurance because he through it would be safe and boring. Was he wrong?",
       "tags": [
-        "Android Auto",
-        "Android"
+        "Android",
+        "Android Auto"
       ],
       "badges": [
 
@@ -69,8 +70,9 @@
       "featured": true,
       "name": "Manuel Ribeiro",
       "title": "Business Analyst Manager",
+      "companyLogo": "/images/logos/i2s.png",
       "company": "i2S",
-      "country": "Portugal",
+      "country": "Porto, Portugal",
       "shortBio": " Behind Manuel Ribeiro's nice smile lies a lean mean insurtech machine with more than 20 years i2S knowledge.",
       "bio": "Don’t let yourself be fooled. Behind Manuel Ribeiro's nice smile lies a lean mean insurtech machine with more than 20 years i2S knowledge. And if you're keen on fast learners and interesting people please make sure to get to know him. He started off as a developer, making his way to the team that internationalized i2S core solutions. In a nut shell, you can say he was the playmaker. A real number 10. Afterwards, he gave himself away to the challenges of implementing i2S’s Non Life solution, (don’t worry, by Non Life we’re not talking about dead people. Attend our presentation and you’ll get it) taking part in several international projects. Nowadays, he’s one of i2S’s top experts in our Non Life insurance software. That’s how just important he is. When he passes everyone just makes a vow  and whispers:  \"there goes Manuel, the guy who holds the key for us to make the quantic leap in Non Life insurance software\". Just kidding. We don’t truly whisper that. We say it out loud. Cross our hearts and hope to die (no pun intended).",
       "photoUrl": "/images/people/manuel.jpg",
@@ -96,11 +98,13 @@
         "photoUrl": "/images/people/benlee.jpg",
       "title": "Software Engineer",
       "company": "Palantir",
+      "companyLogo": "/images/logos/palantir.png",
       "country": "London, UK",
       "shortBio": "Software engineer at Palantir Technologies. Interested in user experience, design and what makes people click (buttons).",
       "bio": "Software engineer at Palantir Technologies. Interested in user experience, design and what makes people click (buttons).",
         "tags": [
           "Typescript",
+          "Web",
           "React",
           "Blueprint"
         ],
@@ -115,39 +119,71 @@
           }
         ]
     },
-    "5": {
-        "id": 5,
-        "featured": false,
-        "name": "To be announced",
-        "photoUrl": "/images/people/tobeconfirmed.png",
-        "shortBio": "To be announced...",
-        "tags": [
-            "Soon",
-            "Available"
-        ],
-        "badges": [
+  "5": {
+    "id": 5,
+    "featured": true,
+    "name": "Mário Cordeiro",
+    "photoUrl": "/images/people/mario.webp",
+    "title": "Software Engineer",
+    "company": "Universidade do Porto",
+    "companyLogo": "/images/logos/critical.png",
+    "country": "Porto, Portugal",
+    "shortBio": "Mário Cordeiro is Software Engineer at Critical Manufacturing and a PhD student in the Doctoral Program in Informatics Engineering at Porto University.",
+    "bio": "Mário Cordeiro is Software Engineer at Critical Manufacturing and a PhD student in the Doctoral Program in Informatics Engineering at Porto University. He is currently researching Event detection in social network data streams, a cross domain research topic in the areas of Social network analysis, Natural Language Processing and Data Stream Mining. Co-organizer of the Data Science Portugal community.",
+    "tags": [
+      "Cloud",
+      "TensorFlow",
+      "Machine Learning"
+    ],
+    "badges": [
 
-        ],
-        "socials": [
-
-        ]
-    },
+    ],
+    "socials": [
+      {
+        "icon": "twitter",
+        "name": "Twitter",
+        "link": "https://twitter.com/mmfcordeiro"
+      },
+      {
+        "icon": "linkedin",
+        "name": "LinkedIn",
+        "link": "https://www.linkedin.com/in/mariocordeiro"
+      }
+    ]
+  },
     "6": {
         "id": 6,
-        "featured": false,
-        "name": "To be announced",
-        "photoUrl": "/images/people/tobeconfirmed.png",
-        "shortBio": "To be announced...",
-        "tags": [
-            "Soon",
-            "Available"
-        ],
-        "badges": [
-
-        ],
-        "socials": [
-
-        ]
+        "featured": true,
+        "name": "Sergi Martínez",
+      "photoUrl": "/images/people/sergi.webp",
+      "title": "Android Developer",
+      "company": "Schibsted Spain",
+      "country": "Barcelona, Spain",
+      "shortBio": "Working as Android dev at Schibsted and Google Developer Expert for Android. He loves to share, teach, discuss, learn with the community",
+      "bio": "Working as Android dev at Schibsted and Google Developer Expert for Android. He loves to share, teach, discuss, learn with the community",
+      "tags": [
+        "Android",
+        "Realm"
+      ],
+      "badges": [
+        {
+          "name": "GDE",
+          "description": "Google Developer Expert for Android",
+          "link": "https://developers.google.com/experts/people/sergi-martinez"
+        }
+      ],
+      "socials": [
+        {
+          "icon": "twitter",
+          "name": "Twitter",
+          "link": "https://twitter.com/Sergiandreplace"
+        },
+        {
+          "icon": "gplus",
+          "name": "Google+",
+          "link": "plus.google.com/Sergiandreplace"
+        }
+      ]
     },
     "7": {
         "id": 7,

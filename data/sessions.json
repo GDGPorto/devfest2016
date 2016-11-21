@@ -7,14 +7,14 @@
     },
     "139": {
         "id": 139,
-        "title": "Keynote",
-        "description": "",
-        "language": "English"
+        "title": "Feedback, Prizes & Giveaways",
+      "description": "Wait for it because it's worth it",
+      "image": "/images/backgrounds/opening.jpg"
     },
     "138": {
         "id": 138,
-        "title": "Conference closing and contest winners announcements",
-        "description": "Make sure you won't miss closing ceremony, all gifts from out sponsors and partners will find their owners during this session.",
+        "title": "Conference closing and final group photo",
+        "description": "Make sure you won't miss closing ceremony. After the gifts, the group photo is what stays to remember in the future!",
         "image": "/images/backgrounds/closing.jpg"
     },
     "137": {
@@ -134,15 +134,17 @@
     },
     "106": {
         "id": 106,
-        "title": "Fuelio. Success story",
-        "description": "Fuelio. Success story (I'll write more info later)",
+        "title": "Dive deep into machine learning with TensorFlow",
+        "description": "Dive deep into machine learning with TensorFlow is a high-level introduction to the TensorFlow library, architecture and API. Originally developed at Google for the purposes of conducting machine-learning and deep neural networks research, TensorFlow leverages a general computational model that is applicable in a wide variety of other domains, especially for performing large-scale numerical computations on large data. This talk explains you how to use the library to train machine-learning models and make your next application smarter.",
         "speakers": [
-            9
+            5
         ],
         "language": "English",
-        "complexity": "Beginner",
+        "complexity": "Intermediate",
         "tags": [
-            "Android"
+          "Cloud",
+          "TensorFlow",
+          "Machine Learning"
         ]
     },
     "105": {
@@ -156,6 +158,7 @@
         "complexity": "Intermediate",
         "tags": [
           "Typescript",
+          "Web",
           "React",
           "Blueprint"
         ]
@@ -189,7 +192,7 @@
     },
     "102": {
         "id": 102,
-        "title": "Workshop - To be announced",
+        "title": "Workshop1 - To be announced",
         "description": "Available soon",
         "speakers": [
             9
@@ -197,7 +200,21 @@
         "language": "English",
         "complexity": "Beginner",
         "tags": [
-            "Cloud"
+            "Cloud",
+            "TensorFlow"
+        ]
+    },
+    "170": {
+        "id": 170,
+        "title": "Workshop2 - To be announced",
+        "description": "Available soon",
+        "speakers": [
+            9
+        ],
+        "language": "English",
+        "complexity": "Beginner",
+        "tags": [
+            "Android"
         ]
     },
     "101": {
