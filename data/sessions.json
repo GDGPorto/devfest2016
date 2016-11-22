@@ -195,8 +195,8 @@
     },
     "102": {
         "id": 102,
-        "title": "Tensorflow Codelab",
-        "description": "Have you ever used Tensorflow? If not, you should... Mário will be giving this workshop to follow you through a Tensor Flow Codelab where you can see Machine learning working on your laptop. Then you have everything you need to go home and start playing with it.",
+        "title": "TensorFlow Codelab",
+        "description": "Have you ever used TensorFlow? If not, you should try it... Mário Cordeiro will be giving this workshop to follow you through a TensorFlow Codelab where you can see Machine Learning working on your laptop. After this you have everything you need to go home and start playing with it.",
         "speakers": [
             5
         ],
