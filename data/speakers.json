@@ -210,6 +210,31 @@
     },
     "8": {
         "id": 8,
+        "featured": true,
+        "name": "Nelson Sachse",
+      "photoUrl": "/images/people/nelson.jpg",
+      "title": "Head of development",
+      "company": "Ustwo",
+      "country": "London, UK",
+      "shortBio": "Nelson is a technologist that created digital solutions – with special focus in the Android ecosystem – for well establish brands as Universal, Societe Generale, Swisscom.",
+      "bio": "Nelson is a technologist that created digital solutions – with special focus in the Android ecosystem – for well establish brands as Universal, Societe Generale, Swisscom. He also presented for Denmark internet week last year, lead a workshop in the London South Bank University and co-created a series of events around edTech called tEchDU. www.techdu.org",
+      "tags": [
+        "Android",
+        "Firebase",
+        "Testing"
+      ],
+      "badges": [
+      ],
+      "socials": [
+        {
+          "icon": "twitter",
+          "name": "Twitter",
+          "link": "https://twitter.com/SachseInTheCity"
+        }
+      ]
+    },
+    "9": {
+        "id": 9,
         "featured": false,
         "name": "To be announced",
         "photoUrl": "/images/people/tobeconfirmed.png",
@@ -225,8 +250,8 @@
 
         ]
     },
-    "9": {
-        "id": 9,
+    "10": {
+        "id": 10,
         "featured": false,
         "name": "To be announced",
         "photoUrl": "/images/people/tobeconfirmed.png",

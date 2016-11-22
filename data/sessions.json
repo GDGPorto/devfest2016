@@ -95,15 +95,17 @@
     },
     "109": {
         "id": 109,
-        "title": "How much money Firebase can save you",
-        "description": "TBD",
+        "title": "Ustwo's Android strategy for CI and Firebase testing.",
+        "description": "Use continuous integration in your Android project to apply tests in physical devices with one single commit.",
         "speakers": [
-            9
+            8
         ],
         "language": "English",
-        "complexity": "Beginner",
+        "complexity": "Intermediate",
         "tags": [
-            "Cloud"
+          "Android",
+          "Firebase",
+          "Testing"
         ]
     },
     "108": {
@@ -193,16 +195,17 @@
     },
     "102": {
         "id": 102,
-        "title": "Workshop1 - To be announced",
-        "description": "Available soon",
+        "title": "Tensorflow Codelab",
+        "description": "Have you ever used Tensorflow? If not, you should... Mário will be giving this workshop to follow you through a Tensor Flow Codelab where you can see Machine learning working on your laptop. Then you have everything you need to go home and start playing with it.",
         "speakers": [
-            9
+            5
         ],
         "language": "English",
         "complexity": "Beginner",
         "tags": [
-            "Cloud",
-            "TensorFlow"
+          "TensorFlow",
+          "Cloud",
+          "Machine Learning"
         ]
     },
     "170": {
