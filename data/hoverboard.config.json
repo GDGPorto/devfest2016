@@ -140,7 +140,7 @@
     ]
   },
   "tickets": {
-    "url": "http://www2.last2ticket.com/pt/events/45/gdg-devfest-porto-2016",
+    "url": "https://goo.gl/forms/C8CqTfe5MXWnE94W2",
     "elements": [
       {
         "name": "ajuda-ticket",
@@ -148,7 +148,7 @@
         "currency": "€",
         "headline": "ajuda-ticket-headline",
         "info": "ajuda-ticket-info",
-        "soldOut": false
+        "soldOut": true
       },
       {
         "name": "normal-ticket",
@@ -156,7 +156,7 @@
         "currency": "€",
         "headline": "normal-ticket-headline",
         "info": "normal-ticket-info",
-        "soldOut": false
+        "soldOut": true
       }
     ]
   },
