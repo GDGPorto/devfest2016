@@ -59,7 +59,7 @@
         "title": "",
         "description": "",
         "speakers": [
-            10
+            12
         ],
         "language": "English",
         "complexity": "Intermediate",
@@ -72,7 +72,7 @@
         "title": "",
         "description": "",
         "speakers": [
-            10
+            12
         ],
         "language": "English",
         "complexity": "Intermediate",
@@ -114,7 +114,7 @@
         "title": "Instant loading and great User Experience with PWA & AMP",
         "description": "Jumia Travel is the travel division of Jumia group, the African largest e-commerce website. As the African market is characterised by slow networks, performance has been one of the main priority of Jumia Travel to improve conversion.\nBy combining Polymer and PWA technologies, Jumia Travel has been able to reduce the Avg. page load time of 60% on slow networks, reduce data usage by 30% and deliver an app-like experience to their users. Jumia Travel also managed to lower the first page load time, typical pain point of Progressive Web Apps, by using AMP landing pages that asynchronously side-load the PWA.",
         "speakers": [
-            7
+            7,10
         ],
         "language": "English",
         "complexity": "Intermediate",
@@ -186,7 +186,7 @@
         "title": "To be announced",
         "description": "Available soon",
         "speakers": [
-            10
+            12
         ],
         "language": "English",
         "complexity": "Intermediate",

@@ -259,8 +259,44 @@
         }
       ]
     },
-    "10": {
-        "id": 10,
+  "10": {
+    "id": 10,
+    "featured": false,
+    "name": "André Maia",
+    "title":"Product Owner",
+    "country": "Porto, Portugal",
+    "photoUrl": "/images/people/andremaia.jpg",
+    "shortBio": "André Maia is Product Owner at Jumia Travel, the leading travelling company in Africa. He has more than 15 years of experience on IT. He loves working on Agile environments. His main objective is to build amazing products and work with great people!",
+    "bio": "André Maia is Product Owner at Jumia Travel, the leading travelling company in Africa. He has more than 15 years of experience on IT. He loves working on Agile environments. His main objective is to build amazing products and work with great people!",
+    "tags": [
+      "Progressive Web Apps", "Polymer", "AMP"
+    ],
+    "badges": [
+
+    ],
+    "socials": [
+
+    ]
+  },
+    "11": {
+        "id": 11,
+        "featured": false,
+        "name": "To be announced",
+        "photoUrl": "/images/people/tobeconfirmed.png",
+        "shortBio": "To be announced...",
+        "tags": [
+            "Soon",
+            "Available"
+        ],
+        "badges": [
+
+        ],
+        "socials": [
+
+        ]
+    },
+    "12": {
+        "id": 12,
         "featured": false,
         "name": "To be announced",
         "photoUrl": "/images/people/tobeconfirmed.png",

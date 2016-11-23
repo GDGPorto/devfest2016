@@ -72,6 +72,11 @@
         "name": "Aberto até de Madrugada",
         "url": "https://www.abertoatedemadrugada.com",
         "logoUrl": "../images/logos/aberto.png"
+      },
+      {
+        "name": "Porto i/o",
+        "url": "http://porto.io/",
+        "logoUrl": "../images/logos/portoio.png"
       }
     ]
   }
