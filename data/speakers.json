@@ -236,19 +236,28 @@
     "9": {
         "id": 9,
         "featured": false,
-        "name": "To be announced",
-        "photoUrl": "/images/people/tobeconfirmed.png",
-        "shortBio": "To be announced...",
-        "tags": [
-            "Soon",
-            "Available"
-        ],
-        "badges": [
-
-        ],
-        "socials": [
-
-        ]
+        "name": "Ricardo Loureiro",
+      "photoUrl": "/images/people/rjlouro.jpg",
+      "title": "Head of development",
+      "company": "Cashyt SA",
+      "country": "Coimbra, Portugal",
+      "shortBio": "Ricardo is the Scrum Master at Cashyt where he manages a group of 22 developers creating a new social game for mobile platforms.",
+      "bio": "Ricardo is the Scrum Master at Cashyt where he manages a group of 22 developers creating a new social game for mobile platforms. He has a vast experience in Quality Assurance, specially Test Automation, and he also was responsible for CMMI appraisal at WIT Software. He has too many hobbies to list but classic cars is on the top of the list.",
+      "tags": [
+        "Cloud",
+        "Google Cloud Platform",
+        "Quality Assurance",
+        "Agile Development"
+      ],
+      "badges": [
+      ],
+      "socials": [
+        {
+          "icon": "gplus",
+          "name": "Google+",
+          "link": "https://plus.google.com/+RJLouro"
+        }
+      ]
     },
     "10": {
         "id": 10,

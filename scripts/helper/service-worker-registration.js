@@ -23,6 +23,23 @@ HOVERBOARD.ServiceWorkerRegistration = (function () {
   var URL = 'service-worker.js';
   var SCOPE = './';
 
+  var unregister = function () {
+    if (!isAlreadyRegistered) {
+      isAlreadyRegistered = true;
+
+      if ('serviceWorker' in navigator) {
+        navigator.serviceWorker.register(URL, {
+          scope: SCOPE
+        }).then(function (registration) {
+          registration.unregister().then(
+            function (e) {
+              console.log("unregistered:",e)
+            }
+          );
+        })
+      }
+    }
+  };
   var register = function () {
     if (!isAlreadyRegistered) {
       isAlreadyRegistered = true;
@@ -83,6 +100,7 @@ HOVERBOARD.ServiceWorkerRegistration = (function () {
 
   return {
     register: register,
+    unregister: unregister,
     URL: URL,
     SCOPE:SCOPE
   };
