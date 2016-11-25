@@ -41,6 +41,11 @@
         "name": "Mindera",
         "url": "http://www.mindera.com",
         "logoUrl": "../images/logos/mindera.png"
+      },
+      {
+        "name": "WeTek",
+        "url": "http://wetek.com/",
+        "logoUrl": "../images/logos/wetek.jpg"
       }
     ]
   },

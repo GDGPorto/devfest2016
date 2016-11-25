@@ -278,23 +278,29 @@
 
     ]
   },
-    "11": {
-        "id": 11,
-        "featured": false,
-        "name": "To be announced",
-        "photoUrl": "/images/people/tobeconfirmed.png",
-        "shortBio": "To be announced...",
-        "tags": [
-            "Soon",
-            "Available"
-        ],
-        "badges": [
-
-        ],
-        "socials": [
-
-        ]
-    },
+  "11": {
+    "id": 11,
+    "featured": false,
+    "name": "Diogo Júnior",
+    "photoUrl": "/images/people/diogo.jpg",
+    "title": "Lead Android Developer",
+    "company": "7 Graus",
+    "country": "Porto, Portugal",
+    "shortBio": "Diogo is an engineer from FEUP that started working at Fraunhofer Portugal as scientist where he coordinated/managed/developed some national and european projects and oriented also some students during their thesis.",
+    "bio": "So, \"basically\" and \"mainly\" I'm an engineer from FEUP that started working at Fraunhofer Portugal as scientist where I coordinated/managed/developed some national and european projects and oriented also some students during their thesis. Then I left the \"science\" world and joined an international e-commerce company(Porto Tech Center) that is supported by the German giant Rocket Internet. During one year I helped the tech team evolving the used technologies/coding standards/ platforms/services, etc related with the Android app Kaymu https://play.google.com/store/apps/details?id=com.kaymumarket.android Then I was looking for new challenges and new and more responsibilities and I joined 7graus where I'm currently the unique Lead Android - Full Stack Dev - ASO Expert.",
+    "tags": [
+      "Android", "Firebase", "Fabric",  "Appfolow"
+    ],
+    "badges": [
+    ],
+    "socials": [
+      {
+        "icon": "twitter",
+        "name": "Twitter",
+        "link": "https://twitter.com/drjunior"
+      }
+    ]
+  },
     "12": {
         "id": 12,
         "featured": false,

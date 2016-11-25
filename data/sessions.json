@@ -69,15 +69,15 @@
     },
     "111": {
         "id": 111,
-        "title": "",
-        "description": "",
+        "title": "ASO - App Store Optimization",
+        "description": "You just published unintentionally an app that has a button that after clicked transfer 5 Euros from your account to the user's bank account on the app/play store. Do you need to worry?! Noooooo! No one will find it! :) \n This talk will explain what is ASO and how can it be optmized, as well as the tools and platforms to use.",
         "speakers": [
-            12
+            11
         ],
-        "language": "English",
+        "language": "Portuguese",
         "complexity": "Intermediate",
         "tags": [
-            "Android"
+          "Android", "Firebase", "Fabric",  "Appfolow"
         ]
     },
     "110": {
@@ -191,7 +191,7 @@
         "language": "English",
         "complexity": "Intermediate",
         "tags": [
-            "Android"
+            "Web"
         ]
     },
     "102": {
