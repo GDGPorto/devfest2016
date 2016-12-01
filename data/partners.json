@@ -67,6 +67,11 @@
         "name": "alumniei",
         "url": "http://alumniei.fe.up.pt/",
         "logoUrl": "../images/logos/alumniei.png"
+      },
+      {
+        "name": "infiniteBook",
+        "url": "http://www.infinitebook.pt/",
+        "logoUrl": "../images/logos/infinitebook.png"
       }
     ]
   },

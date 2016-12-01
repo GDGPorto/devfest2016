@@ -238,6 +238,7 @@
         "featured": false,
         "name": "Ricardo Loureiro",
       "photoUrl": "/images/people/rjlouro.jpg",
+      "companyLogo": "/images/logos/wit.png",
       "title": "Head of development",
       "company": "Cashyt SA",
       "country": "Coimbra, Portugal",
@@ -301,21 +302,33 @@
       }
     ]
   },
-    "12": {
-        "id": 12,
-        "featured": false,
-        "name": "To be announced",
-        "photoUrl": "/images/people/tobeconfirmed.png",
-        "shortBio": "To be announced...",
-        "tags": [
-            "Soon",
-            "Available"
-        ],
-        "badges": [
-
-        ],
-        "socials": [
-
-        ]
-    }
+  "12": {
+    "id": 12,
+    "featured": false,
+    "name": "Vasco Santos",
+    "photoUrl": "/images/people/vasco.jpg",
+    "title": "Java Sourcerer",
+    "company": "Mindera",
+    "companyLogo": "/images/logos/mindera.png",
+    "country": "Porto, Portugal",
+    "shortBio": "Vasco is a Java developer at Mindera, changing a monolith architecture into a micro service architecture.",
+    "bio": "Vasco is a Java developer at Mindera, changing a monolith architecture into a micro service architecture. He's still under the radar for the community, but well known in the projects that he works for, always mentoring and promoting best practices, whether it's code related or just related with the big picture. Previously he worked in Lisbon as an expendable resource in some obscure companies.",
+    "tags": [
+      "Cloud", "Java", "Scala", "Docker", "Kubernetes"
+    ],
+    "badges": [
+    ],
+    "socials": [
+      {
+        "icon": "github",
+        "name": "GitHub",
+        "link": "https://github.com/jvosantos"
+      },
+      {
+        "icon": "linkedin",
+        "name": "LinkedIn",
+        "link": "https://linkedin.com/in/jvosantos"
+      }
+    ]
+  }
 }

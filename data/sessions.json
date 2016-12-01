@@ -56,15 +56,15 @@
     },
     "112": {
         "id": 112,
-        "title": "",
-        "description": "",
+        "title": "Stuff that eases microservices development and what not",
+        "description": "Are you taking the appropriate steps to ease the development and other stuff such as integration, discovery, management, support on your micro service architecture approach? As more and more micro services you build, the flaws in the architecture become increasingly apparent. Are you using service discovery? Do you control your load balancers? Does configuration changes require a new deploy of the service? If not it's probably about time you start doing these. In here you will be shown how to start applying these concepts in practice to simplify a lot of your work.",
         "speakers": [
             12
         ],
         "language": "English",
         "complexity": "Intermediate",
         "tags": [
-            "Web"
+          "Cloud", "Docker", "Kubernetes"
         ]
     },
     "111": {
