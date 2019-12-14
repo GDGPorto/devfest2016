@@ -2,15 +2,21 @@
   "database": {
     "rules": "database.rules.json"
   },
+  "firestore": {
+    "rules": "firestore.rules",
+    "indexes": "firestore.indexes.json"
+  },
   "hosting": {
-    "public": "build/bundled",
-    "cleanUrls": true,
-    "rewrites": [
-      {
-        "source": "**",
-        "destination": "/index.html"
-      }
-    ],
+    "public": "./build",
+    "redirects": [{
+      "source": "/index.html",
+      "destination": "/",
+      "type" : 301
+    }],
+    "rewrites": [{
+      "source": "**",
+      "function": "prerender"
+    }],
     "ignore": [
       "/test/**",
       "bower.json",
@@ -20,59 +26,32 @@
     ],
     "headers": [
       {
-        "source": "**/*.@(css|js|json|txt|xml|markdown|pdf)",
+        "source": "**",
         "headers": [
           {
-            "key": "Cache-Control",
-            "value": "max-age=0, no-cache"
-          }
-        ]
-      },
-      {
-        "source": "**/*.@(gif|jpg|jpeg|png|svg|webp)",
-        "headers": [
+            "key": "X-Content-Type-Options",
+            "value": "nosniff"
+          },
           {
-            "key": "Cache-Control",
-            "value": "max-age=315360000"
-          }
-        ]
-      },
-      {
-        "source": "**/404.html",
-        "headers": [
+            "key": "X-Frame-Options",
+            "value": "DENY"
+          },
           {
-            "key": "Cache-Control",
-            "value": "max-age=300"
-          }
-        ]
-      },
-      {
-        "source": "**/humans.txt",
-        "headers": [
+            "key": "X-XSS-Protection",
+            "value": "1; mode=block"
+          },
           {
-            "key": "Cache-Control",
-            "value": "max-age=300"
-          }
-        ]
-      },
-      {
-        "source": "**/*.html",
-        "headers": [
-          {
-            "key": "Cache-Control",
-            "value": "max-age=0, no-cache"
-          }
-        ]
-      },
-      {
-        "source": "**/robots.txt",
-        "headers": [
-          {
-            "key": "Cache-Control",
-            "value": "max-age=300"
+            "key": "Referrer-Policy",
+            "value": "same-origin"
           }
         ]
       }
+    ]
+  },
+  "functions": {
+    "predeploy": [
+      "npm run predeploy",
+      "npm --prefix ./functions run build"
     ]
   }
 }
