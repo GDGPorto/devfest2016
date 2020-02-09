@@ -80,11 +80,12 @@
           </div>
       </template>
 
-      <paper-button class="cta-button animated icon-right"
-        on-tap="_addPotentialPartner">
-        <span>{$ partnersBlock.button $}</span>
-        <iron-icon icon="hoverboard:arrow-right-circle"></iron-icon>
-      </paper-button>
+      <a target="_blank" href="mailto:{$ partnersBlock.email $}">
+        <paper-button class="cta-button animated icon-right" >
+          <span>{$ partnersBlock.button $}</span>
+          <iron-icon icon="hoverboard:arrow-right-circle"></iron-icon>
+        </paper-button>
+      </a>
     </div>
 
   </template>

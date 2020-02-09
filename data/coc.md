@@ -33,10 +33,6 @@ This policy is based on and influenced by several other community policies inclu
 
 ### Report incident
 
-To report an incident look for a staff member by badge/attire or contact our incident response team below:
+To report an incident look for a staff member by badge/attire or contact our team below:
 {% for contact in codeOfConductBlock.contacts %}
 - {$ contact $}{% endfor %}
-
-#### Anonymous report
-
-You can make an anonymous report [here]({$ codeOfConductBlock.form $}). We can't follow up with you directly, but we will fully investigate it and take whatever action is necessary to prevent a recurrence.
