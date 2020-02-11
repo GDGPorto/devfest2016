@@ -133,19 +133,19 @@
     "statisticsBlock": {
       "attendees": {
         "label": "Attendees",
-        "number": "300+"
+        "number": "350+"
       },
       "days": {
-        "label": "Day",
-        "number": "1"
+        "label": "Workshops",
+        "number": "2+"
       },
       "sessions": {
         "label": "Sessions",
-        "number": "10+"
+        "number": "20+"
       },
       "tracks": {
         "label": "Tracks",
-        "number": "2"
+        "number": "3"
       }
     }
   },

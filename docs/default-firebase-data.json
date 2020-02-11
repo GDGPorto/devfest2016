@@ -47,19 +47,19 @@
     }
   },
   "gallery" : [
-    "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fgallery%2Fimg_4185.jpg?alt=media&token=ff3fd161-3d68-401a-90cd-74b90bd2a4d8",
-    "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fgallery%2Fimg_4411.jpg?alt=media&token=7fda0d66-a631-4816-bd85-b93ef49ed3a6",
-    "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fgallery%2Fimg_4577.jpg?alt=media&token=f14205b5-be75-447c-8bca-73a15ca2df41",
-    "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fgallery%2Fimg_4525.jpg?alt=media&token=0428f0e3-fda0-4119-8249-69f98e936ce5",
-    "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fgallery%2Fimg_4611.jpg?alt=media&token=b080143c-161c-4d9f-96f3-ebb6bdcdfd95",
-    "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fgallery%2Fimg_4720.jpg?alt=media&token=75de0c2d-8bd9-48bb-9117-1349c9bc381f",
-    "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fgallery%2Fimg_4646.jpg?alt=media&token=eafb0320-6f21-47bc-8ba4-8eec708f2076",
-    "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fgallery%2Fimg_5294.jpg?alt=media&token=72ab5141-d21b-4e71-a58b-faa2b00d1d02"
+    "https://firebasestorage.googleapis.com/v0/b/devfest19-20.appspot.com/o/gallery%2FIMG_0010.jpg?alt=media&token=d199c844-6ab0-4e7d-9d6e-e61a3d07c343",
+    "https://firebasestorage.googleapis.com/v0/b/devfest19-20.appspot.com/o/gallery%2FIMG_20190126_093728.jpg?alt=media&token=4b2b8856-6072-4c50-89a9-2038ad04cf27",
+    "https://firebasestorage.googleapis.com/v0/b/devfest19-20.appspot.com/o/gallery%2FIMG_20190126_113932.jpg?alt=media&token=fd9e1f5b-ab6d-4b05-af2b-ed50375f4acd",
+    "https://firebasestorage.googleapis.com/v0/b/devfest19-20.appspot.com/o/gallery%2FIMG_20190126_122022.jpg?alt=media&token=c620a700-ca07-408d-bd14-fe44140b6956",
+    "https://firebasestorage.googleapis.com/v0/b/devfest19-20.appspot.com/o/gallery%2FIMG_20190126_152227.jpg?alt=media&token=867d3214-13ec-4fd5-b71a-6dc69389066a",
+    "https://firebasestorage.googleapis.com/v0/b/devfest19-20.appspot.com/o/gallery%2FIMG_9734.jpg?alt=media&token=5cb31181-531d-4663-ba40-46c831656525",
+    "https://firebasestorage.googleapis.com/v0/b/devfest19-20.appspot.com/o/gallery%2FIMG_9739.jpg?alt=media&token=a50a7697-fb4b-4437-81da-c067c6b2793f",
+    "https://firebasestorage.googleapis.com/v0/b/devfest19-20.appspot.com/o/gallery%2FIMG_9915.jpg?alt=media&token=e1888cca-c3a9-4d92-9c85-e0942943df2d"
   ],
   "notifications" : {
     "config" : {
       "icon" : "",
-      "timezone" : "+03:00"
+      "timezone" : "+00:00"
     },
     "messages" : { },
     "subscribers" : { },
@@ -136,223 +136,213 @@
     "title" : "General Partner"
   } ],
   "schedule" : {
-    "2016-09-09" : {
-      "dateReadable" : "September 9",
+    "2020-04-04" : {
+      "dateReadable" : "April 4",
       "timeslots" : [ {
-        "endTime" : "10:00",
         "sessions" : [ {
-          "items" : [ 132 ]
+          "items" : [ 90 ]
         } ],
-        "startTime" : "09:00"
+        "startTime" : "09:00",
+        "endTime" : "09:30"
       }, {
-        "endTime" : "10:15",
         "sessions" : [ {
-          "items" : [ 136 ]
+          "items" : [ 91 ]
         } ],
-        "startTime" : "10:00"
+        "startTime" : "09:30",
+        "endTime" : "09:40"
       }, {
-        "endTime" : "11:00",
         "sessions" : [ {
-          "items" : [ 139 ]
+          "items" : [ 100 ]
         } ],
-        "startTime" : "10:15"
+        "startTime" : "09:40",
+        "endTime" : "10:00"
       }, {
-        "endTime" : "11:40",
         "sessions" : [ {
-          "items" : [ 103, 112 ]
-        }, {
-          "items" : [ 120 ]
-        }, {
-          "extend" : 3,
-          "items" : [ 109 ]
+          "items" : [ 99 ]
         } ],
-        "startTime" : "11:00"
+        "startTime" : "10:00",
+        "endTime" : "10:05"
       }, {
-        "endTime" : "12:30",
-        "sessions" : [ {
-          "items" : [ 129 ]
-        }, {
-          "items" : [ 116 ]
-        } ],
-        "startTime" : "11:50"
-      }, {
-        "endTime" : "14:00",
-        "sessions" : [ {
-          "items" : [ 133 ]
-        } ],
-        "startTime" : "12:30"
-      }, {
-        "endTime" : "14:40",
         "sessions" : [ {
           "items" : [ 101 ]
         }, {
-          "items" : [ 118 ]
+          "items" : [ 102 ]
         }, {
           "extend" : 2,
-          "items" : [ 107 ]
+          "items" : [ 103 ]
         } ],
-        "startTime" : "14:00"
+        "startTime" : "10:05",
+        "endTime" : "10:45"
       }, {
-        "endTime" : "15:30",
-        "sessions" : [ {
-          "items" : [ 140 ]
+        "sessions" : [  {
+          "items" : [ 104 ]
         }, {
-          "items" : [ 126 ]
-        } ],
-        "startTime" : "14:50"
-      }, {
-        "endTime" : "16:00",
-        "sessions" : [ {
-          "items" : [ 134 ]
-        } ],
-        "startTime" : "15:30"
-      }, {
-        "endTime" : "16:40",
-        "sessions" : [ {
           "items" : [ 105 ]
-        }, {
-          "items" : [ 127 ]
-        }, {
-          "extend" : 3,
-          "items" : [ 119 ]
         } ],
-        "startTime" : "16:00"
-      }, {
-        "endTime" : "17:30",
+        "startTime" : "10:45",
+        "endTime" : "11:25"
+      },{
         "sessions" : [ {
-          "items" : [ 112 ]
-        }, {
-          "items" : [ 111 ]
+          "items" : [ 99 ]
         } ],
-        "startTime" : "16:50"
-      }, {
-        "endTime" : "18:20",
+        "startTime" : "11:25",
+        "endTime" : "11:30"
+      },{
         "sessions" : [ {
           "items" : [ 106 ]
         }, {
-          "items" : [ 125 ]
+          "items" : [ 107 ]
+        }, {
+          "extend" : 2,
+          "items" : [ 108 ]
         } ],
-        "startTime" : "17:40"
+        "startTime" : "11:30",
+        "endTime" : "12:10"
       }, {
-        "endTime" : "22:30",
-        "sessions" : [ {
-          "items" : [ 137 ]
+        "sessions" : [  {
+          "items" : [ 109 ]
+        }, {
+          "items" : [ 110 ]
         } ],
-        "startTime" : "18:30"
-      } ],
-      "tracks" : [ {
-        "title" : "Expo hall"
+        "startTime" : "12:10",
+        "endTime" : "12:50"
       }, {
-        "title" : "Conference hall"
-      }, {
-        "title" : "Workshops hall"
-      } ]
-    },
-    "2016-09-10" : {
-      "dateReadable" : "September 10",
-      "timeslots" : [ {
-        "endTime" : "10:10",
         "sessions" : [ {
-          "items" : [ 135 ]
+          "items" : [ 92 ]
         } ],
-        "startTime" : "09:30"
-      }, {
-        "endTime" : "10:50",
+        "startTime" : "12:50",
+        "endTime" : "14:10"
+      },  {
         "sessions" : [ {
+          "items" : [ 111 ]
+        }, {
+          "items" : [ 112 ]
+        }, {
+          "extend" : 2,
+          "items" : [ 113 ]
+        } ],
+        "startTime" : "14:10",
+        "endTime" : "14:50"
+      }, {
+        "sessions" : [  {
           "items" : [ 114 ]
+        }, {
+          "items" : [ 115 ]
+        } ],
+        "startTime" : "14:50",
+        "endTime" : "15:30"
+      },{
+        "sessions" : [ {
+          "items" : [ 99 ]
+        } ],
+        "startTime" : "15:30",
+        "endTime" : "15:35"
+      },{
+        "sessions" : [ {
+          "items" : [ 116 ]
         }, {
           "items" : [ 117 ]
         }, {
-          "items" : [ 121 ]
-        } ],
-        "startTime" : "10:10"
-      }, {
-        "endTime" : "11:40",
-        "sessions" : [ {
-          "items" : [ 122 ]
-        }, {
-          "items" : [ 113 ]
-        }, {
           "extend" : 2,
-          "items" : [ 121 ]
+          "items" : [ 118 ]
         } ],
-        "startTime" : "11:00"
+        "startTime" : "15:35",
+        "endTime" : "16:15"
       }, {
-        "endTime" : "12:30",
+        "sessions" : [  {
+          "items" : [ 119 ]
+        }, {
+          "items" : [ 120 ]
+        } ],
+        "startTime" : "16:15",
+        "endTime" : "16:55"
+      }, {
         "sessions" : [ {
-          "items" : [ 104 ]
+          "items" : [ 93 ]
+        } ],
+        "startTime" : "16:55",
+        "endTime" : "17:15"
+      }, {
+        "sessions" : [ {
+          "items" : [ 121 ]
+        }, {
+          "items" : [ 122 ]
+        } ],
+        "startTime" : "17:15",
+        "endTime" : "17:55"
+      }, {
+        "sessions" : [ {
+          "items" : [ 123 ]
         }, {
           "items" : [ 124 ]
         } ],
-        "startTime" : "11:50"
-      }, {
-        "endTime" : "14:00",
+        "startTime" : "17:55",
+        "endTime" : "18:35"
+      },  {
         "sessions" : [ {
-          "items" : [ 133 ]
+          "items" : [ 94 ]
         } ],
-        "startTime" : "12:30"
-      }, {
-        "endTime" : "14:40",
-        "sessions" : [ {
-          "items" : [ 108 ]
-        }, {
-          "items" : [ 128 ]
-        }, {
-          "extend" : 2,
-          "items" : [ 102 ]
-        } ],
-        "startTime" : "14:00"
-      }, {
-        "endTime" : "15:30",
-        "sessions" : [ {
-          "items" : [ 110 ]
-        }, {
-          "items" : [ 123 ]
-        } ],
-        "startTime" : "14:50"
-      }, {
-        "endTime" : "16:00",
-        "sessions" : [ {
-          "items" : [ 134 ]
-        } ],
-        "startTime" : "15:30"
-      }, {
-        "endTime" : "16:40",
-        "sessions" : [ {
-          "items" : [ 131 ]
-        }, {
-          "items" : [ 140 ]
-        }, {
-          "extend" : 2,
-          "items" : [ 130 ]
-        } ],
-        "startTime" : "16:00"
-      }, {
-        "endTime" : "17:30",
-        "sessions" : [ {
-          "items" : [ 115 ]
-        }, {
-          "items" : [ 140 ]
-        } ],
-        "startTime" : "16:50"
+        "startTime" : "18:35",
+        "endTime" : "18:55"
       } ],
       "tracks" : [ {
-        "title" : "Expo hall"
+        "title" : "Auditório Magno"
       }, {
-        "title" : "Conference hall"
+        "title" : "Auditório H"
       }, {
-        "title" : "Workshops hall"
+        "title" : "Workshops room - 1st floor"
       } ]
     }
   },
   "sessions" : {
+    "90" : {
+      "description" : "Get your badge, coffee, enjoy talking with tech edicts around",
+      "icon" : "registration",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fregistration.jpg?alt=media&token=27328646-d323-4cca-904c-75f021bc3ffe",
+      "title" : "Registration & morning Coffee"
+    },
+    "91" : {
+      "description" : "Official start of the conference. Greetings from the organizers, sponsors and partners.",
+      "icon" : "opening",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fopening.jpg?alt=media&token=aa52dd45-50c9-4e36-9485-c1f9138ecd6b",
+      "language" : "English",
+      "title" : "GDG DevFest Porto Opening"
+    },
+    "92" : {
+      "description" : "Foooooooood!",
+      "icon" : "lunch",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Flunch.jpg?alt=media&token=bc82aaff-92cc-4dcc-a00e-2b6f30a40225",
+      "title" : "Lunch"
+    },
+    "93" : {
+      "description" : "Coffeeeeeee!",
+      "icon" : "coffee-break",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fcoffee-break.jpg?alt=media&token=7c2c929b-cb94-4be8-a05a-b3f678136cb7",
+      "title" : "Coffee break"
+    },
+    "94" : {
+      "description" : "Make sure you won't miss closing ceremony, all gifts from out sponsors and partners will find their owners during this session.",
+      "icon" : "party",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fclosing.jpg?alt=media&token=f02d014a-09ee-407e-88c7-b74093e00fed",
+      "title" : "Conference closing and contest winners announcements"
+    },
+    "99" : {
+      "description" : "You have 5 minutes to move between rooms if you want to be in another session",
+      "divider": true,
+      "title" : "Get a room!"
+    },
+    "100" : {
+      "description" : "",
+      "language" : "English",
+      "title" : "Keynote"
+    },
     "101" : {
       "complexity" : "Beginner",
       "description" : "Coming soon...",
       "language" : "English",
       "presentation" : "",
       "speakers" : [ "speaker1" ],
-      "tags" : [ "Cloud", "Android", "Web"],
+      "tags" : [ "Android"],
       "title" : "Coming soon",
       "videoId" : "qweqwe"
     },
@@ -361,19 +351,19 @@
       "description" : "Coming soon...",
       "language" : "English",
       "presentation" : "",
-      "speakers" : [ "speaker1" ],
-      "tags" : [ "Cloud", "Android", "Web"],
+      "speakers" : [ "speaker2" ],
+      "tags" : [ "Web"],
       "title" : "Coming soon",
       "videoId" : "qweqwe"
     },
     "103" : {
       "complexity" : "Beginner",
-      "description" : "Coming soon...",
+      "description" : "Workshop - Coming soon...",
       "language" : "English",
       "presentation" : "",
-      "speakers" : [ "speaker1" ],
-      "tags" : [ "Cloud", "Android", "Web"],
-      "title" : "Coming soon",
+      "speakers" : [ "speaker3" ],
+      "tags" : [ "Cloud"],
+      "title" : "Workshop - Coming soon",
       "videoId" : "qweqwe"
     },
     "104" : {
@@ -381,8 +371,8 @@
       "description" : "Coming soon...",
       "language" : "English",
       "presentation" : "",
-      "speakers" : [ "speaker1" ],
-      "tags" : [ "Cloud", "Android", "Web"],
+      "speakers" : [ "speaker4" ],
+      "tags" : [ "Android"],
       "title" : "Coming soon",
       "videoId" : "qweqwe"
     },
@@ -391,8 +381,8 @@
       "description" : "Coming soon...",
       "language" : "English",
       "presentation" : "",
-      "speakers" : [ "speaker1" ],
-      "tags" : [ "Cloud", "Android", "Web"],
+      "speakers" : [ "speaker5" ],
+      "tags" : [ "Web"],
       "title" : "Coming soon",
       "videoId" : "qweqwe"
     },
@@ -401,8 +391,8 @@
       "description" : "Coming soon...",
       "language" : "English",
       "presentation" : "",
-      "speakers" : [ "speaker1" ],
-      "tags" : [ "Cloud", "Android", "Web"],
+      "speakers" : [ "speaker6" ],
+      "tags" : [  "Android"],
       "title" : "Coming soon",
       "videoId" : "qweqwe"
     },
@@ -411,19 +401,19 @@
       "description" : "Coming soon...",
       "language" : "English",
       "presentation" : "",
-      "speakers" : [ "speaker1" ],
-      "tags" : [ "Cloud", "Android", "Web"],
+      "speakers" : [ "speaker7" ],
+      "tags" : [ "Web"],
       "title" : "Coming soon",
       "videoId" : "qweqwe"
     },
     "108" : {
       "complexity" : "Beginner",
-      "description" : "Coming soon...",
+      "description" : "Workshop - Coming soon...",
       "language" : "English",
       "presentation" : "",
-      "speakers" : [ "speaker1" ],
-      "tags" : [ "Cloud", "Android", "Web"],
-      "title" : "Coming soon",
+      "speakers" : [ "speaker8" ],
+      "tags" : [ "Cloud"],
+      "title" : "Workshop - Coming soon",
       "videoId" : "qweqwe"
     },
     "109" : {
@@ -431,8 +421,8 @@
       "description" : "Coming soon...",
       "language" : "English",
       "presentation" : "",
-      "speakers" : [ "speaker1" ],
-      "tags" : [ "Cloud", "Android", "Web"],
+      "speakers" : [ "speaker9" ],
+      "tags" : [ "Android"],
       "title" : "Coming soon",
       "videoId" : "qweqwe"
     },
@@ -441,8 +431,8 @@
       "description" : "Coming soon...",
       "language" : "English",
       "presentation" : "",
-      "speakers" : [ "speaker1" ],
-      "tags" : [ "Cloud", "Android", "Web"],
+      "speakers" : [ "speaker10" ],
+      "tags" : [ "Web"],
       "title" : "Coming soon",
       "videoId" : "qweqwe"
     },
@@ -451,8 +441,8 @@
       "description" : "Coming soon...",
       "language" : "English",
       "presentation" : "",
-      "speakers" : [ "speaker1" ],
-      "tags" : [ "Cloud", "Android", "Web"],
+      "speakers" : [ "speaker11" ],
+      "tags" : [ "Android"],
       "title" : "Coming soon",
       "videoId" : "qweqwe"
     },
@@ -461,19 +451,19 @@
       "description" : "Coming soon...",
       "language" : "English",
       "presentation" : "",
-      "speakers" : [ "speaker1" ],
-      "tags" : [ "Cloud", "Android", "Web"],
+      "speakers" : [ "speaker12" ],
+      "tags" : [ "Design"],
       "title" : "Coming soon",
       "videoId" : "qweqwe"
     },
     "113" : {
       "complexity" : "Beginner",
-      "description" : "Coming soon...",
+      "description" : "Workshop - Coming soon...",
       "language" : "English",
       "presentation" : "",
-      "speakers" : [ "speaker1" ],
-      "tags" : [ "Cloud", "Android", "Web"],
-      "title" : "Coming soon",
+      "speakers" : [ "speaker13" ],
+      "tags" : [ "Web"],
+      "title" : "Workshop - Coming soon",
       "videoId" : "qweqwe"
     },
     "114" : {
@@ -481,8 +471,8 @@
       "description" : "Coming soon...",
       "language" : "English",
       "presentation" : "",
-      "speakers" : [ "speaker1" ],
-      "tags" : [ "Cloud", "Android", "Web"],
+      "speakers" : [ "speaker14" ],
+      "tags" : [ "Android"],
       "title" : "Coming soon",
       "videoId" : "qweqwe"
     },
@@ -491,8 +481,8 @@
       "description" : "Coming soon...",
       "language" : "English",
       "presentation" : "",
-      "speakers" : [ "speaker1" ],
-      "tags" : [ "Cloud", "Android", "Web"],
+      "speakers" : [ "speaker15" ],
+      "tags" : [ "Design"],
       "title" : "Coming soon",
       "videoId" : "qweqwe"
     },
@@ -501,8 +491,8 @@
       "description" : "Coming soon...",
       "language" : "English",
       "presentation" : "",
-      "speakers" : [ "speaker1" ],
-      "tags" : [ "Cloud", "Android", "Web"],
+      "speakers" : [ "speaker16" ],
+      "tags" : [ "Web"],
       "title" : "Coming soon",
       "videoId" : "qweqwe"
     },
@@ -511,19 +501,19 @@
       "description" : "Coming soon...",
       "language" : "English",
       "presentation" : "",
-      "speakers" : [ "speaker1" ],
-      "tags" : [ "Cloud", "Android", "Web"],
+      "speakers" : [ "speaker17" ],
+      "tags" : [ "Product Placement"],
       "title" : "Coming soon",
       "videoId" : "qweqwe"
     },
     "118" : {
       "complexity" : "Beginner",
-      "description" : "Coming soon...",
+      "description" : "Workshop - Coming soon...",
       "language" : "English",
       "presentation" : "",
-      "speakers" : [ "speaker1" ],
-      "tags" : [ "Cloud", "Android", "Web"],
-      "title" : "Coming soon",
+      "speakers" : [ "speaker18" ],
+      "tags" : [ "Android"],
+      "title" : "Workshop - Coming soon",
       "videoId" : "qweqwe"
     },
     "119" : {
@@ -531,8 +521,8 @@
       "description" : "Coming soon...",
       "language" : "English",
       "presentation" : "",
-      "speakers" : [ "speaker1" ],
-      "tags" : [ "Cloud", "Android", "Web"],
+      "speakers" : [ "speaker19" ],
+      "tags" : [ "Web"],
       "title" : "Coming soon",
       "videoId" : "qweqwe"
     },
@@ -541,8 +531,8 @@
       "description" : "Coming soon...",
       "language" : "English",
       "presentation" : "",
-      "speakers" : [ "speaker1" ],
-      "tags" : [ "Cloud", "Android", "Web"],
+      "speakers" : [ "speaker20" ],
+      "tags" : [ "Marketing"],
       "title" : "Coming soon",
       "videoId" : "qweqwe"
     },
@@ -551,7 +541,7 @@
       "description" : "Coming soon...",
       "language" : "English",
       "presentation" : "",
-      "speakers" : [ "speaker1" ],
+      "speakers" : [ "speaker21" ],
       "tags" : [ "Cloud", "Android", "Web"],
       "title" : "Coming soon",
       "videoId" : "qweqwe"
@@ -561,7 +551,7 @@
       "description" : "Coming soon...",
       "language" : "English",
       "presentation" : "",
-      "speakers" : [ "speaker1" ],
+      "speakers" : [ "speaker22" ],
       "tags" : [ "Cloud", "Android", "Web"],
       "title" : "Coming soon",
       "videoId" : "qweqwe"
@@ -571,7 +561,7 @@
       "description" : "Coming soon...",
       "language" : "English",
       "presentation" : "",
-      "speakers" : [ "speaker1" ],
+      "speakers" : [ "speaker23" ],
       "tags" : [ "Cloud", "Android", "Web"],
       "title" : "Coming soon",
       "videoId" : "qweqwe"
@@ -581,127 +571,10 @@
       "description" : "Coming soon...",
       "language" : "English",
       "presentation" : "",
-      "speakers" : [ "speaker1" ],
+      "speakers" : [ "speaker24" ],
       "tags" : [ "Cloud", "Android", "Web"],
       "title" : "Coming soon",
       "videoId" : "qweqwe"
-    },
-    "125" : {
-      "complexity" : "Beginner",
-      "description" : "Coming soon...",
-      "language" : "English",
-      "presentation" : "",
-      "speakers" : [ "speaker1" ],
-      "tags" : [ "Cloud", "Android", "Web"],
-      "title" : "Coming soon",
-      "videoId" : "qweqwe"
-    },
-    "126" : {
-      "complexity" : "Beginner",
-      "description" : "Coming soon...",
-      "language" : "English",
-      "presentation" : "",
-      "speakers" : [ "speaker1" ],
-      "tags" : [ "Cloud", "Android", "Web"],
-      "title" : "Coming soon",
-      "videoId" : "qweqwe"
-    },
-    "127" : {
-      "complexity" : "Beginner",
-      "description" : "Coming soon...",
-      "language" : "English",
-      "presentation" : "",
-      "speakers" : [ "speaker1" ],
-      "tags" : [ "Cloud", "Android", "Web"],
-      "title" : "Coming soon",
-      "videoId" : "qweqwe"
-    },
-    "128" : {
-      "complexity" : "Beginner",
-      "description" : "Coming soon...",
-      "language" : "English",
-      "presentation" : "",
-      "speakers" : [ "speaker1" ],
-      "tags" : [ "Cloud", "Android", "Web"],
-      "title" : "Coming soon",
-      "videoId" : "qweqwe"
-    },
-    "129" : {
-      "complexity" : "Beginner",
-      "description" : "Coming soon...",
-      "language" : "English",
-      "presentation" : "",
-      "speakers" : [ "speaker1" ],
-      "tags" : [ "Cloud", "Android", "Web"],
-      "title" : "Coming soon",
-      "videoId" : "qweqwe"
-    },
-    "130" : {
-      "complexity" : "Beginner",
-      "description" : "Coming soon...",
-      "language" : "English",
-      "presentation" : "",
-      "speakers" : [ "speaker1" ],
-      "tags" : [ "Cloud", "Android", "Web"],
-      "title" : "Coming soon",
-      "videoId" : "qweqwe"
-    },
-    "131" : {
-      "complexity" : "Beginner",
-      "description" : "Coming soon...",
-      "language" : "English",
-      "presentation" : "",
-      "speakers" : [ "speaker1" ],
-      "tags" : [ "Cloud", "Android", "Web"],
-      "title" : "Coming soon",
-      "videoId" : "qweqwe"
-    },
-    "132" : {
-      "description" : "Get your badge, coffee, enjoy talking with tech edicts around",
-      "icon" : "registration",
-      "image" : "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fregistration.jpg?alt=media&token=27328646-d323-4cca-904c-75f021bc3ffe",
-      "title" : "Registration & morning Coffee"
-    },
-    "133" : {
-      "description" : "Foooooooood!",
-      "icon" : "lunch",
-      "image" : "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Flunch.jpg?alt=media&token=bc82aaff-92cc-4dcc-a00e-2b6f30a40225",
-      "title" : "Lunch"
-    },
-    "134" : {
-      "description" : "Coffeeeeeee!",
-      "icon" : "coffee-break",
-      "image" : "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fcoffee-break.jpg?alt=media&token=7c2c929b-cb94-4be8-a05a-b3f678136cb7",
-      "title" : "Coffee break"
-    },
-    "135" : {
-      "description" : "Coffeeeeeee!",
-      "icon" : "coffee-break",
-      "image" : "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fmorning.jpg?alt=media&token=d0da3d64-fc63-48c6-9d41-1460451dca64",
-      "title" : "Morning coffee"
-    },
-    "136" : {
-      "description" : "Official start of the conference. Greetings from the organizers, sponsors and partners.",
-      "icon" : "opening",
-      "image" : "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fopening.jpg?alt=media&token=aa52dd45-50c9-4e36-9485-c1f9138ecd6b",
-      "language" : "English",
-      "title" : "GDG DevFest Ukraine 2016 Opening"
-    },
-    "137" : {
-      "description" : "Afterparty is a great time to have some fun and meet new people",
-      "icon" : "party",
-      "image" : "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fparty.jpg?alt=media&token=8e413f01-373a-40bf-bb87-1dcf1d8e6af1",
-      "title" : "Afterparty & Networking"
-    },
-    "138" : {
-      "description" : "Make sure you won't miss closing ceremony, all gifts from out sponsors and partners will find their owners during this session.",
-      "image" : "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fclosing.jpg?alt=media&token=f02d014a-09ee-407e-88c7-b74093e00fed",
-      "title" : "Conference closing and contest winners announcements"
-    },
-    "139" : {
-      "description" : "",
-      "language" : "English",
-      "title" : "Keynote"
     },
     "140" : {
       "description" : "TBD",
@@ -719,7 +592,7 @@
       "featured" : true,
       "name" : "To be Announced",
       "photo" : "/images/people/tobeconfirmed.png",
-      "photoUrl" : "",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfest19-20.appspot.com/o/people%2Ftobeconfirmed.png?alt=media&token=05fe3451-68d4-43cb-9af0-8e66168e0969",
       "pronouns": "he/him",
       "shortBio" : "",
       "socials" : [
@@ -769,7 +642,7 @@
       "featured" : true,
       "name" : "To be Announced",
       "photo" : "/images/people/tobeconfirmed.png",
-      "photoUrl" : "",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfest19-20.appspot.com/o/people%2Ftobeconfirmed.png?alt=media&token=05fe3451-68d4-43cb-9af0-8e66168e0969",
       "pronouns": "he/him",
       "shortBio" : "",
       "socials" : [
@@ -810,7 +683,7 @@
       "featured" : true,
       "name" : "To be Announced",
       "photo" : "/images/people/tobeconfirmed.png",
-      "photoUrl" : "",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfest19-20.appspot.com/o/people%2Ftobeconfirmed.png?alt=media&token=05fe3451-68d4-43cb-9af0-8e66168e0969",
       "pronouns": "he/him",
       "shortBio" : "",
       "socials" : [
@@ -851,7 +724,7 @@
       "featured" : true,
       "name" : "To be Announced",
       "photo" : "/images/people/tobeconfirmed.png",
-      "photoUrl" : "",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfest19-20.appspot.com/o/people%2Ftobeconfirmed.png?alt=media&token=05fe3451-68d4-43cb-9af0-8e66168e0969",
       "pronouns": "he/him",
       "shortBio" : "",
       "socials" : [
@@ -892,7 +765,7 @@
       "featured" : true,
       "name" : "To be Announced",
       "photo" : "/images/people/tobeconfirmed.png",
-      "photoUrl" : "",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfest19-20.appspot.com/o/people%2Ftobeconfirmed.png?alt=media&token=05fe3451-68d4-43cb-9af0-8e66168e0969",
       "pronouns": "he/him",
       "shortBio" : "",
       "socials" : [
@@ -922,9 +795,9 @@
           "link": ""
         } ],
       "order" : 4,
-      "title" : "Senior Android Developer"
+      "title" : ""
     },
-    "david_mayboroda" : {
+    "speaker6" : {
       "bio" : "",
       "company" : "",
       "companyLogo" : "",
@@ -933,7 +806,7 @@
       "featured" : true,
       "name" : "To be Announced",
       "photo" : "/images/people/tobeconfirmed.png",
-      "photoUrl" : "",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfest19-20.appspot.com/o/people%2Ftobeconfirmed.png?alt=media&token=05fe3451-68d4-43cb-9af0-8e66168e0969",
       "pronouns": "he/him",
       "shortBio" : "",
       "socials" : [
@@ -963,9 +836,9 @@
           "link": ""
         } ],
       "order" : 5,
-      "title" : "Android Engineer"
+      "title" : ""
     },
-    "david_vávra" : {
+    "speaker7" : {
       "bio" : "",
       "company" : "",
       "companyLogo" : "",
@@ -974,7 +847,7 @@
       "featured" : true,
       "name" : "To be Announced",
       "photo" : "/images/people/tobeconfirmed.png",
-      "photoUrl" : "",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfest19-20.appspot.com/o/people%2Ftobeconfirmed.png?alt=media&token=05fe3451-68d4-43cb-9af0-8e66168e0969",
       "pronouns": "he/him",
       "shortBio" : "",
       "socials" : [
@@ -1004,9 +877,9 @@
           "link": ""
         } ],
       "order" : 6,
-      "title" : "Founder/CEO/Android Lead"
+      "title" : ""
     },
-    "dmytro_danylyk" : {
+    "speaker8" : {
       "bio" : "",
       "company" : "",
       "companyLogo" : "",
@@ -1015,7 +888,7 @@
       "featured" : true,
       "name" : "To be Announced",
       "photo" : "/images/people/tobeconfirmed.png",
-      "photoUrl" : "",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfest19-20.appspot.com/o/people%2Ftobeconfirmed.png?alt=media&token=05fe3451-68d4-43cb-9af0-8e66168e0969",
       "pronouns": "he/him",
       "shortBio" : "",
       "socials" : [
@@ -1044,19 +917,10 @@
           "name": "Google+",
           "link": ""
         } ],
-      "badges" : [ {
-        "description" : "Android Google Developer Expert",
-        "link" : "https://developers.google.com/experts/",
-        "name" : "gde"
-      }, {
-        "description" : "Google Developers Group",
-        "link" : "https://developers.google.com/groups/chapter//",
-        "name" : "gdg"
-      } ],
       "order" : 7,
-      "title" : "Senior Android Developer"
+      "title" : ""
     },
-    "gerard_sans" : {
+    "speaker9" : {
       "bio" : "",
       "company" : "",
       "companyLogo" : "",
@@ -1065,7 +929,7 @@
       "featured" : true,
       "name" : "To be Announced",
       "photo" : "/images/people/tobeconfirmed.png",
-      "photoUrl" : "",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfest19-20.appspot.com/o/people%2Ftobeconfirmed.png?alt=media&token=05fe3451-68d4-43cb-9af0-8e66168e0969",
       "pronouns": "he/him",
       "shortBio" : "",
       "socials" : [
@@ -1094,19 +958,10 @@
           "name": "Google+",
           "link": ""
         } ],
-      "badges" : [ {
-        "description" : "Android Google Developer Expert",
-        "link" : "https://developers.google.com/experts/",
-        "name" : "gde"
-      }, {
-        "description" : "Google Developers Group",
-        "link" : "https://developers.google.com/groups/chapter//",
-        "name" : "gdg"
-      } ],
       "order" : 8,
-      "title" : "Technical Evangelist"
+      "title" : ""
     },
-    "ihor_dvoretskyi" : {
+    "speaker10" : {
       "bio" : "",
       "company" : "",
       "companyLogo" : "",
@@ -1115,7 +970,7 @@
       "featured" : true,
       "name" : "To be Announced",
       "photo" : "/images/people/tobeconfirmed.png",
-      "photoUrl" : "",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfest19-20.appspot.com/o/people%2Ftobeconfirmed.png?alt=media&token=05fe3451-68d4-43cb-9af0-8e66168e0969",
       "pronouns": "he/him",
       "shortBio" : "",
       "socials" : [
@@ -1144,19 +999,10 @@
           "name": "Google+",
           "link": ""
         } ],
-      "badges" : [ {
-        "description" : "Android Google Developer Expert",
-        "link" : "https://developers.google.com/experts/",
-        "name" : "gde"
-      }, {
-        "description" : "Google Developers Group",
-        "link" : "https://developers.google.com/groups/chapter//",
-        "name" : "gdg"
-      } ],
       "order" : 9,
-      "title" : "Deployment Engineer"
+      "title" : ""
     },
-    "jakub_škvára" : {
+    "speaker11" : {
       "bio" : "",
       "company" : "",
       "companyLogo" : "",
@@ -1165,7 +1011,7 @@
       "featured" : true,
       "name" : "To be Announced",
       "photo" : "/images/people/tobeconfirmed.png",
-      "photoUrl" : "",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfest19-20.appspot.com/o/people%2Ftobeconfirmed.png?alt=media&token=05fe3451-68d4-43cb-9af0-8e66168e0969",
       "pronouns": "he/him",
       "shortBio" : "",
       "socials" : [
@@ -1194,19 +1040,10 @@
           "name": "Google+",
           "link": ""
         } ],
-      "badges" : [ {
-        "description" : "Android Google Developer Expert",
-        "link" : "https://developers.google.com/experts/",
-        "name" : "gde"
-      }, {
-        "description" : "Google Developers Group",
-        "link" : "https://developers.google.com/groups/chapter//",
-        "name" : "gdg"
-      } ],
       "order" : 10,
-      "title" : "Frontend engineer"
+      "title" : ""
     },
-    "jana_moudra" : {
+    "speaker12" : {
       "bio" : "",
       "company" : "",
       "companyLogo" : "",
@@ -1215,7 +1052,7 @@
       "featured" : true,
       "name" : "To be Announced",
       "photo" : "/images/people/tobeconfirmed.png",
-      "photoUrl" : "",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfest19-20.appspot.com/o/people%2Ftobeconfirmed.png?alt=media&token=05fe3451-68d4-43cb-9af0-8e66168e0969",
       "pronouns": "he/him",
       "shortBio" : "",
       "socials" : [
@@ -1244,19 +1081,10 @@
           "name": "Google+",
           "link": ""
         } ],
-      "badges" : [ {
-        "description" : "Android Google Developer Expert",
-        "link" : "https://developers.google.com/experts/",
-        "name" : "gde"
-      }, {
-        "description" : "Google Developers Group",
-        "link" : "https://developers.google.com/groups/chapter//",
-        "name" : "gdg"
-      } ],
       "order" : 11,
-      "title" : "Co-Founder"
+      "title" : ""
     },
-    "jean-baptiste_clion" : {
+    "speaker13" : {
       "bio" : "",
       "company" : "",
       "companyLogo" : "",
@@ -1265,7 +1093,7 @@
       "featured" : true,
       "name" : "To be Announced",
       "photo" : "/images/people/tobeconfirmed.png",
-      "photoUrl" : "",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfest19-20.appspot.com/o/people%2Ftobeconfirmed.png?alt=media&token=05fe3451-68d4-43cb-9af0-8e66168e0969",
       "pronouns": "he/him",
       "shortBio" : "",
       "socials" : [
@@ -1294,19 +1122,10 @@
           "name": "Google+",
           "link": ""
         } ],
-      "badges" : [ {
-        "description" : "Android Google Developer Expert",
-        "link" : "https://developers.google.com/experts/",
-        "name" : "gde"
-      }, {
-        "description" : "Google Developers Group",
-        "link" : "https://developers.google.com/groups/chapter//",
-        "name" : "gdg"
-      } ],
       "order" : 12,
-      "title" : "Founder"
+      "title" : ""
     },
-    "jozef_vodicka" : {
+    "speaker14" : {
       "bio" : "",
       "company" : "",
       "companyLogo" : "",
@@ -1315,7 +1134,7 @@
       "featured" : true,
       "name" : "To be Announced",
       "photo" : "/images/people/tobeconfirmed.png",
-      "photoUrl" : "",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfest19-20.appspot.com/o/people%2Ftobeconfirmed.png?alt=media&token=05fe3451-68d4-43cb-9af0-8e66168e0969",
       "pronouns": "he/him",
       "shortBio" : "",
       "socials" : [
@@ -1344,19 +1163,10 @@
           "name": "Google+",
           "link": ""
         } ],
-      "badges" : [ {
-        "description" : "Android Google Developer Expert",
-        "link" : "https://developers.google.com/experts/",
-        "name" : "gde"
-      }, {
-        "description" : "Google Developers Group",
-        "link" : "https://developers.google.com/groups/chapter//",
-        "name" : "gdg"
-      } ],
       "order" : 13,
-      "title" : "Developer Relations Program Manager"
+      "title" : ""
     },
-    "konrad_dzwinel" : {
+    "speaker15" : {
       "bio" : "",
       "company" : "",
       "companyLogo" : "",
@@ -1365,7 +1175,7 @@
       "featured" : true,
       "name" : "To be Announced",
       "photo" : "/images/people/tobeconfirmed.png",
-      "photoUrl" : "",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfest19-20.appspot.com/o/people%2Ftobeconfirmed.png?alt=media&token=05fe3451-68d4-43cb-9af0-8e66168e0969",
       "pronouns": "he/him",
       "shortBio" : "",
       "socials" : [
@@ -1394,19 +1204,10 @@
           "name": "Google+",
           "link": ""
         } ],
-      "badges" : [ {
-        "description" : "Android Google Developer Expert",
-        "link" : "https://developers.google.com/experts/",
-        "name" : "gde"
-      }, {
-        "description" : "Google Developers Group",
-        "link" : "https://developers.google.com/groups/chapter//",
-        "name" : "gdg"
-      } ],
       "order" : 14,
-      "title" : "Front-End Engineer"
+      "title" : ""
     },
-    "mateusz_herych" : {
+    "speaker16" : {
       "bio" : "",
       "company" : "",
       "companyLogo" : "",
@@ -1415,7 +1216,7 @@
       "featured" : true,
       "name" : "To be Announced",
       "photo" : "/images/people/tobeconfirmed.png",
-      "photoUrl" : "",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfest19-20.appspot.com/o/people%2Ftobeconfirmed.png?alt=media&token=05fe3451-68d4-43cb-9af0-8e66168e0969",
       "pronouns": "he/him",
       "shortBio" : "",
       "socials" : [
@@ -1444,19 +1245,10 @@
           "name": "Google+",
           "link": ""
         } ],
-      "badges" : [ {
-        "description" : "Android Google Developer Expert",
-        "link" : "https://developers.google.com/experts/",
-        "name" : "gde"
-      }, {
-        "description" : "Google Developers Group",
-        "link" : "https://developers.google.com/groups/chapter//",
-        "name" : "gdg"
-      } ],
       "order" : 15,
-      "title" : "Android Tech Lead"
+      "title" : ""
     },
-    "mete_atamel" : {
+    "speaker17" : {
       "bio" : "",
       "company" : "",
       "companyLogo" : "",
@@ -1465,7 +1257,7 @@
       "featured" : true,
       "name" : "To be Announced",
       "photo" : "/images/people/tobeconfirmed.png",
-      "photoUrl" : "",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfest19-20.appspot.com/o/people%2Ftobeconfirmed.png?alt=media&token=05fe3451-68d4-43cb-9af0-8e66168e0969",
       "pronouns": "he/him",
       "shortBio" : "",
       "socials" : [
@@ -1494,19 +1286,10 @@
           "name": "Google+",
           "link": ""
         } ],
-      "badges" : [ {
-        "description" : "Android Google Developer Expert",
-        "link" : "https://developers.google.com/experts/",
-        "name" : "gde"
-      }, {
-        "description" : "Google Developers Group",
-        "link" : "https://developers.google.com/groups/chapter//",
-        "name" : "gdg"
-      } ],
       "order" : 16,
-      "title" : "Developer Advocate"
+      "title" : ""
     },
-    "michael_pustovit" : {
+    "speaker18" : {
       "bio" : "",
       "company" : "",
       "companyLogo" : "",
@@ -1515,7 +1298,7 @@
       "featured" : true,
       "name" : "To be Announced",
       "photo" : "/images/people/tobeconfirmed.png",
-      "photoUrl" : "",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfest19-20.appspot.com/o/people%2Ftobeconfirmed.png?alt=media&token=05fe3451-68d4-43cb-9af0-8e66168e0969",
       "pronouns": "he/him",
       "shortBio" : "",
       "socials" : [
@@ -1544,19 +1327,10 @@
           "name": "Google+",
           "link": ""
         } ],
-      "badges" : [ {
-        "description" : "Android Google Developer Expert",
-        "link" : "https://developers.google.com/experts/",
-        "name" : "gde"
-      }, {
-        "description" : "Google Developers Group",
-        "link" : "https://developers.google.com/groups/chapter//",
-        "name" : "gdg"
-      } ],
       "order" : 17,
-      "title" : "Senior Android Developer"
+      "title" : ""
     },
-    "paul_lammertsma" : {
+    "speaker19" : {
       "bio" : "",
       "company" : "",
       "companyLogo" : "",
@@ -1565,7 +1339,7 @@
       "featured" : true,
       "name" : "To be Announced",
       "photo" : "/images/people/tobeconfirmed.png",
-      "photoUrl" : "",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfest19-20.appspot.com/o/people%2Ftobeconfirmed.png?alt=media&token=05fe3451-68d4-43cb-9af0-8e66168e0969",
       "pronouns": "he/him",
       "shortBio" : "",
       "socials" : [
@@ -1594,19 +1368,10 @@
           "name": "Google+",
           "link": ""
         } ],
-      "badges" : [ {
-        "description" : "Android Google Developer Expert",
-        "link" : "https://developers.google.com/experts/",
-        "name" : "gde"
-      }, {
-        "description" : "Google Developers Group",
-        "link" : "https://developers.google.com/groups/chapter//",
-        "name" : "gdg"
-      } ],
       "order" : 18,
-      "title" : "CTO"
+      "title" : ""
     },
-    "resul_caner__yildirim" : {
+    "speaker20" : {
       "bio" : "",
       "company" : "",
       "companyLogo" : "",
@@ -1615,7 +1380,7 @@
       "featured" : true,
       "name" : "To be Announced",
       "photo" : "/images/people/tobeconfirmed.png",
-      "photoUrl" : "",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfest19-20.appspot.com/o/people%2Ftobeconfirmed.png?alt=media&token=05fe3451-68d4-43cb-9af0-8e66168e0969",
       "pronouns": "he/him",
       "shortBio" : "",
       "socials" : [
@@ -1644,19 +1409,10 @@
           "name": "Google+",
           "link": ""
         } ],
-      "badges" : [ {
-        "description" : "Android Google Developer Expert",
-        "link" : "https://developers.google.com/experts/",
-        "name" : "gde"
-      }, {
-        "description" : "Google Developers Group",
-        "link" : "https://developers.google.com/groups/chapter//",
-        "name" : "gdg"
-      } ],
       "order" : 19,
-      "title" : "User Experience Expert"
+      "title" : ""
     },
-    "roman_herasymenko" : {
+    "speaker21" : {
       "bio" : "",
       "company" : "",
       "companyLogo" : "",
@@ -1665,7 +1421,7 @@
       "featured" : true,
       "name" : "To be Announced",
       "photo" : "/images/people/tobeconfirmed.png",
-      "photoUrl" : "",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfest19-20.appspot.com/o/people%2Ftobeconfirmed.png?alt=media&token=05fe3451-68d4-43cb-9af0-8e66168e0969",
       "pronouns": "he/him",
       "shortBio" : "",
       "socials" : [
@@ -1694,19 +1450,10 @@
           "name": "Google+",
           "link": ""
         } ],
-      "badges" : [ {
-        "description" : "Android Google Developer Expert",
-        "link" : "https://developers.google.com/experts/",
-        "name" : "gde"
-      }, {
-        "description" : "Google Developers Group",
-        "link" : "https://developers.google.com/groups/chapter//",
-        "name" : "gdg"
-      } ],
       "order" : 20,
-      "title" : "CEO"
+      "title" : ""
     },
-    "rustem_arzymbetov" : {
+    "speaker22" : {
       "bio" : "",
       "company" : "",
       "companyLogo" : "",
@@ -1715,7 +1462,7 @@
       "featured" : true,
       "name" : "To be Announced",
       "photo" : "/images/people/tobeconfirmed.png",
-      "photoUrl" : "",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfest19-20.appspot.com/o/people%2Ftobeconfirmed.png?alt=media&token=05fe3451-68d4-43cb-9af0-8e66168e0969",
       "pronouns": "he/him",
       "shortBio" : "",
       "socials" : [
@@ -1744,19 +1491,10 @@
           "name": "Google+",
           "link": ""
         } ],
-      "badges" : [ {
-        "description" : "Android Google Developer Expert",
-        "link" : "https://developers.google.com/experts/",
-        "name" : "gde"
-      }, {
-        "description" : "Google Developers Group",
-        "link" : "https://developers.google.com/groups/chapter//",
-        "name" : "gdg"
-      } ],
       "order" : 21,
-      "title" : "Software Engineer"
+      "title" : ""
     },
-    "sascha_wolter" : {
+    "speaker23" : {
       "bio" : "",
       "company" : "",
       "companyLogo" : "",
@@ -1765,7 +1503,7 @@
       "featured" : true,
       "name" : "To be Announced",
       "photo" : "/images/people/tobeconfirmed.png",
-      "photoUrl" : "",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfest19-20.appspot.com/o/people%2Ftobeconfirmed.png?alt=media&token=05fe3451-68d4-43cb-9af0-8e66168e0969",
       "pronouns": "he/him",
       "shortBio" : "",
       "socials" : [
@@ -1794,19 +1532,10 @@
           "name": "Google+",
           "link": ""
         } ],
-      "badges" : [ {
-        "description" : "Android Google Developer Expert",
-        "link" : "https://developers.google.com/experts/",
-        "name" : "gde"
-      }, {
-        "description" : "Google Developers Group",
-        "link" : "https://developers.google.com/groups/chapter//",
-        "name" : "gdg"
-      } ],
       "order" : 22,
-      "title" : "Senior Developer Evangelist Connected Home"
+      "title" : ""
     },
-    "sergii_khomenko" : {
+    "speaker24" : {
       "bio" : "",
       "company" : "",
       "companyLogo" : "",
@@ -1815,7 +1544,7 @@
       "featured" : true,
       "name" : "To be Announced",
       "photo" : "/images/people/tobeconfirmed.png",
-      "photoUrl" : "",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfest19-20.appspot.com/o/people%2Ftobeconfirmed.png?alt=media&token=05fe3451-68d4-43cb-9af0-8e66168e0969",
       "pronouns": "he/him",
       "shortBio" : "",
       "socials" : [
@@ -1844,167 +1573,8 @@
           "name": "Google+",
           "link": ""
         } ],
-      "badges" : [ {
-        "description" : "Android Google Developer Expert",
-        "link" : "https://developers.google.com/experts/",
-        "name" : "gde"
-      }, {
-        "description" : "Google Developers Group",
-        "link" : "https://developers.google.com/groups/chapter//",
-        "name" : "gdg"
-      } ],
       "order" : 23,
-      "title" : "Data Scientist"
-    },
-    "sergiy_mokienko" : {
-      "bio" : "",
-      "company" : "",
-      "companyLogo" : "",
-      "companyLogoUrl" : "",
-      "country" : "",
-      "featured" : true,
-      "name" : "To be Announced",
-      "photo" : "/images/people/tobeconfirmed.png",
-      "photoUrl" : "",
-      "pronouns": "he/him",
-      "shortBio" : "",
-      "socials" : [
-        {
-          "icon": "website",
-          "name": "Website",
-          "link": ""
-        },
-        {
-          "icon": "linkedin",
-          "name": "LinkedIn",
-          "link": ""
-        },
-        {
-          "icon": "twitter",
-          "name": "Twitter",
-          "link": ""
-        },
-        {
-          "icon": "github",
-          "name": "GitHub",
-          "link": ""
-        },
-        {
-          "icon": "gplus",
-          "name": "Google+",
-          "link": ""
-        } ],
-      "badges" : [ {
-        "description" : "Android Google Developer Expert",
-        "link" : "https://developers.google.com/experts/",
-        "name" : "gde"
-      }, {
-        "description" : "Google Developers Group",
-        "link" : "https://developers.google.com/groups/chapter//",
-        "name" : "gdg"
-      } ],
-      "order" : 24,
-      "title" : "Android Team Lead"
-    },
-    "valentyn_shybanov" : {
-      "bio" : "",
-      "company" : "",
-      "companyLogo" : "",
-      "companyLogoUrl" : "",
-      "country" : "",
-      "featured" : true,
-      "name" : "To be Announced",
-      "photo" : "/images/people/tobeconfirmed.png",
-      "photoUrl" : "",
-      "pronouns": "he/him",
-      "shortBio" : "",
-      "socials" : [
-        {
-          "icon": "website",
-          "name": "Website",
-          "link": ""
-        },
-        {
-          "icon": "linkedin",
-          "name": "LinkedIn",
-          "link": ""
-        },
-        {
-          "icon": "twitter",
-          "name": "Twitter",
-          "link": ""
-        },
-        {
-          "icon": "github",
-          "name": "GitHub",
-          "link": ""
-        },
-        {
-          "icon": "gplus",
-          "name": "Google+",
-          "link": ""
-        } ],
-      "badges" : [ {
-        "description" : "Android Google Developer Expert",
-        "link" : "https://developers.google.com/experts/",
-        "name" : "gde"
-      }, {
-        "description" : "Google Developers Group",
-        "link" : "https://developers.google.com/groups/chapter//",
-        "name" : "gdg"
-      } ],
-      "order" : 25,
-      "title" : "Software Engineer/Country Manager"
-    },
-    "yonatan_levin" : {
-      "bio" : "",
-      "company" : "",
-      "companyLogo" : "",
-      "companyLogoUrl" : "",
-      "country" : "",
-      "featured" : true,
-      "name" : "To be Announced",
-      "photo" : "/images/people/tobeconfirmed.png",
-      "photoUrl" : "",
-      "pronouns": "he/him",
-      "shortBio" : "",
-      "socials" : [
-        {
-          "icon": "website",
-          "name": "Website",
-          "link": ""
-        },
-        {
-          "icon": "linkedin",
-          "name": "LinkedIn",
-          "link": ""
-        },
-        {
-          "icon": "twitter",
-          "name": "Twitter",
-          "link": ""
-        },
-        {
-          "icon": "github",
-          "name": "GitHub",
-          "link": ""
-        },
-        {
-          "icon": "gplus",
-          "name": "Google+",
-          "link": ""
-        } ],
-      "badges" : [ {
-        "description" : "Android Google Developer Expert",
-        "link" : "https://developers.google.com/experts/",
-        "name" : "gde"
-      }, {
-        "description" : "Google Developers Group",
-        "link" : "https://developers.google.com/groups/chapter//",
-        "name" : "gdg"
-      } ],
-      "order" : 26,
-      "title" : "Android Evangelist & Developer"
+      "title" : ""
     }
   },
   "team" : [ {
@@ -2175,10 +1745,20 @@
     "currency" : "€",
     "ends" : "Apr 3",
     "inDemand" : true,
-    "info" : "",
+    "info" : "That normal, simple, regular ticket",
     "name" : "Regular ticket",
-    "price" : 100,
+    "price" : 10,
     "regular" : true,
+    "soldOut" : false,
+    "starts" : "Feb 7",
+    "url" : "https://hello.last2ticket.com/event/2769"
+  }, {
+    "available" : true,
+    "currency" : "€",
+    "ends" : "Apr 3",
+    "info" : "\"I like to help and will donate more to the cause\" ticket",
+    "name" : "Helper ticket",
+    "price" : 15,
     "soldOut" : false,
     "starts" : "Feb 7",
     "url" : "https://hello.last2ticket.com/event/2769"
