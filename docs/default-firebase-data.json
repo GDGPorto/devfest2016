@@ -1768,787 +1768,560 @@
   },
   "videos" : [ {
     "speakers" : "Carlos Mota",
-    "thumbnail" : "https://firebasestorage.googleapis.com/v0/b/hoverboard-firebase.appspot.com/o/images%2Fsessions%2F2017%2FGDG-(65).jpg?alt=media&token=f25f04cf-9a10-42ed-b2ff-e41fad910c39",
+    "thumbnail" : "https://firebasestorage.googleapis.com/v0/b/devfest19-20.appspot.com/o/gallery%2Fcarlosmota_videoThumb.jpg?alt=media&token=b4074967-abe1-4022-9b55-3bc48de0dde9",
     "title" : "Kotlin my way in",
     "youtubeId" : "TvoDRnwMGYQ"
   }, {
     "speakers" : "Sara Vieira",
-    "thumbnail" : "https://firebasestorage.googleapis.com/v0/b/hoverboard-firebase.appspot.com/o/images%2Fsessions%2F2017%2FGDG-(92).jpg?alt=media&token=0dfc3002-6d6e-4e9f-8518-5941fc501a04",
+    "thumbnail" : "https://firebasestorage.googleapis.com/v0/b/devfest19-20.appspot.com/o/gallery%2Fsaravieira_videoThumb.jpg?alt=media&token=3ffabb8f-c999-4208-adeb-9ed7d19a20fc",
     "title" : "I have 99 problems but GraphQL is not one",
     "youtubeId" : "Sn7u1EpLdwg"
   }, {
     "speakers" : "Sam Bellen",
-    "thumbnail" : "https://firebasestorage.googleapis.com/v0/b/hoverboard-firebase.appspot.com/o/images%2Fsessions%2F2017%2FGDG-(173).jpg?alt=media&token=779549b7-6578-4092-9e32-7785fff270c5",
+    "thumbnail" : "https://firebasestorage.googleapis.com/v0/b/devfest19-20.appspot.com/o/gallery%2Fsambellen_videoThumb.jpg?alt=media&token=3b80cd40-6f29-4967-b3bd-5c9cf5399bae",
     "title" : "Passwords are so 1990",
     "youtubeId" : "PEgqE8MvSEU"
   }, {
     "speakers" : "Alex Barlow",
-    "thumbnail" : "https://firebasestorage.googleapis.com/v0/b/hoverboard-firebase.appspot.com/o/images%2Fsessions%2F2017%2FGDG-(186).jpg?alt=media&token=54b241f6-b1d4-4357-b5a3-05e00ed55814",
+    "thumbnail" : "https://firebasestorage.googleapis.com/v0/b/devfest19-20.appspot.com/o/gallery%2Falexbarlow_videoThumb.jpg?alt=media&token=4912bacc-1da8-4f4d-867b-f9ca15e60120",
     "title" : "Microservices in the real world",
     "youtubeId" : "6ZLaw5IU8f8"
   }, {
     "speakers" : "João Teixeira",
-    "thumbnail" : "https://firebasestorage.googleapis.com/v0/b/hoverboard-firebase.appspot.com/o/images%2Fsessions%2F2017%2FGDG-(238).jpg?alt=media&token=805c0d09-95ed-4d8b-8b87-85f3c4c5f427",
+    "thumbnail" : "https://firebasestorage.googleapis.com/v0/b/devfest19-20.appspot.com/o/gallery%2Fjoaoteixeira_videoThumb.jpg?alt=media&token=ce2aed93-e073-4245-bf57-217f6985e4dd",
     "title" : "Designers want to destroy the world",
     "youtubeId" : "zTHPnzuqfc8"
   } ],
   "previousSpeakers": {
-    "adrian_kajda" : {
-      "bio" : "Creator of Fuelio app. Fuelio was his hooby project started in 2012. Three years later the app was aquired by Sygic.",
-      "company" : "Sygic",
-      "companyLogo" : "https://dfua16.firebaseapp.com//images/logos/sygic.svg",
-      "country" : "Poland",
-      "id" : "adrian_kajda",
-      "name" : "Adrian Kajda",
-      "order" : 6,
-      "photoUrl" : "https://dfua16.firebaseapp.com//images/people/adrian_kajda.jpg",
-      "sessions" : {
-        "2016" : [ {
-          "presentation" : "https://speakerdeck.com/gdglviv/adrian-kajda-fuelio-success-story",
-          "tags" : [ "Android" ],
-          "title" : "Fuelio. Success story",
-          "videoId" : "qK7ysoohsaM"
-        } ]
+
+    "sascha_wolter": {
+      "id": "sascha_wolter",
+      "name": "Sascha Wolter",
+      "country": "Munich and Dusseldorf, Germany",
+      "photoUrl": "/images/people/sascha_wolter.jpg",
+      "title": "Senior Developer Evangelist Connected Home",
+      "company": "Deutsche Telekom AG - Group Innovation+ | Freelancer",
+      "bio": "Sascha Wolter is a professional developer and user experience enthusiast with passion for the Internet of Things in all flavors. He also works as a consultant, trainer, lecturer, keynote-speaker, and author who focusses on understanding, innovation and value. Sascha is the founder of the User Group flashforum.de with more than 100,000 members, and as such he is committed to the interests of the user. After organizing internationally renowned events like beyond tellerrand from 2001 to 2011, he is now board member of the Usability & User Experience committee at the federal association BITKOM. When he is not tinkering with new soft- and hardware for Deutsche Telekom AG \u2013 Connected Home, he likes discovering the world together with his kids in an odd way.",
+      "shortBio": "UX enthusiast with passion for the IoT. Board member of the Usability & User Experience committee at the federal association BITKOM.",
+      "tags": [
+        "Web",
+        "IoT",
+        "Smart Home"
+      ],
+      "badges": [
+        {
+          "name": "GDE",
+          "description": "Google Developer Expert for IoT",
+          "link": "https://developers.google.com/experts/people/sascha-wolter"
+        }
+      ],
+      "sessions": {
+        "2016" : [
+          {}
+        ]
       },
-      "socials" : [  ],
-      "title" : "Product Manager/Developer"
+      "socials": [
+        {
+          "icon": "website",
+          "name": "Website",
+          "link": "http://www.wolter.biz"
+        },
+        {
+          "icon": "twitter",
+          "name": "Twitter",
+          "link": "http://twitter.com/saschawolter"
+        },
+        {
+          "icon": "linkedin",
+          "name": "LinkedIn",
+          "link": "http://www.linkedin.com/pub/sascha-wolter/5/a38/493"
+        }
+      ]
     },
-    "aleksander_piotrowski" : {
-      "bio" : "Became a mobile developer after long run as a backend developer. Because of age, holding senior positions from the day one as an Android programmer. Serial hackathon winner, or at least contender ;-)",
-      "company" : "Applause",
-      "companyLogo" : "https://storage.googleapis.com/dfua17.appspot.com/images/logos/applause.png",
-      "country" : "Poland",
-      "id" : "aleksander_piotrowski",
-      "name" : "Aleksander Piotrowski",
-      "order" : 0,
-      "photoUrl" : "https://storage.googleapis.com/dfua17.appspot.com/images/people/aleksander_piotrowski.jpg",
-      "sessions" : {
-        "2016" : [ {
-          "presentation" : "https://speakerdeck.com/gdglviv/aleksander-piotrowski-android-tool-chain-and-run-time-improvements-in-n",
-          "tags" : [ "Android" ],
-          "title" : "Android tool-chain and run-time improvements in N",
-          "videoId" : "WqULb6bdwwg"
-        } ],
-        "2017" : [ {
-          "presentation" : "https://speakerdeck.com/gdglviv/aleksander-piotrowski-is-there-a-room-for-room",
-          "tags" : [ "Android", "Room" ],
-          "title" : "Is there a room for Room?",
-          "videoId" : "BHiKSnOaoh4"
-        } ]
+    "marco_perestrelo": {
+      "id": "marco_perestrelo",
+      "name": "Marco Perestrelo",
+      "country": "Porto, Portugal",
+      "photoUrl": "/images/people/marco_perestrelo.jpg",
+      "company": "i2S",
+      "companyLogo": "/images/logos/i2s.png",
+      "title": "Head of Product Development",
+      "bio": "Marco is the Head of Product Development at i2S. You can say he’s a big fish around here, but better not tell him because he likes to think of himself as an agile deer. He has more than 20 years’ experience in IT and almost 10 years´ experience in insurance (would you now call it Insurtech?) as the CIO of an insurance company (pre-financial melt-down) and for an insurance broker, part of the Sonae Group.  That totals more than 30 years which is really strange since he’s only 29 years old. So is he some kind of insurance magician or just lying about his age? We’re not sure but we dare you to find out. Before insurance Marco worked for a beer company, but once he quit drinking, he moved to insurance because he through it would be safe and boring. Was he wrong?",
+      "shortBio": "Marco is the Head of Product Development at i2S. He has more than 20 years experience in IT and almost 10 years experience in insurance as the CIO of an insurance company (pre-financial melt-down) and for an insurance broker, part of the Sonae Group.",
+      "tags": [
+        "Android",
+        "Android Auto"
+      ],
+      "badges": [
+
+      ],
+      "sessions": {
+        "2016" : [
+          {}
+        ]
       },
-      "socials" : [ {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/pelotasplus",
-        "name" : "Twitter"
-      }, {
-        "icon" : "linkedin",
-        "link" : "https://linkedin.com/in/pelotasplus",
-        "name" : "LinkedIn"
-      }, {
-        "icon" : "facebook",
-        "link" : "https://facebook.com/pelotasplus",
-        "name" : "Facebook"
-      }, {
-        "icon" : "github",
-        "link" : "https://github.com/pelotasplus",
-        "name" : "GitHub"
-      } ],
-      "title" : "Code monkey"
+      "socials": [
+        {
+          "icon": "linkedin",
+          "name": "LinkedIn",
+          "link": "https://www.linkedin.com/in/mperestrello"
+        }
+      ]
     },
-    "anton_minashkin" : {
-      "bio" : "Android developer, currently works at EPAM Systems Ukraine. Has experience in both server and mobile side development. Anton all his free time spends on the endless search of silver bullets, perfect architectures and holy wars",
-      "company" : "EPAM",
-      "companyLogo" : "https://storage.googleapis.com/dfua17.appspot.com/images/logos/epam.svg",
-      "country" : "Ukraine",
-      "id" : "anton_minashkin",
-      "name" : "Anton Minashkin",
-      "order" : 17,
-      "photoUrl" : "https://storage.googleapis.com/dfua17.appspot.com/images/people/minashkin_anton.jpg",
-      "sessions" : {
-        "2015" : [ {
-          "presentation" : "https://speakerdeck.com/gdglviv/anton-minashkin-data-binding",
-          "tags" : [ "Android", "Marshmallow" ],
-          "title" : "Data Binding. Next big thing?"
-        } ],
-        "2016" : [ {
-          "presentation" : "https://speakerdeck.com/gdglviv/anton-minashkin-exoplayer-media-playback-without-pain-almost-dot-dot-dot",
-          "tags" : [ "Android" ],
-          "title" : "ExoPlayer: Media playback without pain (almost...)"
-        } ],
-        "2017" : [ {
-          "presentation" : "https://speakerdeck.com/gdglviv/anton-minashkin-random-musings-on-the-android-things",
-          "tags" : [ "Android", "IoT" ],
-          "title" : "Random Musings on the Android Things",
-          "videoId" : "NCRr4nA0c7A"
-        } ]
+    "manuel_ribeiro": {
+      "id": "manuel_ribeiro",
+      "name": "Manuel Ribeiro",
+      "country": "Porto, Portugal",
+      "photoUrl": "/images/people/manuel_ribeiro.jpg",
+      "company": "i2S",
+      "companyLogo": "/images/logos/i2s.png",
+      "title": "Business Analyst Manager",
+      "bio": "Don’t let yourself be fooled. Behind Manuel Ribeiro's nice smile lies a lean mean insurtech machine with more than 20 years i2S knowledge. And if you're keen on fast learners and interesting people please make sure to get to know him. He started off as a developer, making his way to the team that internationalized i2S core solutions. In a nut shell, you can say he was the playmaker. A real number 10. Afterwards, he gave himself away to the challenges of implementing i2S’s Non Life solution, (don’t worry, by Non Life we’re not talking about dead people. Attend our presentation and you’ll get it) taking part in several international projects. Nowadays, he’s one of i2S’s top experts in our Non Life insurance software. That’s how just important he is. When he passes everyone just makes a vow  and whispers:  \"there goes Manuel, the guy who holds the key for us to make the quantic leap in Non Life insurance software\". Just kidding. We don’t truly whisper that. We say it out loud. Cross our hearts and hope to die (no pun intended).",
+      "shortBio": " Behind Manuel Ribeiro's nice smile lies a lean mean insurtech machine with more than 20 years i2S knowledge.",
+      "tags": [
+        "Android Auto",
+        "Android"
+      ],
+      "badges": [
+
+      ],
+      "sessions": {
+        "2016" : [
+          {}
+        ]
       },
-      "socials" : [ {
-        "icon" : "facebook",
-        "link" : "https://www.facebook.com/anton.minashkin.1",
-        "name" : "Facebook"
-      } ],
-      "title" : "Chief Software Engineer"
+      "socials": [
+        {
+          "icon": "linkedin",
+          "name": "LinkedIn",
+          "link": "https://www.linkedin.com/in/manuel-ribeiro-941b12110"
+        }
+      ]
     },
-    "carmen_popovicu" : {
-      "bio" : "Carmen is a front-end engineer and a #1 fan of dev communities. She loves Angular but has since recently developed feelings for Polymer too. She strongly believes that adding at least one ASCII smiley in your emails will make the world a better place and hopes to one day make a difference for the web with the code she writes. If she had super powers, she would smiley all the things.",
-      "company" : "Widespread",
-      "companyLogo" : "https://dfua16.firebaseapp.com//images/logos/widespread.png",
-      "country" : "Romania",
-      "id" : "carmen_popovicu",
-      "name" : "Carmen Popovicu",
-      "order" : 3,
-      "photoUrl" : "https://dfua16.firebaseapp.com//images/people/carmen_popovicu.jpg",
-      "sessions" : {
-        "2016" : [ {
-          "presentation" : "http://carmenpopoviciu.github.io/on-polymer-and-smileys/",
-          "tags" : [ "Web" ],
-          "title" : "On Polymer and smileys... or Polysmileys"
-        } ]
+    "ben_lee": {
+      "id": "ben_lee",
+      "name": "Ben Lee",
+      "country": "London, UK",
+      "photoUrl": "/images/people/ben_lee.jpg",
+      "company": "Palantir",
+      "companyLogo": "/images/logos/palantir.png",
+      "title": "Software Engineering Lead",
+      "bio": "Software engineer at Palantir Technologies. Interested in user experience, design and what makes people click (buttons).",
+      "shortBio": "Software engineer at Palantir Technologies. Interested in user experience, design and what makes people click (buttons).",
+      "tags": [
+        "Typescript",
+        "Web",
+        "React",
+        "Blueprint"
+      ],
+      "badges": [
+
+      ],
+      "sessions": {
+        "2016" : [
+          {}
+        ]
       },
-      "socials" : [ {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/CarmenPopoviciu",
-        "name" : "Twitter"
-      } ],
-      "title" : "Front-end Engineer"
+      "socials": [
+        {
+          "icon": "linkedin",
+          "name": "LinkedIn",
+          "link": "https://uk.linkedin.com/in/benjaminyplee"
+        }
+      ]
     },
-    "denis_radin" : {
-      "bio" : "Passionate about computer graphics and code optimization, mastering workshop http://challengingnative.com, hosting http://react.asmterdam and http://amsterdamjs.com",
-      "company" : "Evolution Gaming",
-      "companyLogo" : "https://storage.googleapis.com/dfua17.appspot.com/images/logos/evolution-gaming.png",
-      "country" : "Netherlands",
-      "id" : "denis_radin",
-      "name" : "Denis Radin",
-      "order" : 7,
-      "photoUrl" : "https://storage.googleapis.com/dfua17.appspot.com/images/people/denis_radin.jpg",
-      "sessions" : {
-        "2017" : [ {
-          "presentation" : "https://speakerdeck.com/gdglviv/denis-radin-applying-nasa-coding-guidelines-to-javascript-or-airspace-is-closer-than-you-may-think",
-          "tags" : [ "Web" ],
-          "title" : "Applying NASA coding guidelines to JavaScript or airspace is closer than you may think",
-          "videoId" : "E4fpZm17GNI"
-        } ]
+    "mario_cordeiro": {
+      "id": "mario_cordeiro",
+      "name": "Mário Cordeiro",
+      "country": "Porto, Portugal",
+      "photoUrl": "/images/people/mario_cordeito.jpg",
+      "company": "Critical Manufacturing",
+      "companyLogo": "/images/logos/critical_manufacturing.png",
+      "title": "Technical Manager",
+      "bio": "Mário Cordeiro is Software Engineer at Critical Manufacturing and a PhD student in the Doctoral Program in Informatics Engineering at Porto University. He is currently researching Event detection in social network data streams, a cross domain research topic in the areas of Social network analysis, Natural Language Processing and Data Stream Mining. Co-organizer of the Data Science Portugal community.",
+      "shortBio": "Mário Cordeiro is Software Engineer at Critical Manufacturing and a PhD student in the Doctoral Program in Informatics Engineering at Porto University.",
+      "tags": [
+        "Cloud",
+        "TensorFlow",
+        "Machine Learning"
+      ],
+      "badges": [
+
+      ],
+      "sessions": {
+        "2016" : [
+          {}
+        ]
       },
-      "socials" : [ {
-        "icon" : "github",
-        "link" : "https://github.com/PixelsCommander",
-        "name" : "GitHub"
-      } ],
-      "title" : "Senior JS Engineer"
+      "socials": [
+        {
+          "icon": "twitter",
+          "name": "Twitter",
+          "link": "https://twitter.com/mmfcordeiro"
+        },
+        {
+          "icon": "linkedin",
+          "name": "LinkedIn",
+          "link": "https://www.linkedin.com/in/mariocordeiro"
+        }
+      ]
     },
-    "dmytro_danylyk" : {
-      "bio" : "Dmytro is a developer, writer, speaker. He live in Lviv - a quaint and beautiful city. He is passionate about android and flat design. Currently Dmytro works for a startup Timee where he develop Android application and he love what he do.",
-      "company" : "Timee",
-      "companyLogo" : "https://dfua16.firebaseapp.com//images/logos/timee.png",
-      "country" : "Ukraine",
+    "sergi_martinez": {
+      "id": "sergi_martinez",
+      "name": "Sergi Martínez",
+      "country": "Barcelona, Spain",
+      "photoUrl": "/images/people/sergi_martinez.jpg",
+      "company": "Schibsted Spain",
+      "title": "Android Developer",
+      "bio": "Working as Android dev at Schibsted and Google Developer Expert for Android. He loves to share, teach, discuss, learn with the community",
+      "shortBio": "Working as Android dev at Schibsted and Google Developer Expert for Android. He loves to share, teach, discuss, learn with the community",
+      "tags": [
+        "Android",
+        "Realm"
+      ],
+      "badges": [
+        {
+          "name": "GDE",
+          "description": "Google Developer Expert for Android",
+          "link": "https://developers.google.com/experts/people/sergi-martinez"
+        }
+      ],
+      "sessions": {
+        "2016" : [
+          {}
+        ]
+      },
+      "socials": [
+        {
+          "icon": "twitter",
+          "name": "Twitter",
+          "link": "https://twitter.com/Sergiandreplace"
+        },
+        {
+          "icon": "gplus",
+          "name": "Google+",
+          "link": "plus.google.com/Sergiandreplace"
+        }
+      ]
+    },
+    "jose_santos": {
+      "id": "jose_santos",
+      "name": "José Santos",
+      "country": "Porto, Portugal",
+      "photoUrl": "/images/people/jose_santos.jpg",
+      "company": "Jumia One",
+      "title": "Head of development",
+      "shortBio": "José Santos is leading development at Jumia Travel, the leading travelling company in Africa. ",
+      "bio": "José Santos is leading development at Jumia Travel, the leading travelling company in Africa. In 2016 Jumia Travel re-think the way we deliver applications across sub saharan africa, where connection are mostly 2G and data consumption is very expensive. José is leading teams of developers to build advance mobile web applications using the progressive web apps experiences with the App toolbox from Polymer and AMP.",
+      "tags": [
+        "Web", "Polymer", "AMP", "Go"
+      ],
+      "badges": [
+      ],
+      "sessions": {
+        "2016" : [
+          {}
+        ]
+      },
+      "socials": [
+        {
+          "icon": "linkedin",
+          "name": "LinkedIn",
+          "link": "https://www.linkedin.com/in/jos%C3%A9-santos-a9752240"
+        }
+      ]
+    },
+    "nelson_sachse": {
+      "id": "nelson_sachse",
+      "name": "Nelson Sachse",
+      "country": "Porto, Portugal",
+      "photoUrl": "/images/people/nelson.jpg",
+      "title": "Android Lead",
+      "company": "Sainsbury's",
+      "shortBio": "Nelson is a technologist that created digital solutions – with special focus in the Android ecosystem – for well establish brands as Universal, Societe Generale, Swisscom.",
+      "bio": "Nelson is a technologist that created digital solutions – with special focus in the Android ecosystem – for well establish brands as Universal, Societe Generale, Swisscom. He also presented for Denmark internet week last year, lead a workshop in the London South Bank University and co-created a series of events around edTech called tEchDU. www.techdu.org",
+      "tags": [
+        "Android",
+        "Firebase",
+        "Testing"
+      ],
+      "badges": [
+      ],
+      "sessions": {
+        "2016" : [
+          {}
+        ]
+      },
+      "socials": [
+        {
+          "icon": "twitter",
+          "name": "Twitter",
+          "link": "https://twitter.com/SachseInTheCity"
+        }
+      ]
+    },
+    "ricardo_loureiro": {
+      "id": "ricardo_loureiro",
+      "name": "Ricardo Loureiro",
+      "country": "Coimbra, Portugal",
+      "photoUrl": "/images/people/rjlouro.jpg",
+      "company": "WIT Software",
+      "companyLogo": "/images/logos/wit.png",
+      "title": "Quality Manager",
+      "shortBio": "Ricardo plays the Quality Manager role at Wit.",
+      "bio": "Ricardo plays the Quality Manager role at Wit. He has a vast experience in Quality Assurance, specially Test Automation, and he also was responsible for CMMI appraisal at WIT Software. He has too many hobbies to list but classic cars is on the top of the list.",
+      "tags": [
+        "Cloud",
+        "Google Cloud Platform",
+        "Quality Assurance",
+        "Agile Development"
+      ],
+      "badges": [
+      ],
+      "sessions": {
+        "2016" : [
+          {}
+        ]
+      },
+      "socials": [
+        {
+          "icon": "gplus",
+          "name": "Google+",
+          "link": "https://plus.google.com/+RJLouro"
+        }
+      ]
+    },
+    "andre_maia": {
+      "id": "andre_maia",
+      "name": "André Maia",
+      "country": "Porto, Portugal",
+      "photoUrl": "/images/people/andremaia.jpg",
+      "title":"Product Owner",
+      "shortBio": "André Maia is Product Owner at Jumia Travel, the leading travelling company in Africa. He has more than 15 years of experience on IT. He loves working on Agile environments. His main objective is to build amazing products and work with great people!",
+      "bio": "André Maia is Product Owner at Jumia Travel, the leading travelling company in Africa. He has more than 15 years of experience on IT. He loves working on Agile environments. His main objective is to build amazing products and work with great people!",
+      "tags": [
+        "Progressive Web Apps", "Polymer", "AMP"
+      ],
+      "badges": [
+
+      ],
+      "sessions": {
+        "2016" : [
+          {}
+        ]
+      },
+      "socials": [
+
+      ]
+    },
+    "diogo_junior": {
+      "id": "diogo_junior",
+      "name": "Diogo Júnior",
+      "country": "Porto, Portugal",
+      "photoUrl": "/images/people/diogo.jpg",
+      "company": "Critical TechWorks",
+      "title": "Android Engineer",
+      "shortBio": "Diogo is an engineer from FEUP that started working at Fraunhofer Portugal as scientist where he coordinated/managed/developed some national and european projects and oriented also some students during their thesis.",
+      "bio": "So, \"basically\" and \"mainly\" I'm an engineer from FEUP that started working at Fraunhofer Portugal as scientist where I coordinated/managed/developed some national and european projects and oriented also some students during their thesis. Then I left the \"science\" world and joined an international e-commerce company(Porto Tech Center) that is supported by the German giant Rocket Internet. During one year I helped the tech team evolving the used technologies/coding standards/ platforms/services, etc related with the Android app Kaymu https://play.google.com/store/apps/details?id=com.kaymumarket.android Then I was looking for new challenges and new and more responsibilities and I joined 7graus where I'm currently the unique Lead Android - Full Stack Dev - ASO Expert.",
+      "tags": [
+        "Android", "Firebase", "Fabric",  "Appfolow"
+      ],
+      "badges": [
+      ],
+      "sessions": {
+        "2016" : [
+          {}
+        ]
+      },
+      "socials": [
+        {
+          "icon": "twitter",
+          "name": "Twitter",
+          "link": "https://twitter.com/drjunior"
+        }
+      ]
+    },
+    "vasco_santos": {
+      "id": "vasco_santos",
+      "name": "Vasco Santos",
+      "country": "Porto, Portugal",
+      "photoUrl": "/images/people/vascomin.jpg",
+      "company": "Mindera",
+      "companyLogo": "/images/logos/mindera.png",
+      "title": "Java Sourcerer",
+      "shortBio": "Vasco is a Java developer at Mindera, changing a monolith architecture into a micro service architecture.",
+      "bio": "Vasco is a Java developer at Mindera, changing a monolith architecture into a micro service architecture. He's still under the radar for the community, but well known in the projects that he works for, always mentoring and promoting best practices, whether it's code related or just related with the big picture. Previously he worked in Lisbon as an expendable resource in some obscure companies.",
+      "tags": [
+        "Cloud", "Java", "Scala", "Docker", "Kubernetes"
+      ],
+      "badges": [
+      ],
+      "sessions": {
+        "2016" : [
+          {}
+        ]
+      },
+      "socials": [
+        {
+          "icon": "github",
+          "name": "GitHub",
+          "link": "https://github.com/jvosantos"
+        },
+        {
+          "icon": "linkedin",
+          "name": "LinkedIn",
+          "link": "https://linkedin.com/in/jvosantos"
+        }
+      ]
+    },
+    "dawid_ostrowski": {
+      "id": "dawid_ostrowski",
+      "name": "Dawid Ostrowski",
+      "company": "Google Poland",
+      "title": "Developer Relations Program Manager",
+      "bio": "Dawid is true technology enthusiast, who loves to work in areas where humans and machines meet to create amazing new products and services. He is experienced program manager with strong technical background, who is able to establish priorities for complex projects and execute across multiple organizations, according to long-term objectives. Dawid has worked in Poland, USA, Germany, Belgium and The Netherlands and truly values diversity of international working environment. His most visible characteristics are individualization (when dealing directly with people), ideation&intellection (inexhaustible source of new concepts) and strong communication (experienced trainer, community manager). He is also an activator constantly impatient for action.",
+      "socials": [
+        {
+          "icon": "gplus",
+          "name": "Google+",
+          "link": "https://plus.google.com/+DawidOstrowski/"
+        }
+      ]
+    },
+    "dmytro_danylyk": {
       "id" : "dmytro_danylyk",
       "name" : "Dmytro Danylyk",
-      "order" : 15,
+      "country" : "Ukraine",
       "photoUrl" : "https://dfua16.firebaseapp.com//images/people/dmytro_danylyk.jpg",
+      "company" : "Timee",
+      "companyLogo" : "https://dfua16.firebaseapp.com//images/logos/timee.png",
+      "title" : "Senior Android Developer",
+      "bio" : "Dmytro is a developer, writer, speaker. He live in Lviv - a quaint and beautiful city. He is passionate about android and flat design. Currently Dmytro works for a startup Timee where he develop Android application and he love what he do.",
       "sessions" : {
-        "2014" : [ {
-          "tags" : [ "TOPIC_ANDROID", "LANG_UK", "THEME_INTERMEDIATE" ],
-          "title" : "Android L Animation"
-        } ],
-        "2015" : [ {
-          "presentation" : "https://speakerdeck.com/gdglviv/dmytro-danylyk-planning-android-screens",
-          "tags" : [ "Android", "UX" ],
-          "title" : "Planning Android Screens"
-        } ],
-        "2016" : [ {
-          "presentation" : "https://speakerdeck.com/gdglviv/dmytro-danylyk-kotlin-plus-android",
-          "tags" : [ "Android" ],
-          "title" : "Kotlin + Android"
-        } ]
+        "2015" : [
+          {
+            "presentation" : "https://speakerdeck.com/gdglviv/dmytro-danylyk-planning-android-screens",
+            "tags" : [ "Android", "UX" ],
+            "title" : "Planning Android Screens"
+          }
+        ]
       },
-      "socials" : [ {
-        "icon" : "website",
-        "link" : "http://www.dmytrodanylyk.com",
-        "name" : "Website"
-      }, {
-        "icon" : "website",
-        "link" : "http://slides.com/dmytrodanylyk",
-        "name" : "Website"
-      }, {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/dmytrodanylyk",
-        "name" : "Twitter"
-      } ],
-      "title" : "Senior Android Developer"
-    },
-    "ihor_dvoretskyi" : {
-      "bio" : "Ihor serves as a Developer Advocate with Kubernetes specialization for Cloud Native Computing Foundation - the Linux Foundation project, focused on creating and driving the adoption of a new computing paradigm that is optimized for modern distributed systems environments.\n\nIhor holds the role of Product Manager for Kubernetes at Kubernetes Open Source Community, co-driving Product Management Special Interest Group; and Program Manager at Mirantis - company, which is offering Kubernetes-based commercial solutions and services.\n\nApart from the product management activities, Ihor acts as a OpenStack Special Interest group co-lead at Kubernetes Community, working intensely on the questions and abilities, related to OpenStack and Kubernetes collaboration and integration.\n\nPrior to Mirantis, Ihor has been responsible for the projects, tightly bound to Cloud computing area, containerized workloads and Linux systems.",
-      "company" : "Cloud Native Computing Foundation",
-      "companyLogo" : "https://storage.googleapis.com/dfua17.appspot.com/images/logos/linux-foundation.svg",
-      "country" : "Ukraine",
-      "id" : "ihor_dvoretskyi",
-      "name" : "Ihor Dvoretskyi",
-      "order" : 4,
-      "photoUrl" : "https://storage.googleapis.com/dfua17.appspot.com/images/people/ihor_dvoretskyi.jpg",
-      "sessions" : {
-        "2015" : [ {
-          "presentation" : "https://speakerdeck.com/gdglviv/igor-dvoretskyi-the-cloud-convergence-openstack-and-kubernetes",
-          "tags" : [ "Cloud", "Kubernetes" ],
-          "title" : "The Cloud Convergence: OpenStack and Kubernetes"
-        } ],
-        "2016" : [ {
-          "presentation" : "https://speakerdeck.com/gdglviv/ihor-dvoretskyi-application-delivery-with-openstack-and-kubernetes",
-          "tags" : [ "Cloud" ],
-          "title" : "Application Delivery with OpenStack and Kubernetes"
-        } ],
-        "2017" : [ {
-          "presentation" : "https://speakerdeck.com/gdglviv/ihor-dvoretskyi-keynote-welcome-to-the-world-of-open-source-stories-by-kubernetes-contributor",
-          "tags" : [ "General", "Open Source" ],
-          "title" : "Welcome to the world of Open Source. Stories by Kubernetes contributor",
-          "videoId" : "HhpHf3GefXI"
-        } ]
-      },
-      "socials" : [ {
-        "icon" : "linkedin",
-        "link" : "https://ua.linkedin.com/in/idvoretskyi",
-        "name" : "LinkedIn"
-      }, {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/idvoretskyi",
-        "name" : "Twitter"
-      }, {
-        "icon" : "github",
-        "link" : "https://github.com/idvoretskyi",
-        "name" : "GitHub"
-      }, {
-        "icon" : "medium",
-        "link" : "https://medium.com/@idvoretskyi",
-        "name" : "Medium"
-      } ],
-      "title" : "Developer Advocate"
-    },
-    "ivan_kutuzov" : {
-      "bio" : "Ivan is a Software Engineer at SoftServe and uses Golang on daily basis for the last couple of years. He has 10+ years of experience in web development and has switched from PHP world. He is focusing on performance, quality, and automation. He likes to optimize solutions, make them simpler, faster and stable. In his time at SoftServe, he has worked with the Kubernetes, Docker, AWS, GraphQL, and many other technologies.",
-      "company" : "SoftServe",
-      "companyLogo" : "https://storage.googleapis.com/dfua17.appspot.com/images/logos/softserve.svg",
-      "country" : "Ukraine",
-      "id" : "ivan_kutuzov",
-      "name" : "Ivan Kutuzov",
-      "order" : 21,
-      "photoUrl" : "https://storage.googleapis.com/dfua17.appspot.com/images/people/ivan_kutuzov.jpg",
-      "sessions" : {
-        "2017" : [ {
-          "presentation" : "https://speakerdeck.com/gdglviv/ivan-kutuzov-programming-languages-as-religions-or-instruments",
-          "tags" : [ "General", "Golang" ],
-          "title" : "Programming languages as religions or instruments?",
-          "videoId" : "h33Os2Wlh1E"
-        } ]
-      },
-      "socials" : [ {
-        "icon" : "linkedin",
-        "link" : "https://www.linkedin.com/in/arbrix/",
-        "name" : "LinkedIn"
-      }, {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/arbrix",
-        "name" : "Twitter"
-      }, {
-        "icon" : "facebook",
-        "link" : "https://www.facebook.com/arbrix",
-        "name" : "Facebook"
-      } ],
-      "title" : "Senior Software Engineer"
-    },
-    "jana_moudrá" : {
-      "bio" : "Jana Moudrá is a GDE (Google Developer Expert) for Web technologies - Dart. She is a passionate developer and modern web and mobile technology evangelist. Jana co-founded a company called Juicymo, where she works on juicy apps and products. She loves helping other developers and spreading the knowledge about these technologies. ",
-      "company" : "Juicymo",
-      "companyLogo" : "https://storage.googleapis.com/dfua17.appspot.com/images/logos/juicymo.png",
-      "country" : "Czech Republic",
-      "id" : "jana_moudrá",
-      "name" : "Jana Moudrá",
-      "order" : 16,
-      "photoUrl" : "https://storage.googleapis.com/dfua17.appspot.com/images/people/jana_moudra.jpg",
-      "sessions" : {
-        "2015" : [ {
-          "presentation" : "https://speakerdeck.com/gdglviv/jana-moudra-lets-play-dart",
-          "tags" : [ "Web", "Dart" ],
-          "title" : "Let's play Dart!"
-        }, {
-          "presentation" : "",
-          "tags" : [ "Web", "Dart" ],
-          "title" : "[Workshop] Your first server-side application in Dart"
-        } ],
-        "2017" : [ {
-          "presentation" : "https://speakerdeck.com/gdglviv/jana-moudra-how-angulardart-and-firebase-did-an-app-together",
-          "tags" : [ "Web" ],
-          "title" : "How AngularDart & Firebase did an App together",
-          "videoId" : "Gk-WFDzCE3E"
-        } ]
-      },
-      "socials" : [ {
-        "icon" : "facebook",
-        "link" : "https://www.facebook.com/janamou",
-        "name" : "Facebook"
-      }, {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/janamou",
-        "name" : "Twitter"
-      }, {
-        "icon" : "linkedin",
-        "link" : "https://www.linkedin.com/in/janamoudra/",
-        "name" : "LinkedIn"
-      }, {
-        "icon" : "github",
-        "link" : "https://github.com/Janamou",
-        "name" : "GitHub"
-      } ],
-      "title" : "CEO"
-    },
-    "jaroslav_khorishchenko" : {
-      "bio" : "Jaroslav is full stack web developer at Smart App Studio. He specializes in React and Node.js. He has come to the word of programming from electronics. He loves to write about his different interesting experiments at his Facebook page.",
-      "company" : "Smart App Studio",
-      "companyLogo" : "https://storage.googleapis.com/dfua17.appspot.com/images/logos/smart-app-studio.png",
-      "country" : "Ukraine",
-      "id" : "jaroslav_khorishchenko",
-      "name" : "Jaroslav Khorishchenko",
-      "order" : 13,
-      "photoUrl" : "https://storage.googleapis.com/dfua17.appspot.com/images/people/jaroslav_khorishchenko.jpg",
-      "sessions" : {
-        "2017" : [ {
-          "presentation" : "https://speakerdeck.com/gdglviv/jaroslav-khorishchenko-firebase-and-iot-how-to-create-device-and-seize-the-world",
-          "tags" : [ "Firebase", "IoT" ],
-          "title" : "Firebase and IoT (Part 1)",
-          "videoId" : ""
-        }, {
-          "presentation" : "",
-          "tags" : [ "Firebase", "IoT" ],
-          "title" : "Firebase and IoT (Part 2)",
-          "videoId" : ""
-        } ]
-      },
-      "socials" : [ {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/snipter",
-        "name" : "Twitter"
-      }, {
-        "icon" : "github",
-        "link" : "https://github.com/snipter",
-        "name" : "GitHub"
-      }, {
-        "icon" : "facebook",
-        "link" : "https://fb.com/snipter",
-        "name" : "Facebook"
-      } ],
-      "title" : "Full stack web developer"
-    },
-    "juarez_filho" : {
-      "bio" : "Passionate about traveling and also to share his adventures with Web Technologies and Firebase. As a Google Developer Expert he’s helping communities all over the world to learn, discover and have fun.",
-      "company" : "Caravana Web",
-      "companyLogo" : "https://storage.googleapis.com/dfua17.appspot.com/images/logos/caravana_web.png",
-      "country" : "Brazil",
-      "id" : "juarez_filho",
-      "name" : "Juarez Filho",
-      "order" : 11,
-      "photoUrl" : "https://storage.googleapis.com/dfua17.appspot.com/images/people/juares_filho.jpg",
-      "sessions" : {
-        "2015" : [ {
-          "presentation" : "https://speakerdeck.com/gdglviv/juarez-filho-firebase-adventures",
-          "tags" : [ "Cloud", "Firebase" ],
-          "title" : "Firebase Adventures - Real time platform for your apps"
-        }, {
-          "presentation" : "",
-          "tags" : [ "Cloud", "Firebase" ],
-          "title" : "[Workshop] Getting started with Firebase"
-        } ],
-        "2017" : [ {
-          "presentation" : "https://speakerdeck.com/gdglviv/juarez-filho-let-firebase-help-you-to-build-better-front-end-apps",
-          "tags" : [ "Web" ],
-          "title" : "Let Firebase help you to build better Front-end apps",
-          "videoId" : "xJsgIH4U_DM"
-        } ]
-      },
-      "socials" : [ {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/juarezpaf",
-        "name" : "Twitter"
-      }, {
-        "icon" : "linkedin",
-        "link" : "https://linkedin.com/in/juarezpaf",
-        "name" : "LinkedIn"
-      }, {
-        "icon" : "github",
-        "link" : "https://github.com/juarezpaf",
-        "name" : "GitHub"
-      } ],
-      "title" : "Firebase Google Developer Expert"
-    },
-    "lesya_danylyuk" : {
-      "bio" : "Lead Android designer at Runtastic - Austrian mobile fitness company. Lesya is a passionate UX designer with strong background in usability and increased empathy level, which makes her to the real users advocate. Passionate about both Design Thinking and Agile, she tries to combine these processes in her and hers team daily work.",
-      "company" : "Runtastic",
-      "companyLogo" : "https://storage.googleapis.com/dfua17.appspot.com/images/logos/runtasticlogo.png",
-      "country" : "Austria",
-      "id" : "lesya_danylyuk",
-      "name" : "Lesya Danylyuk",
-      "order" : 2,
-      "photoUrl" : "https://storage.googleapis.com/dfua17.appspot.com/images/people/lesya_danylyuk.jpg",
-      "sessions" : {
-        "2017" : [ {
-          "presentation" : "https://speakerdeck.com/gdglviv/lesya-danylyuk-practical-guide-to-run-a-google-design-sprint",
-          "tags" : [ "Design" ],
-          "title" : "Practical Guide to Run a Google Design Sprint (Part 1)",
-          "videoId" : ""
-        }, {
-          "presentation" : "",
-          "tags" : [ "Design" ],
-          "title" : "Practical Guide to Run a Google Design Sprint  (Part 2)",
-          "videoId" : ""
-        }, {
-          "presentation" : "",
-          "tags" : [ "Design" ],
-          "title" : "Practical Guide to Run a Google Design Sprint (Part 3)",
-          "videoId" : ""
-        } ]
-      },
-      "socials" : [ {
-        "icon" : "linkedin",
-        "link" : "https://www.linkedin.com/in/lesenya/",
-        "name" : "LinkedIn"
-      }, {
-        "icon" : "website",
-        "link" : "https://www.xing.com/profile/lesya_danylyuk",
-        "name" : "Website"
-      }, {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/lesyadnk",
-        "name" : "Twitter"
-      } ],
-      "title" : "UX Designer"
+      "socials" : [
+        {
+          "icon" : "website",
+          "link" : "http://www.dmytrodanylyk.com",
+          "name" : "Website"
+        },
+        {
+          "icon" : "github",
+          "link" : "https://github.com/dmytrodanylyk",
+          "name" : "Github"
+        },
+        {
+          "icon" : "twitter",
+          "link" : "https://twitter.com/dmytrodanylyk",
+          "name" : "Twitter"
+        }
+      ]
     },
     "mateusz_herych" : {
-      "bio" : "Mateusz works as an Android Developer at IG, where he uses his Android-abracadabras to make enterprise software users more productive.\n\nHe's also an active member of GDG Kraków where, together with his co-organisers, he ensures the local community has direct access to the latest trends and knowledge of Google-related technology.\n\nMateusz is an avid Android speaker, and is particularly keen to get involved in events focusing on coding Android.",
-      "company" : "IG",
-      "companyLogo" : "https://storage.googleapis.com/dfua17.appspot.com/images/logos/ig.svg",
-      "country" : "Poland",
       "id" : "mateusz_herych",
       "name" : "Mateusz Herych",
-      "order" : 18,
+      "country" : "Poland",
       "photoUrl" : "https://storage.googleapis.com/dfua17.appspot.com/images/people/mateusz_herych.jpg",
+      "company" : "IG",
+      "companyLogo" : "https://storage.googleapis.com/dfua17.appspot.com/images/logos/ig.svg",
+      "title" : "Android Tech Lead",
+      "bio" : "Mateusz works as an Android Developer at IG, where he uses his Android-abracadabras to make enterprise software users more productive.\n\nHe's also an active member of GDG Kraków where, together with his co-organisers, he ensures the local community has direct access to the latest trends and knowledge of Google-related technology.\n\nMateusz is an avid Android speaker, and is particularly keen to get involved in events focusing on coding Android.",
       "sessions" : {
-        "2014" : [ {
-          "tags" : [ "TOPIC_ANDROID", "LANG_EN", "THEME_INTERMEDIATE" ],
-          "title" : "Guava beyond Collections"
-        } ],
-        "2015" : [ {
-          "presentation" : "https://speakerdeck.com/gdglviv/mateusz-herych-how-can-android-backup-break-your-app",
-          "tags" : [ "Android", "Marshmallow" ],
-          "title" : "How can Android Backup break your app"
-        } ],
-        "2016" : [ {
-          "presentation" : "https://speakerdeck.com/gdglviv/mateusz-herych-the-ultimate-guide-to-mvp-pattern-on-android",
-          "tags" : [ "Android" ],
-          "title" : "The ultimate guide to MVP pattern on Android"
-        } ],
-        "2017" : [ {
-          "presentation" : "https://speakerdeck.com/gdglviv/mateusz-herych-the-ultimate-guide-to-mvp-pattern-on-android",
-          "tags" : [ "Android", "MobileOps" ],
-          "title" : "Release Android apps globally with no headache and minimum stress",
-          "videoId" : "OhcJqVEnc7I"
-        } ]
+        "2015" : [
+          {
+            "presentation" : "https://speakerdeck.com/gdglviv/mateusz-herych-how-can-android-backup-break-your-app",
+            "tags" : [ "Android", "Marshmallow" ],
+            "title" : "How can Android Backup break your app"
+          }
+        ]
       },
-      "socials" : [ {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/mherych",
-        "name" : "Twitter"
-      }, {
-        "icon" : "linkedin",
-        "link" : "https://www.linkedin.com/in/herych",
-        "name" : "LinkedIn"
-      } ],
-      "title" : "Android Tech Lead"
-    },
-    "michael_pustovit" : {
-      "bio" : "Michael is a software engineer at Keypr. He is KPI FICT Computer Science graduate and has 5+ years in Android development. Michael moderates KyivAndroidDevClub. Besides programming, he is a capoeira player.",
-      "company" : "Keypr",
-      "companyLogo" : "https://storage.googleapis.com/dfua17.appspot.com/images/logos/keypr.png",
-      "country" : "Ukraine",
-      "id" : "michael_pustovit",
-      "name" : "Michael Pustovit",
-      "order" : 8,
-      "photoUrl" : "https://storage.googleapis.com/dfua17.appspot.com/images/people/michael_pustovit.jpg",
-      "sessions" : {
-        "2016" : [ {
-          "presentation" : "https://speakerdeck.com/gdglviv/michael-pustovit-android-hacking-for-dummies-if-operator-demolytion",
-          "tags" : [ "Android" ],
-          "title" : "Android hacking for dummies: ‘if’ operator demolytion",
-          "videoId" : "We04nyIIsA0"
-        } ],
-        "2017" : [ {
-          "presentation" : "https://speakerdeck.com/gdglviv/michael-pustovit-gradle-scripts-in-kotlin-is-it-cool",
-          "tags" : [ "Android", "MobileOps" ],
-          "title" : "Gradle scripts in Kotlin: is it cool?",
-          "videoId" : "XLNJkxWoCoc"
-        } ]
-      },
-      "socials" : [ {
-        "icon" : "github",
-        "link" : "https://github.com/lampapos",
-        "name" : "GitHub"
-      }, {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/pustovit",
-        "name" : "Twitter"
-      }, {
-        "icon" : "facebook",
-        "link" : "https://www.facebook.com/pustovit",
-        "name" : "Facebook"
-      } ],
-      "title" : "Android Developer"
+      "badges": [
+        {
+          "name": "GDE",
+          "description": "Google Developer Expert",
+          "link": "https://developers.google.com/experts/"
+        }
+      ],
+      "socials" : [
+        {
+          "icon" : "twitter",
+          "link" : "https://twitter.com/mherych",
+          "name" : "Twitter"
+        },
+        {
+          "icon" : "linkedin",
+          "link" : "https://www.linkedin.com/in/herych",
+          "name" : "LinkedIn"
+        }
+      ]
     },
     "roman_mazur" : {
-      "bio" : "Roman has been working with Android for more than 6 years. You can find him delivering fixes and new features to a plenty of Android libraries and frameworks including support library, Robolectric, Madge, Spoon, Retrofit, and Helium. <br/><br/>At Stanfy he is working on a customized Android OS for in-room tablets installed at hotels by KEYPR.",
-      "company" : "Stanfy",
-      "country" : "Ukraine",
       "id" : "roman_mazur",
       "name" : "Roman Mazur",
-      "order" : 10,
+      "country" : "Ukraine",
       "photoUrl" : "https://dfua15.firebaseapp.com/images/people/roman_mazur.jpg",
+      "company" : "Stanfy",
+      "title" : "Software Engineer",
+      "bio" : "Roman has been working with Android for more than 6 years. You can find him delivering fixes and new features to a plenty of Android libraries and frameworks including support library, Robolectric, Madge, Spoon, Retrofit, and Helium. <br/><br/>At Stanfy he is working on a customized Android OS for in-room tablets installed at hotels by KEYPR.",
       "sessions" : {
-        "2014" : [ {
-          "tags" : [ "TOPIC_ANDROID", "LANG_EN", "THEME_INTERMEDIATE" ],
-          "title" : "Android Loader, problems and solutions"
-        } ],
-        "2015" : [ {
-          "presentation" : "https://speakerdeck.com/gdglviv/roman-mazur-power-of-android-shell",
-          "tags" : [ "Android", "Tools" ],
-          "title" : "Power of Android Shell"
-        } ]
+        "2015" : [
+          {
+            "presentation" : "https://speakerdeck.com/gdglviv/roman-mazur-power-of-android-shell",
+            "tags" : [ "Android", "Tools" ],
+            "title" : "Power of Android Shell"
+          }
+        ]
       },
-      "socials" : [ {
-        "icon" : "app-icons:twitter",
-        "link" : "http://twitter.com/roman_mazur",
-        "name" : "Twitter"
-      }, {
-        "icon" : "app-icons:github",
-        "link" : "https://github.com/roman-mazur",
-        "name" : "GitHub"
-      } ],
-      "title" : "Software Engineer"
-    },
-    "sergiy_khomenko" : {
-      "bio" : "Data scientist at one of the biggest fashion communities, STYLIGHT. Data analysis and visualisation hobbyist, working on problems not only in working time, but in free time for fun and personal data visualisations.\n\nSpeaker at different conferences: Berlin Buzzwords 2014, ApacheCon Europe 2014, Puppet Camp London 2015, Munich Developer Camp, Berlin Buzzwords 2015, Tableau Conference on Tour - Berlin 2015, Budapest BI forum 2015, CrunchConf 2015, FOSDEM 2016, PyData Amsterdam 2016",
-      "company" : "Stylight",
-      "companyLogo" : "https://storage.googleapis.com/dfua17.appspot.com/images/logos/stylight.svg",
-      "country" : "Germany",
-      "id" : "sergiy_khomenko",
-      "name" : "Sergii Khomenko",
-      "order" : 12,
-      "photoUrl" : "https://storage.googleapis.com/dfua17.appspot.com/images/people/sergii_khomenko.jpg",
-      "sessions" : {
-        "2017" : [ {
-          "presentation" : "https://lc0.github.io/slides/2017-devfest-hamburg/index.html#/1",
-          "tags" : [ "Cloud" ],
-          "title" : "The Hitchhiker's Guide to Tensorflow: from Tensors to running models in production.",
-          "videoId" : "rWRv-AWDeKw"
-        } ]
-      },
-      "socials" : [ {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/lc0d3r",
-        "name" : "Twitter"
-      } ],
-      "title" : "Lead Data Scientist"
-    },
-    "sergiy_mokienko" : {
-      "bio" : "Sergiy is an android developer that has experience from building apps from scratch to developing android based sdks and libraries for other applications. He has more than 10 applications successfully published on Google Play. Former GDG chapter lead in Nikolaev. Currently he is leading a team that builds broker software for 60+ different brokers.",
-      "company" : "Leverate",
-      "companyLogo" : "https://dfua16.firebaseapp.com//images/logos/leverate.svg",
-      "country" : " Ukraine",
-      "id" : "sergiy_mokienko",
-      "name" : "Sergiy Mokienko",
-      "order" : 9,
-      "photoUrl" : "https://dfua16.firebaseapp.com//images/people/sergiy_mokienko.jpg",
-      "sessions" : {
-        "2016" : [ {
-          "presentation" : "https://speakerdeck.com/gdglviv/sergiy-mokienko-continuous-integration-in-android",
-          "tags" : [ "Android" ],
-          "title" : "Continuous Integration in Android",
-          "videoId" : "MmGDQkgknfY"
-        } ]
-      },
-      "socials" : [ {
-        "icon" : "linkedin",
-        "link" : "https://www.linkedin.com/in/sergiy-mokienko-76891359",
-        "name" : "LinkedIn"
-      }, {
-        "icon" : "facebook",
-        "link" : "https://www.facebook.com/Korwin22",
-        "name" : "Facebook"
-      } ],
-      "title" : "Android Team Lead"
-    },
-    "shmuela_jacobs" : {
-      "bio" : "Shmuela Jacobs is a front-end developer, consultant, speaker, and community activist. She is the founder of ngGirls and Angular Nights meetup group. During her academic studies (M.Sc. in Information Management Engineering and B.Sc. in Physics) Shmuela had combined her passions of coding and teaching as a software developer, teaching assistant, science museum guide, and researcher. Today she continues to enjoy these activities developing with Angular and sharing her knowledge and experience in meetups and conferences. Shmuela lives in Tel Aviv with her husband Haggai, their deaf dog Ziggi, and one-eyed cat Franco.",
-      "company" : "ngGirls",
-      "companyLogo" : "https://storage.googleapis.com/dfua17.appspot.com/images/logos/nggirls.png",
-      "country" : "Israel",
-      "id" : "shmuela_jacobs",
-      "name" : "Shmuela Jacobs",
-      "order" : 19,
-      "photoUrl" : "https://storage.googleapis.com/dfua17.appspot.com/images/people/shmuela_jacobs.jpg",
-      "sessions" : {
-        "2017" : [ {
-          "presentation" : "https://speakerdeck.com/gdglviv/shmuela-jacobs-web-goes-native-progressive-web-apps-with-angular",
-          "tags" : [ "Web", "PWA" ],
-          "title" : "Web goes Native: Progressive Web Apps with Angular",
-          "videoId" : "OcIZS4jNgP0"
-        } ]
-      },
-      "socials" : [ {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/ShmuelaJ",
-        "name" : "Twitter"
-      }, {
-        "icon" : "linkedin",
-        "link" : "https://www.linkedin.com/in/shmuelaj",
-        "name" : "LinkedIn"
-      } ],
-      "title" : "Founder"
+      "socials" : [
+        {
+          "icon" : "app-icons:twitter",
+          "link" : "http://twitter.com/roman_mazur",
+          "name" : "Twitter"
+        },
+        {
+          "icon" : "app-icons:github",
+          "link" : "https://github.com/roman-mazur",
+          "name" : "GitHub"
+        }
+      ]
     },
     "valentyn_shybanov" : {
-      "bio" : "Started software engineering career with low level system programming mostly on start of the era of modern computers, my interest involved from programming calculators and simple games to developing complex enterprise-level cloud-based solutions. Now, with help of modern technologies, solutions and concepts, I am not just trying to bring any, even most courageous ideas into life, but also spread the light of all brilliant technology solutions I can find to all other developers. Now focused on combination of Web technologies (Angular, Dart) and cloud platforms (Google Cloud Platform, Amazon EC2, Azure etc) and mobile (Flutter)\n",
-      "company" : "",
-      "companyLogo" : "",
-      "country" : "Ukraine",
       "id" : "valentyn_shybanov",
       "name" : "Valentyn Shybanov",
-      "order" : 14,
-      "photoUrl" : "https://storage.googleapis.com/dfua17.appspot.com/images/people/valentyn_shybanov.jpg",
-      "sessions" : {
-        "2014" : [ {
-          "tags" : [ "TOPIC_WEB", "LANG_EN", "THEME_INTERMEDIATE" ],
-          "title" : "Go in the Cloud: How using Go can help building cloud ready applications"
-        } ],
-        "2015" : [ {
-          "presentation" : "http://olostan.github.io/slides_microgcp",
-          "tags" : [ "Cloud", "Go Lang" ],
-          "title" : "Using GoLang for building micro-service architecture in Google Cloud Platform"
-        }, {
-          "presentation" : "http://olostan.github.io/slides_ng2arch",
-          "tags" : [ "Web", "AngularJS" ],
-          "title" : "Angular2: Reasoning behind technical decisions"
-        } ],
-        "2016" : [ {
-          "presentation" : "https://olostan.github.io/slides_ng2high/",
-          "tags" : [ "Web" ],
-          "title" : "Highlevel overview of the Angular 2",
-          "videoId" : "ghwfIPSOQOI"
-        } ],
-        "2017" : [ {
-          "presentation" : "https://olostan.github.io/slides_gcpstore/",
-          "tags" : [ "Cloud" ],
-          "title" : "Cloud Storage - Choosing the Best",
-          "videoId" : "tLtj9wn8cUI"
-        } ]
-      },
-      "socials" : [ {
-        "icon" : "website",
-        "link" : "https://cv.olostan.name/",
-        "name" : "Website"
-      } ],
-      "title" : "Web Team Leader"
-    },
-    "vitaliy_zasadnyy" : {
-      "bio" : "Vitaliy is a mobile developer, public speaker and community manager. He is eager about product perfection and scalability. Goes crazy about new IoT devices and Google products. Originally Vitaliy is from Ukraine, where he founded GDG Lviv. Now he is leading mobile department at GetSocial, startup based in The Netherlands. GetSocial is building the cloud-based mobile engagement platform that empowers any app developer with tools to maximise user acquisition, engagement, retention and monetization.",
-      "company" : "GetSocial",
-      "companyLogo" : "https://dfua16.firebaseapp.com//images/logos/getsocial.svg",
       "country" : "Ukraine",
-      "id" : "vitaliy_zasadnyy",
-      "name" : "Vitaliy Zasadnyy",
-      "order" : 1,
-      "photoUrl" : "https://dfua16.firebaseapp.com//images/people/vitaliy_zasadnyy.jpg",
+      "photoUrl" : "https://storage.googleapis.com/dfua17.appspot.com/images/people/valentyn_shybanov.jpg",
+      "company" : "",
+      "companyLogo" : "",
+      "title" : "Web Team Leader",
+      "bio" : "Started software engineering career with low level system programming mostly on start of the era of modern computers, my interest involved from programming calculators and simple games to developing complex enterprise-level cloud-based solutions. Now, with help of modern technologies, solutions and concepts, I am not just trying to bring any, even most courageous ideas into life, but also spread the light of all brilliant technology solutions I can find to all other developers. Now focused on combination of Web technologies (Angular, Dart) and cloud platforms (Google Cloud Platform, Amazon EC2, Azure etc) and mobile (Flutter)\n",
       "sessions" : {
-        "2016" : [ {
-          "presentation" : "https://speakerdeck.com/zasadnyy/j2objc-cross-platform-development-google-way",
-          "tags" : [ "Android" ],
-          "title" : "J2ObjC. Cross platform development - Google way",
-          "videoId" : "rXvZkC6X56k"
-        } ]
+        "2015" : [
+          {
+            "presentation" : "http://olostan.github.io/slides_microgcp",
+            "tags" : [ "Cloud", "Go Lang" ],
+            "title" : "Using GoLang for building micro-service architecture in Google Cloud Platform"
+          },
+          {
+            "presentation" : "http://olostan.github.io/slides_ng2arch",
+            "tags" : [ "Web", "AngularJS" ],
+            "title" : "Angular2: Reasoning behind technical decisions"
+          }
+        ]
       },
-      "socials" : [ {
-        "icon" : "website",
-        "link" : "https://zasadnyy.com",
-        "name" : "Blog"
-      }, {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/zasadnyy",
-        "name" : "Twitter"
-      }, {
-        "icon" : "github",
-        "link" : "https://github.com/zasadnyy",
-        "name" : "GitHub"
-      } ],
-      "title" : "Head of Mobile"
-    },
-    "yonatan_levin" : {
-      "bio" : "A born entrepreneur, combining the creative imagination of an artist with the meticulous precision of an engineer, Yonatan Levin is not only one of Israel’s top mobile developers, he’s also a member of the elite worldwide group of Google Developers Experts.\n\nAnd while Yonatan’s primary expertise is in Mobile and Product Management, he also gets along extremely well with backend technologies — not to mention people in general.\n\nAt Gett Yonatan headed up Android development, helping make it the world’s largest on-demand transportation, delivery, and logistics company. Most recently, Yonatan has received funding for his thirds (and latest) startup, KolGene, which is already revolutionizing the field of genetic testing.\n\nIn his free time, Yonatan can often be found, like his Star Wars hero Luke Skywalker, saving the galaxy, one groundbreaking technology at a time.",
-      "company" : "KolGene",
-      "companyLogo" : "https://storage.googleapis.com/dfua17.appspot.com/images/logos/kolgene.svg",
-      "country" : "Israel",
-      "id" : "yonatan_levin",
-      "name" : "Yonatan Levin",
-      "order" : 5,
-      "photoUrl" : "https://storage.googleapis.com/dfua17.appspot.com/images/people/yonatan_levin.jpg",
-      "sessions" : {
-        "2016" : [ {
-          "presentation" : "https://speakerdeck.com/gdglviv/yonatan-levin-knock-knock-whos-there-doze",
-          "tags" : [ "Android" ],
-          "title" : "Knock knock! Who's there? Doze."
-        } ],
-        "2017" : [ {
-          "presentation" : "https://speakerdeck.com/gdglviv/yonatan-levin-architecture-components-the-one-that-got-away",
-          "tags" : [ "Android" ],
-          "title" : "Architecture Components. The one that got away",
-          "videoId" : "FzmDFscF41o"
-        }, {
-          "presentation" : "https://speakerdeck.com/gdglviv/yonatan-levin-keynote-making-mistakes-and-building-products-from-1st-to-30m-users",
-          "tags" : [ "General", "Entrepreneurship" ],
-          "title" : "Making mistakes and building products from 1st to 30M users",
-          "videoId" : "hUY8jg9-ieE"
-        } ]
-      },
-      "socials" : [ {
-        "icon" : "facebook",
-        "link" : "https://www.facebook.com/levin.yonatan",
-        "name" : "Facebook"
-      }, {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/parahall",
-        "name" : "Twitter"
-      }, {
-        "icon" : "linkedin",
-        "link" : "https://www.linkedin.com/in/levinyonatan/",
-        "name" : "LinkedIn"
-      } ],
-      "title" : "CTO & Co-Founder"
-    },
-    "yuliya_kaleda" : {
-      "bio" : "Yuliya is an Android developer, leading a team of 4 developers at Jet.com. Her main focus  is to build performant, scalable, cutting-edge Android projects. Her most recent cutting-edge project was the first multi-feature Instant Apps, which was a huge success and got featured on Google Android Developer website (https://developer.android.com/stories/instant-apps/jet.html#results). She volunteers at C4Q - non-profit organization, the main focus of which is to foster the tech community in NY. She also volunteers in teaching Android Development at Access Code Program, which targets underrepresented minorities, women and immigrants.",
-      "company" : "Jet.com",
-      "companyLogo" : "https://storage.googleapis.com/dfua17.appspot.com/images/logos/jet.svg",
-      "country" : "USA",
-      "id" : "yuliya_kaleda",
-      "name" : "Yuliya Kaleda",
-      "order" : 20,
-      "photoUrl" : "https://storage.googleapis.com/dfua17.appspot.com/images/people/yuliya_kaleda.jpg",
-      "sessions" : {
-        "2017" : [ {
-          "presentation" : "https://speakerdeck.com/gdglviv/yuliya-kaleda-make-your-app-instant",
-          "tags" : [ "Android", "Instant Apps" ],
-          "title" : "Make Your App Instant!",
-          "videoId" : "v4RfZ0f_HVE"
-        } ]
-      },
-      "socials" : [ {
-        "icon" : "linkedin",
-        "link" : "https://www.linkedin.com/in/yuliya-kaleda-b4525ab1/",
-        "name" : "LinkedIn"
-      } ],
-      "title" : "Senior Android Developer"
+      "socials" : [
+        {
+          "icon" : "website",
+          "link" : "https://cv.olostan.name/",
+          "name" : "Website"
+        }
+      ]
     }
   }
 }
