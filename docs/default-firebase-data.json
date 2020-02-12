@@ -1768,17 +1768,17 @@
   },
   "videos" : [ {
     "speakers" : "Carlos Mota",
-    "thumbnail" : "https://firebasestorage.googleapis.com/v0/b/devfest19-20.appspot.com/o/thumbnails%2Fcarlosmota_videoThumb.jpg?alt=media&token=eef83e6e-4da3-4cbe-9133-f01ce84ee30b",
+    "thumbnail" : "https://firebasestorage.googleapis.com/v0/b/devfest19-20.appspot.com/o/thumbnails%2Fcarlosmota_videoThumb.jpg?alt=media&token=8f901471-4e72-4c62-9ffa-80e569f947b6",
     "title" : "Kotlin my way in",
     "youtubeId" : "TvoDRnwMGYQ"
   }, {
     "speakers" : "Sara Vieira",
-    "thumbnail" : "https://firebasestorage.googleapis.com/v0/b/devfest19-20.appspot.com/o/thumbnails%2Fsaravieira_videoThumb.jpg?alt=media&token=a24e4d3f-0571-423b-9c7f-49fc9639d081",
+    "thumbnail" : "https://firebasestorage.googleapis.com/v0/b/devfest19-20.appspot.com/o/thumbnails%2Fsaravieira_videoThumb.jpg?alt=media&token=edabd266-68c3-4766-b940-d64a5c7391d6",
     "title" : "I have 99 problems but GraphQL is not one",
     "youtubeId" : "Sn7u1EpLdwg"
   }, {
     "speakers" : "Sam Bellen",
-    "thumbnail" : "https://firebasestorage.googleapis.com/v0/b/devfest19-20.appspot.com/o/thumbnails%2Fsambellen_videoThumb.jpg?alt=media&token=371dcf5f-d1e5-45dc-96aa-f08bc5ad9b2b",
+    "thumbnail" : "https://firebasestorage.googleapis.com/v0/b/devfest19-20.appspot.com/o/thumbnails%2Fsambellen_videoThumb.jpg?alt=media&token=c5175969-e09a-45b0-a157-bd2cb729065c",
     "title" : "Passwords are so 1990",
     "youtubeId" : "PEgqE8MvSEU"
   }, {
@@ -1788,7 +1788,7 @@
     "youtubeId" : "6ZLaw5IU8f8"
   }, {
     "speakers" : "João Teixeira",
-    "thumbnail" : "https://firebasestorage.googleapis.com/v0/b/devfest19-20.appspot.com/o/thumbnails%2Fjoaoteixeira_videoThumb.jpg?alt=media&token=719080a4-1152-4129-aeb8-256348df18ca",
+    "thumbnail" : "https://firebasestorage.googleapis.com/v0/b/devfest19-20.appspot.com/o/thumbnails%2Fjoaoteixeira_videoThumb.jpg?alt=media&token=92cd5ffb-d6a8-4dfc-903d-75ccfc01bef3",
     "title" : "Designers want to destroy the world",
     "youtubeId" : "zTHPnzuqfc8"
   } ],
