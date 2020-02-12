@@ -1768,27 +1768,27 @@
   },
   "videos" : [ {
     "speakers" : "Carlos Mota",
-    "thumbnail" : "https://firebasestorage.googleapis.com/v0/b/devfest19-20.appspot.com/o/gallery%2Fcarlosmota_videoThumb.jpg?alt=media&token=b4074967-abe1-4022-9b55-3bc48de0dde9",
+    "thumbnail" : "https://firebasestorage.googleapis.com/v0/b/devfest19-20.appspot.com/o/thumbnails%2Fcarlosmota_videoThumb.jpg?alt=media&token=eef83e6e-4da3-4cbe-9133-f01ce84ee30b",
     "title" : "Kotlin my way in",
     "youtubeId" : "TvoDRnwMGYQ"
   }, {
     "speakers" : "Sara Vieira",
-    "thumbnail" : "https://firebasestorage.googleapis.com/v0/b/devfest19-20.appspot.com/o/gallery%2Fsaravieira_videoThumb.jpg?alt=media&token=3ffabb8f-c999-4208-adeb-9ed7d19a20fc",
+    "thumbnail" : "https://firebasestorage.googleapis.com/v0/b/devfest19-20.appspot.com/o/thumbnails%2Fsaravieira_videoThumb.jpg?alt=media&token=a24e4d3f-0571-423b-9c7f-49fc9639d081",
     "title" : "I have 99 problems but GraphQL is not one",
     "youtubeId" : "Sn7u1EpLdwg"
   }, {
     "speakers" : "Sam Bellen",
-    "thumbnail" : "https://firebasestorage.googleapis.com/v0/b/devfest19-20.appspot.com/o/gallery%2Fsambellen_videoThumb.jpg?alt=media&token=3b80cd40-6f29-4967-b3bd-5c9cf5399bae",
+    "thumbnail" : "https://firebasestorage.googleapis.com/v0/b/devfest19-20.appspot.com/o/thumbnails%2Fsambellen_videoThumb.jpg?alt=media&token=371dcf5f-d1e5-45dc-96aa-f08bc5ad9b2b",
     "title" : "Passwords are so 1990",
     "youtubeId" : "PEgqE8MvSEU"
   }, {
     "speakers" : "Alex Barlow",
-    "thumbnail" : "https://firebasestorage.googleapis.com/v0/b/devfest19-20.appspot.com/o/gallery%2Falexbarlow_videoThumb.jpg?alt=media&token=4912bacc-1da8-4f4d-867b-f9ca15e60120",
+    "thumbnail" : "https://firebasestorage.googleapis.com/v0/b/devfest19-20.appspot.com/o/thumbnails%2Falexbarlow_videoThumb.jpg?alt=media&token=487e3d83-bc05-4091-b9ea-0bc14f8be4a7",
     "title" : "Microservices in the real world",
     "youtubeId" : "6ZLaw5IU8f8"
   }, {
     "speakers" : "João Teixeira",
-    "thumbnail" : "https://firebasestorage.googleapis.com/v0/b/devfest19-20.appspot.com/o/gallery%2Fjoaoteixeira_videoThumb.jpg?alt=media&token=ce2aed93-e073-4245-bf57-217f6985e4dd",
+    "thumbnail" : "https://firebasestorage.googleapis.com/v0/b/devfest19-20.appspot.com/o/thumbnails%2Fjoaoteixeira_videoThumb.jpg?alt=media&token=719080a4-1152-4129-aeb8-256348df18ca",
     "title" : "Designers want to destroy the world",
     "youtubeId" : "zTHPnzuqfc8"
   } ],
