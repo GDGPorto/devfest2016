@@ -2027,6 +2027,13 @@
         }
       ],
       "sessions": {
+        "2015": [
+          {
+            "title": "Android Data Binding",
+            "description": "In the I/O 15 Google introduced the Android data binding. This technology is going to change the way we create and manage Android interfaces (for good), and we will be able to use mature patterns like MVVM to drastically reduce the amount of code in our Activities and Fragments.</p><p>Despite being a technology still in beta phase and not ready for production, we will learn how it works to be ready to use it from the first day when finally published.",
+            "videoId": "xdA5mHw47hM"
+          }
+        ],
         "2016": [
           {
             "title": "Realm or: How I learned to stop worrying and love my app database",
@@ -2053,9 +2060,9 @@
           "link": "https://twitter.com/Sergiandreplace"
         },
         {
-          "icon": "gplus",
-          "name": "Google+",
-          "link": "plus.google.com/Sergiandreplace"
+          "icon": "linkedin",
+          "name": "Linkedin",
+          "link": "https://www.linkedin.com/in/sergimartinezlopez"
         }
       ]
     },
@@ -2611,6 +2618,13 @@
       "photoUrl": "assets/img/speakers/Jose.jpg",
       "bio": "Web enthusiast, with the mission of bringing enterprise applications up to speed with Web Standards. José has been developing enterprise web applications with Angular (+2) since 2015 and is an avid “code once, use it everywhere” advocate.<br>José also volunteers as IEEE Portugal Chairman, supporting an amazing team of Engineers throughout the country, actively contributing to IEEE standards. On his free time, he plays the Tuba on some local groups and ensembles in north Portugal.",
       "sessions": {
+        "2015": [
+          {
+            "title": "Angular 2 - Building Enterprise Apps",
+            "description": "In a rapidly changing environment as is the Web, developing enterprise applications, destined to be in production for decades, is a serious undertaking. Choosing the right framework to work with can have the same impact as choosing the person you will be marrying: have you thought that it may be easier to change spouses than replacing an entire enterprise system?</p><p>At Critical Manufacturing we are building the next generation of our flagship product cmNavigo for the web and mobile devices. Using Angular 2, Typescript and Flux at its core, the new cmNavigo interface is designed to be used 24/7 by thousands of users every day in cross-platform and different size form devices across the world.</p><p>In this talk I will share the latest development challenges we are facing and how we are modeling the system to have the performance and stability our customers demand. We will explore how Angular 2 latest alphas are helping us moving in the right direction, embracing new standards and how we are managing our development environments to increase productivity.",
+            "videoId": "r-pUWh1Y_FI"
+          }
+        ],
         "2019": [
           {
             "title": "Angular  -  Building Enterprise Applications (Still)",
@@ -2623,6 +2637,223 @@
         {
           "icon": "linkedin",
           "link": "https://www.linkedin.com/in/jpsfs/?locale=en_US",
+          "name": "Linkedin"
+        }
+      ]
+    },
+    "victor_sanchez": {
+      "id": "victor_sanchez",
+      "name": "Víctor Sanchéz",
+      "company": "MashMeTV",
+      "photoUrl": "speaker_victor_sanchez.jpg",
+      "bio": "Víctor is a developer, lecturer and entrepreneur. He runs his own company called MashMeTV that provides video collaboration applications to more than 800,000 users in 71 countries.</p><p>His new obsession is HTML5 and client-side applications. For the last couple of years, Víctor has been organizing tech events and conferences for kids and adults at places like HTML5 vs Android, Hack4Good Spain, HTML5Party, Iniciador Kids and others – in order to extend computer science and STEM.</p><p>Recently appointed Google Developer Expert in HTML5.",
+      "sessions": {
+        "2015": [
+          {
+            "title": "WebComponentes, Polymer and the new web",
+            "description": "During this talk Google Developer Expert Víctor Sánchez will talk about web components, and an amazing library to build on them, Polymer.</p><p>With its brand new version Polymer 1.0 will be able to put back engineering into the web platform at blazing speed.</p><p>As we see it web components are the building blocks of the future. Do you want a ride?",
+            "videoId": "IjrWbYdiENk"
+          }
+        ]
+      },
+      "badges": [
+        {
+          "name": "GDE",
+          "description": "Google Developer Expert",
+          "link": "https://developers.google.com/experts/people/"
+        }
+      ],
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/VictorSanchez",
+          "name": "Twitter"
+        }
+      ]
+    },
+    "sofia_rodrigues": {
+      "id": "sofia_rodrigues",
+      "name": "Sofia Rodrigues",
+      "company": "i2S",
+      "bio": "Sofia is an Usability and UX expert. In 2004 she began working in the media and design for dFUSION, an advertising agency, working in design, web application development, marketing, among others.</p><p>In 2009 she had the opportunity to start collaborating with i2S, specializing in myGIS portal interface, in the last to years she has launched the UX area for i2S.</p><p>Completely crazy, says many bad words, colleagues like to say ''Bom dia, Sofia'' regardless of time of day, is treated as ''one of the guys'' and is said to be pregnant for more than three years!",
+      "sessions": {
+        "2015": [
+          {
+            "title": "Cardboard, a user's perspective",
+            "description": "Think about a very good restaurant... Have you seen the kitchen? No? Probably is a huge mess. But will this fact change your dinner experience? Maybe not if it all works fine.</p><p>As customers we won't go to the restaurant thinking about the kitchen but for the food, the nice environment, the friendliness of the staff , among other variables.</p><p>In the end, all of these variables make you have (or not) a good dinner experience. This is what happens with any product or service and it's called User eXperience.</p><p>The Google Cardboard is a good example where you can have an awesome user eXperience of virtual reality while only spending 5 euros and owning a smartphone.</p><p>Why not take it for a spin?",
+            "videoId": "reahAICvChw"
+          }
+        ]
+      },"socials": [
+        {
+          "icon": "linkedin",
+          "link": "https://linkedin.com/in/sofiaalves",
+          "name": "Linkedin"
+        },
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/sofiafilalves",
+          "name": "Twitter"
+        }
+      ]
+    },
+    "fabio_alves": {
+      "id": "fabio_alves",
+      "name": "Fabio Alves",
+      "company": "i2S",
+      "bio": "Fábio is a frontend specialist and is reading for his Masters in Architecture, Systems and Networks. In 2011 he started the collaboration with i2S, usability team where he exudes AngularJS every day.</p><p>He aims to finish his thesis before retirement. Do not talk to him before 10 am, or call him to congratulate him on his birthday before 4PM. There is a  rumor that his ''boss'' hits him and recently hired a karate specialist to help her!",
+      "sessions": {
+        "2015": [
+          {
+            "title": "Cardboard, a user's perspective",
+            "description": "Think about a very good restaurant... Have you seen the kitchen? No? Probably is a huge mess. But will this fact change your dinner experience? Maybe not if it all works fine.</p><p>As customers we won't go to the restaurant thinking about the kitchen but for the food, the nice environment, the friendliness of the staff , among other variables.</p><p>In the end, all of these variables make you have (or not) a good dinner experience. This is what happens with any product or service and it's called User eXperience.</p><p>The Google Cardboard is a good example where you can have an awesome user eXperience of virtual reality while only spending 5 euros and owning a smartphone.</p><p>Why not take it for a spin?",
+            "videoId": "reahAICvChw"
+          }
+        ]
+      },"socials": [
+        {
+          "icon": "linkedin",
+          "link": "https://pt.linkedin.com/pub/fábio-alves/98/a19/a8b",
+          "name": "Linkedin"
+        }
+      ]
+    },
+    "miriam_lopes": {
+      "id": "miriam_lopes",
+      "name": "Miriam Lopes",
+      "company": "WIT Software",
+      "bio": "Miriam once dreamed about becoming a well-known writer. Well... that didn't worked out.</p><p>Now, she is a QA Engineer at WIT Software and the things she writes are test plans, test automation scripts and test reports. She has been testing over the past few years, manually and automatically, several Android applications that are used by millions of people worldwide.</p><p>As a part of WIT Software, she believes that good is not enough and that is why the pursuit for excellence is the every day challenge. Breaking applications can be fun, but the main goal is to deliver software that is compliant with WIT high quality standards.",
+      "sessions": {
+        "2015": [
+          {
+            "title": "Break it. To make it.",
+            "description": "Testers vs Developers - should they fight to the death, or hug it out?</p><p>Software Quality Assurance area has been growing over the past few years. It's becoming more common each day to have testing teams working along with developers with the common goal of delivering software good enough to make them proud. In fact these two old enemies have become more close each day and this interaction has been proved decisive when it comes to software quality. But not everything is a fairy tale with a happy ending. Specially when it comes to mobile testing there are many challenges to overcome. Software complexity is increasing and the market is becoming more demanding. We want to do better and faster and cheaper. How to achieve that? For many organizations Automation is the answer. Want it faster? Automate. Want it cheaper? Automate. And then, you will have better. Is this the magical formula?</p><p>On this talk I will cover this topics, do some demonstrations and give some useful tips that developers can use to help testers on their QA quest.</p><p>Cause sometimes... the best way to make it, is to break it first.",
+            "videoId": "x9Cn9W7sgVw"
+          }
+        ]
+      },
+      "socials": [
+        {
+          "icon": "linkedin",
+          "link": "https://linkedin.com/in/miriamlopes",
+          "name": "Linkedin"
+        }
+      ]
+    },
+    "sergio_rodrigues": {
+      "id": "sergio_rodrigues",
+      "name": "Sérgio Rodrigues",
+      "company": "Sage Portugal",
+      "bio": "He is and Engineer and Entrepreneur who has been, for most of his life, developing new products, finding new ways of using cutting edge technology to achieve the simplest goals.</p><p>He started working during University, and by 1996, his first real job was developing electronics on a huge hardware company. By 2000 he was CTO – Chief Technology Officer – of a leading hospitality software company.</p><p>In 2006 he started his first company and by now he has co-founded and sold a number of software technology companies. He has lived and done business in London, Hong Kong and Singapore but, currently, besides being product manager at Sage he is also Mentor at UPTEC and Business Angel</p><p>Like many serial entrepreneurs, he has many things going on at once.",
+      "sessions": {
+        "2015": [
+          {
+            "title": "NDK: Native Android POS app, multiplatform porting",
+            "description": "Sage Software has a vast experience on Point of Sale software and, it's going multiplatform.</p><p>Looking at the POS terminals market, it's clear the future of this kind of hardware is Android so, after Windows and Linux, the time has come for this platform.</p><p>One year ago, a project was started to port an existing C++ software for Android and this is it story:</p><p>- The NDK tricks</p><p>- C++ compiler and Java wrapper interaction</p><p>- How to Debug native apps</p><p>- The SDL graphic library</p><p>- The Heartbleed problem</p><p>- The ARM and x86 architectures support</p><p>By now, the app is selling on the Play Store and sucessfully bringing traditional desktop customers to Android platform.",
+            "videoId": "CK5hDk1a1gQ"
+          }
+        ]
+      },
+      "socials": [
+        {}
+      ]
+    },
+    "abreu_ibanez": {
+      "id": "abreu_ibanez",
+      "name": "Abreu Ibáñez",
+      "company": "GDG Lleida",
+      "bio": "Andreu Ibanez is a Google Expert, Google Developers Group Lleida Founder and lead organizer, Member of GDG Spain, Google Glass Explorer, Mentor admin and speaker Google Summer of Code, Founder Google Liquid Galaxy LAB, The Physical Web Google IoT proposal expert and speaker, Founder Lleida Drone, and Project Manager at Ponent 2002, a SMB located in Lleida, Spain, specialized in IT R+D+i projects.</p><p>Among many other projects Andreu is now working with Virtual and Augmented Reality tools from Google, being Project Tango tester and authorized speaker, and working on several Cardboard VR projects in education, tourism, cinema and marketing.",
+      "sessions": {
+        "2015": [
+          {
+            "title": "The Project Tango from Google, understanding the surroundings",
+            "description": "Google's Project Tango incorporates advanced computer vision capacities for the Android platform, using real time image processing techniques and special sensors. With many possible applications, Project Tango will shine on motion tracking, 3D sensing, and depth perception applications that developers are started to work on.</p><p>The talk will explain about the system abilities, explore some use cases, and have a live demo on stage and screen.",
+            "videoId": "PSeZU784A-M"
+          }
+        ]
+      },
+      "badges": [
+        {
+          "name": "GDG",
+          "description": "Google Developer Group Lleida",
+          "link": "https://developers.google.com/groups/chapter/107962088655881499591/"
+        }
+      ],
+      "socials": [
+        {
+          "icon": "linkedin",
+          "link": "https://es.linkedin.com/in/andreuibanez",
+          "name": "Linkedin"
+        },
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/andreuibanez",
+          "name": "Twitter"
+        },
+        {
+          "icon": "website",
+          "link": "http://www.andreuibanez.com/",
+          "name": "Website"
+        }
+      ]
+    },
+    "juarez_filho": {
+      "id": "juarez_filho",
+      "name": "Juarez Filho",
+      "company": "madewithlove",
+      "bio": "Juarez Filho is an enthusiastic Front end Engineer with over 7 years of experience, started his career as backend developer, but with his first CSS class he devoted completely to Front End and UX.</p><p>Currently building things with love at @madewithlove and also a GDG Organizer spreading the awesome Google Technologies mainly Firebase and web related topics.",
+      "sessions": {
+        "2015": [
+          {
+            "title": "Firebase Adventures - How to create extraordinary apps with Firebase & AngularJS",
+            "description": "Firebase is a powerful platform for building mobile and web applications. Use Firebase to store and sync data instantly, authenticate users, and easily deploy your web app.</p><p>Firebase Adventures is a talk about how to use Firebase in different ways, for DevFest Porto  we'll focus also in how you can combine Firebase & AngularJS using AngularFire, the Firebase's official binding for Angular.",
+            "videoId": "-s5sXLJpDN8"
+          }
+        ]
+      },
+      "badges": [
+        {
+          "name": "GDG",
+          "description": "Google Developer Group Maceió",
+          "link": "https://developers.google.com/groups/chapter/105591078626334574818/"
+        }
+      ],
+      "socials": [
+        {
+          "icon": "linkedin",
+          "link": "https://es.linkedin.com/in/juarezpaf",
+          "name": "Linkedin"
+        },
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/juarezpaf",
+          "name": "Twitter"
+        },
+        {
+          "icon": "github",
+          "link": "https://github.com/juarezpaf",
+          "name": "GitHub"
+        }
+      ]
+    },
+    "rui_carneiro": {
+      "id": "rui_carneiro",
+      "name": "Rui Carneiro",
+      "company": "Blip",
+      "bio": "Rui obtained his masters in software engineering in 2009 but his love for Javascript started before that. He has always been passionate about web technologies and he is a member of the restricted group of developers that loves CSS.</p><p>He is a science enthusiast, a gamer geek and he has the unique ability of finding the weirdest things on the internet.",
+      "sessions": {
+        "2015": [
+          {
+            "title": "AngularJS: Building and maintaining a large scale application",
+            "description": "At Blip we are currently rebuilding all our products and transforming them into single page apps. Application performance and fast releases are key points for the business.</p><p>In this talk I will share our current developing process, how do we handle weekly releases, how we manage to have more than 10 teams working on different projects sharing code and how AngularJs eases this process.",
+            "videoId": "1QxcBF_EF4k"
+          }
+        ]
+      },
+      "socials": [
+        {
+          "icon": "linkedin",
+          "link": "https://pt.linkedin.com/in/ruiarc",
           "name": "Linkedin"
         }
       ]
