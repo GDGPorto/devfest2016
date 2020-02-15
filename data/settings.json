@@ -85,25 +85,25 @@
       "title": "Team",
       "metaDescription": "Get more info about organizers",
       "background": {
-        "color": "#fff"
+        "color": "#2e7d32"
       },
-      "fontColor": "#424242"
+      "fontColor": "#fff"
     },
     "faq": {
       "title": "FAQs",
       "metaDescription": "Find you answer right here!",
       "background": {
-        "color": "#fff"
+        "color": "#2e7d32"
       },
-      "fontColor": "#424242"
+      "fontColor": "#fff"
     },
     "coc": {
       "title": "Code of Conduct",
       "metaDescription": "Lear more about our expectations for all those who participate in our community",
       "background": {
-        "color": "#fff"
+        "color": "#2e7d32"
       },
-      "fontColor": "#424242"
+      "fontColor": "#fff"
     }
   },
   "location": {
