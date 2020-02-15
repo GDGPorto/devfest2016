@@ -92,6 +92,12 @@
       }
 
       .toolbar-logo {
+        display: block;
+        width: 150px;
+        height: 32px;
+        background-color: var(--default-primary-color);
+        transition: background-color var(--animation);
+        -webkit-mask: url('/images/logo-monochrome.svg') no-repeat;
         --iron-image-height: 32px;
       }
 
@@ -104,7 +110,7 @@
       }
 
       iron-lazy-pages {
-        background-color: var(--primary-background-color);;
+        background-color: var(--primary-background-color);
         min-height: 100%;
         height: 100%;
       }
@@ -144,7 +150,7 @@
 
       <app-drawer id="drawer" slot="drawer" opened="[[ui.isDrawerOpened]]" swipe-open>
         <app-toolbar layout vertical start>
-          <plastic-image class="toolbar-logo" srcset="/images/logo-monochrome.svg" alt="{$ title $}"></plastic-image>
+          <a class="toolbar-logo" href="/" layout horizontal title="{$ title $}"></a>
           <h2 class="dates">{$ dates $}</h2>
           <h3 class="location">{$ location.short $}</h3>
         </app-toolbar>

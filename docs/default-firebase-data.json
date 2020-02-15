@@ -1793,7 +1793,6 @@
     "youtubeId" : "zTHPnzuqfc8"
   } ],
   "previousSpeakers": {
-
     "sascha_wolter": {
       "id": "sascha_wolter",
       "name": "Sascha Wolter",
@@ -1801,7 +1800,7 @@
       "photoUrl": "/images/people/sascha_wolter.jpg",
       "title": "Senior Developer Evangelist Connected Home",
       "company": "Deutsche Telekom AG - Group Innovation+ | Freelancer",
-      "bio": "Sascha Wolter is a professional developer and user experience enthusiast with passion for the Internet of Things in all flavors. He also works as a consultant, trainer, lecturer, keynote-speaker, and author who focusses on understanding, innovation and value. Sascha is the founder of the User Group flashforum.de with more than 100,000 members, and as such he is committed to the interests of the user. After organizing internationally renowned events like beyond tellerrand from 2001 to 2011, he is now board member of the Usability & User Experience committee at the federal association BITKOM. When he is not tinkering with new soft- and hardware for Deutsche Telekom AG \u2013 Connected Home, he likes discovering the world together with his kids in an odd way.",
+      "bio": "Sascha Wolter is a professional developer and user experience enthusiast with passion for the Internet of Things in all flavors. He also works as a consultant, trainer, lecturer, keynote-speaker, and author who focusses on understanding, innovation and value. Sascha is the founder of the User Group flashforum.de with more than 100,000 members, and as such he is committed to the interests of the user. After organizing internationally renowned events like beyond tellerrand from 2001 to 2011, he is now board member of the Usability & User Experience committee at the federal association BITKOM. When he is not tinkering with new soft- and hardware for Deutsche Telekom AG – Connected Home, he likes discovering the world together with his kids in an odd way.",
       "shortBio": "UX enthusiast with passion for the IoT. Board member of the Usability & User Experience committee at the federal association BITKOM.",
       "tags": [
         "Web",
@@ -1816,8 +1815,15 @@
         }
       ],
       "sessions": {
-        "2016" : [
-          {}
+        "2016": [
+          {
+            "title": "My Minecraft-Smart-Home: Prototyping the Internet of Uncanny",
+            "description": "Software solutions and everyday objects are becoming increasingly \"smarter\", take over more \"responsibility\" and know more and more about us and our intentions. But what does that mean for developers, and what impact does this have on the user? How do we convey the understanding and competence for this Internet of Things? Sascha Wolter covers typical IoT challenges and inspires with crazy and sometimes creepy examples. He also introduces a prototypic approach for hardware and software ideation based on visual programming languages, games like Minecraft, and several IDEs. Of course, it is shown that this pragmatic approach is also suitable for professional projects using IoT platforms and smart home solutions such as Google Weave, Eddystone Beacons, Eclipse SmartHome, or openHAB.",
+            "tags": [
+              "IoT"
+            ],
+            "videoId": "VLW9_Hl9M9E"
+          }
         ]
       },
       "socials": [
@@ -1852,12 +1858,18 @@
         "Android",
         "Android Auto"
       ],
-      "badges": [
-
-      ],
+      "badges": [],
       "sessions": {
-        "2016" : [
-          {}
+        "2016": [
+          {
+            "title": "Android Auto: driving the future",
+            "description": "Google, Insurance Tech and Telematics. Add i2S to the mix and you'll be surprised!",
+            "tags": [
+              "Android",
+              "Android Auto"
+            ],
+            "videoId": "Ntm2IHOX2S8"
+          }
         ]
       },
       "socials": [
@@ -1882,12 +1894,17 @@
         "Android Auto",
         "Android"
       ],
-      "badges": [
-
-      ],
+      "badges": [],
       "sessions": {
-        "2016" : [
-          {}
+        "2016": [
+          {
+            "title": "Android Auto: driving the future",
+            "description": "Google, Insurance Tech and Telematics. Add i2S to the mix and you'll be surprised!",
+            "tags": [
+              "Android",
+              "Android Auto"
+            ]
+          }
         ]
       },
       "socials": [
@@ -1914,12 +1931,19 @@
         "React",
         "Blueprint"
       ],
-      "badges": [
-
-      ],
+      "badges": [],
       "sessions": {
-        "2016" : [
-          {}
+        "2016": [
+          {
+            "title": "Typescript 101",
+            "description": "The purpose of this talk is to provide an introduction to typescript. Initially this talk was about “functional typescript” but most folks showing really wanted to know more about typescript, not the functional aspect of it. So this talk aims at giving an introduction to the syntax, and how you can incrementally transform your coding style from pure javascript to typescript. In the end you’ll take home how to setup a typescript build pipeline, how these interact with react and blueprint, we will look at the transpilation and how code and structure a typescript project (including good practices and linting).",
+            "tags": [
+              "Typescript",
+              "Web",
+              "React",
+              "Blueprint"
+            ]
+          }
         ]
       },
       "socials": [
@@ -1945,12 +1969,28 @@
         "TensorFlow",
         "Machine Learning"
       ],
-      "badges": [
-
-      ],
+      "badges": [],
       "sessions": {
-        "2016" : [
-          {}
+        "2016": [
+          {
+            "title": "Dive deep into machine learning with TensorFlow",
+            "description": "Dive deep into machine learning with TensorFlow is a high-level introduction to the TensorFlow library, architecture and API. Originally developed at Google for the purposes of conducting machine-learning and deep neural networks research, TensorFlow leverages a general computational model that is applicable in a wide variety of other domains, especially for performing large-scale numerical computations on large data. This talk explains you how to use the library to train machine-learning models and make your next application smarter.",
+            "tags": [
+              "Cloud",
+              "TensorFlow",
+              "Machine Learning"
+            ],
+            "videoId": "HYifHZbgb7c"
+          },
+          {
+            "title": "TensorFlow Codelab",
+            "description": "Have you ever used TensorFlow? If not, you should try it... Mário Cordeiro will be giving this workshop to follow you through a TensorFlow Codelab where you can see Machine Learning working on your laptop. After this you have everything you need to go home and start playing with it. - You can bring Docker already installed to spare some time.",
+            "tags": [
+              "Cloud",
+              "TensorFlow",
+              "Machine Learning"
+            ]
+          }
         ]
       },
       "socials": [
@@ -1987,8 +2027,23 @@
         }
       ],
       "sessions": {
-        "2016" : [
-          {}
+        "2016": [
+          {
+            "title": "Realm or: How I learned to stop worrying and love my app database",
+            "description": "Using sql in mobile apps suck... is not nice. It makes us generate tons of boilerplate and it's slow to develop. We will talk about Realm, a new database engine (not an ORM!) for mobile that helps us to speed up our development process and suits better for mobile needs, I've been using almost from first release and I never came back to SQL. I will not only explain how it works, but also how I use it and how to avoid some common pitfalls when you start with Realm.",
+            "tags": [
+              "Realm",
+              "Android"
+            ]
+          },
+          {
+            "title": "It's the Arts! Playing with android canvas",
+            "description": "Many Android developers do not know the Canvas object or how to use the painting process. We will discuss about this process and see how to perform effects and views using the Canvas with some practical examples. Good knowledge of the Canvas and the drawing techniques could help us to do better applications and views with some spectacular effects in a few lines. (We will also vandalise some art in the workshop, just for the fun)",
+            "tags": [
+              "Android",
+              "Canvas"
+            ]
+          }
         ]
       },
       "socials": [
@@ -2014,13 +2069,22 @@
       "shortBio": "José Santos is leading development at Jumia Travel, the leading travelling company in Africa. ",
       "bio": "José Santos is leading development at Jumia Travel, the leading travelling company in Africa. In 2016 Jumia Travel re-think the way we deliver applications across sub saharan africa, where connection are mostly 2G and data consumption is very expensive. José is leading teams of developers to build advance mobile web applications using the progressive web apps experiences with the App toolbox from Polymer and AMP.",
       "tags": [
-        "Web", "Polymer", "AMP", "Go"
+        "Web",
+        "Polymer",
+        "AMP",
+        "Go"
       ],
-      "badges": [
-      ],
+      "badges": [],
       "sessions": {
-        "2016" : [
-          {}
+        "2016": [
+          {
+            "title": "Instant loading and great User Experience with PWA & AMP",
+            "description": "Jumia Travel is the travel division of Jumia group, the African largest e-commerce website. As the African market is characterised by slow networks, performance has been one of the main priority of Jumia Travel to improve conversion. By combining Polymer and PWA technologies, Jumia Travel has been able to reduce the Avg. page load time of 60% on slow networks, reduce data usage by 30% and deliver an app-like experience to their users. Jumia Travel also managed to lower the first page load time, typical pain point of Progressive Web Apps, by using AMP landing pages that asynchronously side-load the PWA.",
+            "tags": [
+              "Web"
+            ],
+            "videoId": "8cyq1O4bz84"
+          }
         ]
       },
       "socials": [
@@ -2045,11 +2109,19 @@
         "Firebase",
         "Testing"
       ],
-      "badges": [
-      ],
+      "badges": [],
       "sessions": {
-        "2016" : [
-          {}
+        "2016": [
+          {
+            "title": "Ustwo's Android strategy for CI and Firebase testing.",
+            "description": "Use continuous integration in your Android project to apply tests in physical devices with one single commit.",
+            "tags": [
+              "Android",
+              "Firebase",
+              "Testing"
+            ],
+            "videoId": "Hp_kyKncPTI"
+          }
         ]
       },
       "socials": [
@@ -2076,11 +2148,14 @@
         "Quality Assurance",
         "Agile Development"
       ],
-      "badges": [
-      ],
+      "badges": [],
       "sessions": {
-        "2016" : [
-          {}
+        "2016": [
+          {
+            "title": "Elastic Deployment",
+            "description": "Or how to use Google Cloud Platform for peace of mind",
+            "videoId": "rynMCVOy1t0"
+          }
         ]
       },
       "socials": [
@@ -2096,23 +2171,28 @@
       "name": "André Maia",
       "country": "Porto, Portugal",
       "photoUrl": "/images/people/andremaia.jpg",
-      "title":"Product Owner",
+      "title": "Product Owner",
       "shortBio": "André Maia is Product Owner at Jumia Travel, the leading travelling company in Africa. He has more than 15 years of experience on IT. He loves working on Agile environments. His main objective is to build amazing products and work with great people!",
       "bio": "André Maia is Product Owner at Jumia Travel, the leading travelling company in Africa. He has more than 15 years of experience on IT. He loves working on Agile environments. His main objective is to build amazing products and work with great people!",
       "tags": [
-        "Progressive Web Apps", "Polymer", "AMP"
+        "Progressive Web Apps",
+        "Polymer",
+        "AMP"
       ],
-      "badges": [
-
-      ],
+      "badges": [],
       "sessions": {
-        "2016" : [
-          {}
+        "2016": [
+          {
+            "title": "Instant loading and great User Experience with PWA & AMP",
+            "description": "Jumia Travel is the travel division of Jumia group, the African largest e-commerce website. As the African market is characterised by slow networks, performance has been one of the main priority of Jumia Travel to improve conversion. By combining Polymer and PWA technologies, Jumia Travel has been able to reduce the Avg. page load time of 60% on slow networks, reduce data usage by 30% and deliver an app-like experience to their users. Jumia Travel also managed to lower the first page load time, typical pain point of Progressive Web Apps, by using AMP landing pages that asynchronously side-load the PWA.",
+            "tags": [
+              "Web"
+            ],
+            "videoId": "8cyq1O4bz84"
+          }
         ]
       },
-      "socials": [
-
-      ]
+      "socials": []
     },
     "diogo_junior": {
       "id": "diogo_junior",
@@ -2124,13 +2204,19 @@
       "shortBio": "Diogo is an engineer from FEUP that started working at Fraunhofer Portugal as scientist where he coordinated/managed/developed some national and european projects and oriented also some students during their thesis.",
       "bio": "So, \"basically\" and \"mainly\" I'm an engineer from FEUP that started working at Fraunhofer Portugal as scientist where I coordinated/managed/developed some national and european projects and oriented also some students during their thesis. Then I left the \"science\" world and joined an international e-commerce company(Porto Tech Center) that is supported by the German giant Rocket Internet. During one year I helped the tech team evolving the used technologies/coding standards/ platforms/services, etc related with the Android app Kaymu https://play.google.com/store/apps/details?id=com.kaymumarket.android Then I was looking for new challenges and new and more responsibilities and I joined 7graus where I'm currently the unique Lead Android - Full Stack Dev - ASO Expert.",
       "tags": [
-        "Android", "Firebase", "Fabric",  "Appfolow"
+        "Android",
+        "Firebase",
+        "Fabric",
+        "Appfolow"
       ],
-      "badges": [
-      ],
+      "badges": [],
       "sessions": {
-        "2016" : [
-          {}
+        "2016": [
+          {
+            "title": "ASO - App Store Optimization",
+            "description": "You just published unintentionally an app that has a button that after clicked transfer 5 Euros from your account to the user's bank account on the app/play store. Do you need to worry?! Noooooo! No one will find it! :) This talk will explain what is ASO and how can it be optimized, as well as the tools and platforms to use.",
+            "videoId": "156reuHfADQ"
+          }
         ]
       },
       "socials": [
@@ -2152,13 +2238,20 @@
       "shortBio": "Vasco is a Java developer at Mindera, changing a monolith architecture into a micro service architecture.",
       "bio": "Vasco is a Java developer at Mindera, changing a monolith architecture into a micro service architecture. He's still under the radar for the community, but well known in the projects that he works for, always mentoring and promoting best practices, whether it's code related or just related with the big picture. Previously he worked in Lisbon as an expendable resource in some obscure companies.",
       "tags": [
-        "Cloud", "Java", "Scala", "Docker", "Kubernetes"
+        "Cloud",
+        "Java",
+        "Scala",
+        "Docker",
+        "Kubernetes"
       ],
-      "badges": [
-      ],
+      "badges": [],
       "sessions": {
-        "2016" : [
-          {}
+        "2016": [
+          {
+            "title": "Stuff that eases microservices development and what not",
+            "description": "Are you taking the appropriate steps to ease the development and other stuff such as integration, discovery, management, support on your micro service architecture approach? As more and more micro services you build, the flaws in the architecture become increasingly apparent. Are you using service discovery? Do you control your load balancers? Does configuration changes require a new deploy of the service? If not it's probably about time you start doing these. In here you will be shown how to start applying these concepts in practice to simplify a lot of your work.",
+            "videoId": "b8y3dp9uHNE"
+          }
         ]
       },
       "socials": [
@@ -2174,152 +2267,363 @@
         }
       ]
     },
-    "dawid_ostrowski": {
-      "id": "dawid_ostrowski",
-      "name": "Dawid Ostrowski",
-      "company": "Google Poland",
-      "title": "Developer Relations Program Manager",
-      "bio": "Dawid is true technology enthusiast, who loves to work in areas where humans and machines meet to create amazing new products and services. He is experienced program manager with strong technical background, who is able to establish priorities for complex projects and execute across multiple organizations, according to long-term objectives. Dawid has worked in Poland, USA, Germany, Belgium and The Netherlands and truly values diversity of international working environment. His most visible characteristics are individualization (when dealing directly with people), ideation&intellection (inexhaustible source of new concepts) and strong communication (experienced trainer, community manager). He is also an activator constantly impatient for action.",
-      "socials": [
-        {
-          "icon": "gplus",
-          "name": "Google+",
-          "link": "https://plus.google.com/+DawidOstrowski/"
-        }
-      ]
-    },
-    "dmytro_danylyk": {
-      "id" : "dmytro_danylyk",
-      "name" : "Dmytro Danylyk",
-      "country" : "Ukraine",
-      "photoUrl" : "https://dfua16.firebaseapp.com//images/people/dmytro_danylyk.jpg",
-      "company" : "Timee",
-      "companyLogo" : "https://dfua16.firebaseapp.com//images/logos/timee.png",
-      "title" : "Senior Android Developer",
-      "bio" : "Dmytro is a developer, writer, speaker. He live in Lviv - a quaint and beautiful city. He is passionate about android and flat design. Currently Dmytro works for a startup Timee where he develop Android application and he love what he do.",
-      "sessions" : {
-        "2015" : [
+    "panayotis_tzinis": {
+      "id": "panayotis_tzinis",
+      "name": "Panayotis Tzinis",
+      "title": "GDE, Design",
+      "company": "X-Lab",
+      "photoUrl": "assets/img/speakers/Panayotis_Tzinis.jpg",
+      "bio": "Panayotis (AKA Darth), is the Intelligence Tech Lead of the X | Lab. The X Lab is a tech tank based  on the planet of Mustafar, where crazy people, from scientists to artists, to developers to technologists, share their ideas in order to create moonshots! A moonshot is a radical solution, integrating breakthrough technology with native thinking. More than on projects we are exploring ambitions! Darth is also a Google Developer Expert on Product Design, and a GDE on Google Pay focusing on AI and Human Interface behaviour and a Google Sprint Master.",
+      "sessions": {
+        "2019": [
           {
-            "presentation" : "https://speakerdeck.com/gdglviv/dmytro-danylyk-planning-android-screens",
-            "tags" : [ "Android", "UX" ],
-            "title" : "Planning Android Screens"
-          }
-        ]
-      },
-      "socials" : [
-        {
-          "icon" : "website",
-          "link" : "http://www.dmytrodanylyk.com",
-          "name" : "Website"
-        },
-        {
-          "icon" : "github",
-          "link" : "https://github.com/dmytrodanylyk",
-          "name" : "Github"
-        },
-        {
-          "icon" : "twitter",
-          "link" : "https://twitter.com/dmytrodanylyk",
-          "name" : "Twitter"
-        }
-      ]
-    },
-    "mateusz_herych" : {
-      "id" : "mateusz_herych",
-      "name" : "Mateusz Herych",
-      "country" : "Poland",
-      "photoUrl" : "https://storage.googleapis.com/dfua17.appspot.com/images/people/mateusz_herych.jpg",
-      "company" : "IG",
-      "companyLogo" : "https://storage.googleapis.com/dfua17.appspot.com/images/logos/ig.svg",
-      "title" : "Android Tech Lead",
-      "bio" : "Mateusz works as an Android Developer at IG, where he uses his Android-abracadabras to make enterprise software users more productive.\n\nHe's also an active member of GDG Kraków where, together with his co-organisers, he ensures the local community has direct access to the latest trends and knowledge of Google-related technology.\n\nMateusz is an avid Android speaker, and is particularly keen to get involved in events focusing on coding Android.",
-      "sessions" : {
-        "2015" : [
-          {
-            "presentation" : "https://speakerdeck.com/gdglviv/mateusz-herych-how-can-android-backup-break-your-app",
-            "tags" : [ "Android", "Marshmallow" ],
-            "title" : "How can Android Backup break your app"
-          }
-        ]
-      },
-      "badges": [
-        {
-          "name": "GDE",
-          "description": "Google Developer Expert",
-          "link": "https://developers.google.com/experts/"
-        }
-      ],
-      "socials" : [
-        {
-          "icon" : "twitter",
-          "link" : "https://twitter.com/mherych",
-          "name" : "Twitter"
-        },
-        {
-          "icon" : "linkedin",
-          "link" : "https://www.linkedin.com/in/herych",
-          "name" : "LinkedIn"
-        }
-      ]
-    },
-    "roman_mazur" : {
-      "id" : "roman_mazur",
-      "name" : "Roman Mazur",
-      "country" : "Ukraine",
-      "photoUrl" : "https://dfua15.firebaseapp.com/images/people/roman_mazur.jpg",
-      "company" : "Stanfy",
-      "title" : "Software Engineer",
-      "bio" : "Roman has been working with Android for more than 6 years. You can find him delivering fixes and new features to a plenty of Android libraries and frameworks including support library, Robolectric, Madge, Spoon, Retrofit, and Helium. <br/><br/>At Stanfy he is working on a customized Android OS for in-room tablets installed at hotels by KEYPR.",
-      "sessions" : {
-        "2015" : [
-          {
-            "presentation" : "https://speakerdeck.com/gdglviv/roman-mazur-power-of-android-shell",
-            "tags" : [ "Android", "Tools" ],
-            "title" : "Power of Android Shell"
-          }
-        ]
-      },
-      "socials" : [
-        {
-          "icon" : "app-icons:twitter",
-          "link" : "http://twitter.com/roman_mazur",
-          "name" : "Twitter"
-        },
-        {
-          "icon" : "app-icons:github",
-          "link" : "https://github.com/roman-mazur",
-          "name" : "GitHub"
-        }
-      ]
-    },
-    "valentyn_shybanov" : {
-      "id" : "valentyn_shybanov",
-      "name" : "Valentyn Shybanov",
-      "country" : "Ukraine",
-      "photoUrl" : "https://storage.googleapis.com/dfua17.appspot.com/images/people/valentyn_shybanov.jpg",
-      "company" : "",
-      "companyLogo" : "",
-      "title" : "Web Team Leader",
-      "bio" : "Started software engineering career with low level system programming mostly on start of the era of modern computers, my interest involved from programming calculators and simple games to developing complex enterprise-level cloud-based solutions. Now, with help of modern technologies, solutions and concepts, I am not just trying to bring any, even most courageous ideas into life, but also spread the light of all brilliant technology solutions I can find to all other developers. Now focused on combination of Web technologies (Angular, Dart) and cloud platforms (Google Cloud Platform, Amazon EC2, Azure etc) and mobile (Flutter)\n",
-      "sessions" : {
-        "2015" : [
-          {
-            "presentation" : "http://olostan.github.io/slides_microgcp",
-            "tags" : [ "Cloud", "Go Lang" ],
-            "title" : "Using GoLang for building micro-service architecture in Google Cloud Platform"
+            "title": "Designing in the Age of Machines",
+            "description": "We will have an intro on designing and researching on-device machine learning product and what it means in practice to take a human-centered approach to designing an AI-powered product + a few takeovers"
           },
           {
-            "presentation" : "http://olostan.github.io/slides_ng2arch",
-            "tags" : [ "Web", "AngularJS" ],
-            "title" : "Angular2: Reasoning behind technical decisions"
+            "title": "Designing for wicked problems",
+            "workshop": true,
+            "description": "Throughout, hopefully if time allows us, 3 Lab exercises we will intro \"wicked problems\", what are they, how to address them and how to \"try\" to solve them without creating others! That's wicked! At each Lab Exercise attendees will do some hands-on design/sketching, discussion and ideation."
           }
         ]
       },
-      "socials" : [
+      "socials": [
         {
-          "icon" : "website",
-          "link" : "https://cv.olostan.name/",
-          "name" : "Website"
+          "icon": "twitter",
+          "link": "https://twitter.com/ptzinis",
+          "name": "Twitter"
+        }
+      ]
+    },
+    "sara_vieira": {
+      "id": "sara_vieira",
+      "name": "Sara Viera",
+      "title": "GraphQL",
+      "company": "YLD",
+      "photoUrl": "assets/img/speakers/Sara_Vieira.png",
+      "bio": "Developer Advocate at @YLDio. GraphQL and Open Source enthusiast. Conference Speaker and Airport expert. I am also into drums and horror movies.",
+      "sessions": {
+        "2019": [
+          {
+            "title": "I have 99 problems but GraphQL is not one!",
+            "description": "You have probably heard about GraphQL and probably heard people say it’s amazing but never understood why you should learn yet another thing. In this talk we will go over just why everyone seems to love this new kid on the block, how to get started with it and debunk some myths about GraphQL. The objective is that you leave this talk as excited as me about GraphQL.",
+            "videoId": "Sn7u1EpLdwg"
+          }
+        ]
+      },
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/NikkitaFTW",
+          "name": "Twitter"
+        }
+      ]
+    },
+    "sam_bellen": {
+      "id": "sam_bellen",
+      "name": "Sam Bellen",
+      "title": "GDE, Security",
+      "company": "Auth0",
+      "photoUrl": "assets/img/speakers/Sam_Bellen.png",
+      "bio": "Sam Bellen is a Google Developer Expert who works as a Developer Evangelist at Auth0. At Auth0 we’re trying to make authentication and identification as easy as possible, while still keeping it secure. After office hours he likes to play around with the web-audio API, and other “exotic” browser API’s. One of his side projects is a library to add audio effects to an audio input using JavaScript.  When he's not behind a computer, you can find him playing the guitar, having a beer at a concert, or trying to snap the next perfect picture.",
+      "sessions": {
+        "2019": [
+          {
+            "title": "Passwords are so 1990",
+            "description": "As long as we’ve been using the internet, and way before that, we have been authenticating through some sort of username and password combination. It has become the standard. With the ever increasing number of web-apps, we’re seeing more and more data breaches as well. What if we could build our authentication processes in a way the user doesn’t need a password? In this talk I will give a quick overview of the past, present and future of authentication. From basic authentication to passwordless biometric authentication using the web authentication API, and everything in between. The audience does not need any specific knowledge as this talk will not go into implementation details, but aims to give a view of what’s to come in terms of authentication.",
+            "videoId": "PEgqE8MvSEU"
+          }
+        ]
+      },
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/sambego",
+          "name": "Twitter"
+        }
+      ]
+    },
+    "ines_santos_silva": {
+      "id": "ines_santos_silva",
+      "name": "Inês Santos Silva",
+      "title": "PWIT",
+      "company": "Portuguese Women in Tech",
+      "photoUrl": "assets/img/speakers/Ines_Santos.jpg",
+      "bio": "Inês Silva is a co-founder at Portuguese Women in Tech and a Managing Partner at Aliados, an impact driven consulting firm working with public and private organisations to solve some of their biggest social and environmental challenges.",
+      "sessions": {
+        "2019": [
+          {
+            "title": "Opening keynote",
+            "description": "Opening Keynote by Inês Santos Silva"
+          }
+        ]
+      },
+      "socials": [
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/inessantossilva",
+          "name": "Linkedin"
+        }
+      ]
+    },
+    "isabel_costa": {
+      "id": "isabel_costa",
+      "name": "Isabel Costa",
+      "title": "Open Source, Android",
+      "company": "Grupo Imprensa",
+      "photoUrl": "assets/img/speakers/Isabel_Costa.png",
+      "bio": "Isabel is a Software Developer at Grupo Impresa. She got into Open Source through Google Summer of Code (GSoC) program in 2018. During her time as a GSoC student, she started a project with Systers Open Source community, using python for the backend and Kotlin for the Android application. She started as a student and now is one of the maintainers of the project, using it to help beginners at Open Source do their first contributions.",
+      "sessions": {
+        "2019": [
+          {
+            "title": "Doing Open Source as a contributor and a maintainer",
+            "description": "When I was accepted into Google Summer of Code program, I was a total beginner at Open Source. I did some very small contributions but was still very intimidated by Open Source. I started the program as a student working on the project I proposed with the help of my mentors and community and after it ended I became a maintainer. As a contributor, I had to work on projects I didn’t know much as a maintainer I had to make sure the project was ready and friendly to outside contributors. In this talk, I want to share my learnings and perspective from working in Open Source being in both sides, while sharing some tips on how to start contributing to a new project and keeping a project beginner friendly."
+          }
+        ]
+      },
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/isabelcmdcosta",
+          "name": "Twitter"
+        }
+      ]
+    },
+    "filipe_filipe_barros": {
+      "id": "filipe_barroso",
+      "name": "Filipe Barroso",
+      "title": "Flutter, Tensorflow",
+      "company": "GDG Lisboa",
+      "photoUrl": "assets/img/speakers/Filipe_Barroso.jpg",
+      "bio": "Filipe Barroso, is a Software Engineer that loves getting out of his zone of comfort, if you don't see him at a tech event, he is probably organizing the next tech event by Google Developer Group Lisbon, reading about psychology or preparing the next bit of Standup comedy.  As a developer, He worked in android applications for Portugal Telecom now known as Altice, Brisa, Federação Portuguesa Futebol, TAP, Bayer among many others and currently he is working remotely as an Android Developer and Machine Learning Engineer.",
+      "sessions": {
+        "2019": [
+          {
+            "title": "What the Flutter?",
+            "description": "Flutter, the new Open Source mobile application SDK to create native applications in one codebase. What is Flutter and why should you care about it? At the end of the talk, you will understand the decisions behind Flutter, why it is so different from others mobile development tools and platforms and why is so many developers already addicted to it. I will also showcase how to build a small working app and how structure a project."
+          },
+          {
+            "title": "Flutter Kickoff",
+            "workshop": true,
+            "description": "Come in with a basic knowledge of what is get out with a working app on your smartphone.<br>This workshop is for curious and beginners with Flutter, we will be building an app from scratch while experimenting with various views.<br>Please bring your own laptop with Flutter install, follow this link for so: https://flutter.io/docs/get-started/install<br>Also have installed:<br>- Visual Studio Code ( with Flutter and Dart Plugins Installed)<br>- Git"
+          }
+        ]
+      },
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/ABarroso",
+          "name": "Twitter"
+        }
+      ]
+    },
+    "carlos_mota": {
+      "id": "carlos_mota",
+      "name": "Carlos Mota",
+      "title": "Android, Kotlin",
+      "company": "WIT Software",
+      "photoUrl": "assets/img/speakers/Carlos_Mota.jpg",
+      "bio": "Hello human, I'm a strong believer that... HAL didn't do anything to harm Dave, he(?) was truly preoccupied with his friend safety. Also the answer to life, the universe and everything seems to (still) be 42.  At night I'm fighting crime... oh wait; wrong bio here. Here it goes the uncensensored version: for several years now, I've been developing mobile applications. First on the energy consumption field, then Telco and, in the middle, of it I've found the time to create a game with some friends - Word Dare - it was fun! I'm currently working at WIT Software on the company RCSe applications - first for iOS and now on Android.  From time to time, I like to make long monologues and wait for the entire audience to fall asleep - lets call them \"talks\". I've been giving a few for University of Coimbra, WIT Software, DevFest, Pixels Camp, mdevcon, etc.",
+      "sessions": {
+        "2015": [
+          {
+            "title": "Android TV Strangelove",
+            "description": "The concept of a single device has been depreciated for years now. We have a smartphone on our pockets, a smartwatch on our wrists, a laptop on our desks, a tablet on our backpacks, a TV on our living rooms, etc. and although we have this diversity of devices, only recently they learn about the existence of each other and started to interact.\nIdeas like receiving a call on our phones and answer it instead on the computer or using our devices as remote controls for a TV game are now possible.\nOver the last years, our televisions have been losing our attention. They became difficult to use - we no longer have a small number of channels or 9 to 5 schedules which allowed us to watch a specific movie at a defined time - for example, we want to watch a movie after a long day at work without pressing dozens of buttons and without watching through long commercials.\nWe want the same experience that we have on our computers or tablets. Manufacturers have been attempting to solve this problem by filling our TV’s with a large amount of applications that we might have opened once to see how they work - and well… they are still there… somewhere. From the last two Google I/O's, Google has been focused on releasing what they believe to be next TV experience - Android TV. Their proposal is an android set top box along with a new support library - leanback - as well as a defined set of designing rules which will allow the user to take the best experience from their TV’s. Moreover, you can use your mobile phone as a secondary device/or remote control increasing the number of features available and providing new ways to interact with your TV. On this talk I’m planning to give an overview of what is possible to do with this new system along with some code samples - what to do, why to do it and how you can do it, examples and pitfalls to avoid."
+          }
+        ],
+        "2018": [
+          {
+            "title": "Kotlin my way in",
+            "description": "Developers, developers, developers. I’ve always thought that it is amazing what we do - we never settle, we always try to figure out new things, test new things and improve the ones on which we work daily; whether it’s a newly found library, a new architecture pattern that suddenly started to be trending or in this particular case a new language called Kotlin - rejoice! However those things have different impacts on our projects - using a new library has a different risk than adopting a new language and this is where things get… or as you will hear got really complicated. For the past years I’ve been trying to evangelise - wololooo - [read this with Age Of Empires priests voice] the people at my company and community into taking the step of gradually start using Kotlin on our applications. And it hasn’t been an easy task. First, not everyone shares the same enthusiasm in learning something new and secondly making the shift of leaving a language which they know and are familiar with to a new one requires time (both for companies and for people). Fast forward to the present and currently we have Kotlin code in production, a team thrilled with learning new things and managers glad that all deadlines have been successfully accomplished.",
+            "tags": [
+              "Kotlin",
+              "Android"
+            ],
+            "videoId": "TvoDRnwMGYQ"
+          }
+        ]
+      },
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/cafonsomota",
+          "name": "Twitter"
+        }
+      ]
+    },
+    "danliel_mallcott": {
+      "id": "danliel_mallcott",
+      "name": "Daniel Mallcott",
+      "title": "",
+      "company": "TransferWise",
+      "photoUrl": "assets/img/speakers/Daniel_Mallcott.jpg",
+      "bio": "Daniel is an android engineer at TransferWise, coming all the way from Venezuela to build a career in the tech world. Today he’s working alongside fourteen other android nerds towards causing a positive impact in fintech, one user at a time. He likes taking long walks down the beach, fighting for diversity and building beautiful products. If you see him around say hi, his favourite hobby is making friends.",
+      "sessions": {
+        "2019": [
+          {
+            "title": "How well do you know your user?",
+            "description": "One of my favourite things about building products is that we have the opportunity to improve others lives. Event if just a tiny bit. The thing is, do you really know who you’re helping?<br>Until recently, users where an abstract concept in my head. The user. After learning how to use Firebase, Google Analytics and other tools, I’ve learned how to turn that abstract into real. A user into a person.<br>In this talk we will explore how we use analytic streams to paint a picture of what our average user looks like. I’ll share some tips we’ve picked up over the years and how thinking in terms of people can level up your product."
+          }
+        ]
+      },
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/danielmallcott",
+          "name": "Twitter"
+        }
+      ]
+    },
+    "joao_reis": {
+      "id": "joao_reis",
+      "name": "João Reis",
+      "title": "Android",
+      "company": "ebankIt",
+      "photoUrl": "assets/img/speakers/Joao_Reis.jpg",
+      "bio": "João Reis has been developing Android applications since 2014 and is currently a Senior Android Developer at eBankIT. A Kotlin enthusiast and passionate about software architecture he has worked in projects from hospitality applications to Telco and currently Fintech. João is also a music lover and metalhead by heart he never misses a chance to catch a concert",
+      "sessions": {
+        "2019": [
+          {
+            "title": "Clean Architecture and white label - a case study",
+            "description": "Building white label apps can be a daunting task, especially because requirements and design will most likely change from client to client. At eBankIT we address this challenge by taking yet another approach to the good old clean architecture.<br>This talk will dive into the concepts of Clean Architecture applied to Android with a modular and semi-functional approach by leveraging the features of the Kotlin language and Kotlin co-routines.",
+            "videoId": "Tb_6Lav_msk"
+          }
+        ]
+      }
+    },
+    "joao_teixeira": {
+      "id": "joao_teixeira",
+      "name": "João Teixeira",
+      "title": "Design",
+      "company": "WIT Software",
+      "photoUrl": "assets/img/speakers/Joao_Teixeira.png",
+      "bio": "Design Manager at WIT Software. Digital design nerd, UX tinkerer, Product Design addict, 3D junkie and code monkey wannabe. Into obscure pop culture references, hygge and early Schwarzenegger movies.",
+      "sessions": {
+        "2019": [
+          {
+            "title": "Designers want to destroy the world",
+            "description": "In a world full of guidelines, established processes, automation and over-speccing, are we forgetting about individuality and the real human beings that use our products?<br>Let’s have an open minded conversation about the bigger picture of digital product creation from a designer’s perspective and learn how we can all take a step back to change our points of view in order to make our products better for the people that really matter: our users.",
+            "videoId": "zTHPnzuqfc8"
+          }
+        ]
+      }
+    },
+    "alex_barlow": {
+      "id": "alex_barlow",
+      "name": "Alex Barlow",
+      "title": "Microservices",
+      "company": "Echo",
+      "photoUrl": "assets/img/speakers/Alex_Barlow.jpg",
+      "bio": "Principle Engineer for Echo, an online pharmacy sending thousands of patients their medications daily. Interested in service architecture and problems at scale",
+      "sessions": {
+        "2019": [
+          {
+            "title": "Changing the wheels on a moving bus. Microservices in the real world.",
+            "description": "Many talks are about the concepts of (micro) services and systems, either the benefits of how they are amazing (Netflix!), or how they're terrible (Rails). But few talks peel back the surface to talk about the day to day work of SOA in a small team and show concrete examples and working, live systems, what's hard about the them and the problems you overcome and what's great and include real details about the system.<br>In this talk, I'll be describing big issues we've had and the complexities of moving from what was basically a \"prototype\" startup written on Firebase, to a system with over 30 services shipping 1000s of packages a day. A migration that happened (mostly) without anyone noticing.<br>In particular, a brief overview of areas at Echo on Go / gRPC / Typescript / GraphQL (an entirely typed stack) and monitoring along with details of actual system designs."
+          }
+        ]
+      },
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/alexrbarlow",
+          "name": "Twitter"
+        }
+      ]
+    },
+    "pedro_machado": {
+      "id": "pedro_machado",
+      "name": "Pedro Machado",
+      "title": "Android",
+      "company": "XING",
+      "photoUrl": "assets/img/speakers/Pedro_Machado.jpg",
+      "bio": "Pedro is a Software Engineer currently working on XING's Android app. He loves tearing stuff apart, just to put it back together again (this includes, but is not limited to the modularisation of Android projects). He has built solutions across the whole Android ecosystem, be it phones, watches, TVs, cars or even smart assistants. He's still waiting for the opportunity to create something for smart toasters or microwaves. It will eventually come along.",
+      "sessions": {
+        "2019": [
+          {
+            "title": "Modularisation: what could go wrong?",
+            "description": "Android projects can be difficult to maintain, especially when the team is fairly big or when there's little to no upfront planning. Complexity will increase and, if not cared for, so will technical debt and compilation times. Though having separate modules might seem like the obvious approach when starting a project, that's not how it always plays out, therefore modularisation may be a nearing challenge for an increasing number of projects. Modularisation is not without some complicated challenges that will make you question is usefulness. In this talk we'll document our initial approach to modularising XING's Android project, the challenges we faced and what we hope to achieve. Hopefully it will help you think about what your project needs and motivate you into solving some of the problems you might be facing everyday.",
+            "videoId": "GmKmE0tVSis"
+          }
+        ]
+      },
+      "socials": [
+        {
+          "icon": "xing",
+          "link": "https://www.xing.com/profile/Pedro_Machado10",
+          "name": "Xing"
+        }
+      ]
+    },
+    "mostafa_hanafy": {
+      "id": "mostafa_hanafy",
+      "name": "Mostafa Hanafy",
+      "title": "Android",
+      "company": "XING",
+      "photoUrl": "assets/img/speakers/Hanafy.jpg",
+      "bio": "Mostafa is a Software Engineer working on the Android app for XING. He is passionate about developing software for limited resources devices. He likes to keep the code always clean in a way that makes him panic when he sees legacy code, but also beleives that a little bit of legacy code won't hurt till next chance to refactor it.",
+      "sessions": {
+        "2019": [
+          {
+            "title": "Modularisation: what could go wrong?",
+            "description": "Android projects can be difficult to maintain, especially when the team is fairly big or when there's little to no upfront planning. Complexity will increase and, if not cared for, so will technical debt and compilation times. Though having separate modules might seem like the obvious approach when starting a project, that's not how it always plays out, therefore modularisation may be a nearing challenge for an increasing number of projects. Modularisation is not without some complicated challenges that will make you question is usefulness. In this talk we'll document our initial approach to modularising XING's Android project, the challenges we faced and what we hope to achieve. Hopefully it will help you think about what your project needs and motivate you into solving some of the problems you might be facing everyday.",
+            "videoId": "GmKmE0tVSis"
+          }
+        ]
+      },
+      "socials": [
+        {
+          "icon": "xing",
+          "link": "https://www.xing.com/profile/Mostafa_Hanafy",
+          "name": "XING"
+        }
+      ]
+    },
+    "rui_mendes": {
+      "id": "rui_mendes",
+      "name": "Rui Mendes",
+      "title": "Android",
+      "company": "Hostelworld",
+      "photoUrl": "assets/img/speakers/Rui_Mendes.jpg",
+      "bio": "5 years working with the Android platform and a tech enthusiast.<br>Most of his time is spent between beer, sports (mainly watching sports, not really practicing!) and a computer, with no particular order.<br><br>Likes to think he is a funny guy, but no one else seems to agree with him.",
+      "sessions": {
+        "2019": [
+          {
+            "title": "Actions for Google Assistant: How easily can you build your own assistant?",
+            "description": "Have you ever wondered how you could build your own Assistant?<br>In this talk I will guide you on the process of creating a simple assistant.<br>DialogFlow will be our NLP (Natural Language Processor), Firebase Cloud Functions will be used to process the commands and you will even see how you could integrate it with your own Android App.<br>Exciting stuff!",
+            "videoId": "81YEf0vbxns"
+          }
+        ]
+      },
+      "socials": [
+        {
+          "icon": "github",
+          "link": "https://github.com/ruimendesM",
+          "name": "Github"
+        }
+      ]
+    },
+    "jose_silva": {
+      "id": "jose_silva",
+      "name": "José Silva",
+      "title": "Angular, Web",
+      "company": "Critical Manufacturing",
+      "photoUrl": "assets/img/speakers/Jose.jpg",
+      "bio": "Web enthusiast, with the mission of bringing enterprise applications up to speed with Web Standards. José has been developing enterprise web applications with Angular (+2) since 2015 and is an avid “code once, use it everywhere” advocate.<br>José also volunteers as IEEE Portugal Chairman, supporting an amazing team of Engineers throughout the country, actively contributing to IEEE standards. On his free time, he plays the Tuba on some local groups and ensembles in north Portugal.",
+      "sessions": {
+        "2019": [
+          {
+            "title": "Angular  -  Building Enterprise Applications (Still)",
+            "description": "In 2015, when Angular 2 was launched, I made a presentation on this very event talking about all the reasons why you should pick Angular 2 as your Web Development framework. Now, more than 2 years later, I bring to you why should still pick Angular as your go to framework for web and desktop applications.<br>In Critical Manufacturing we started our MES product journey in HTML5 right with Angular from the very beginning. We  soon realized that we could do much more than just a Single Page Application. We turned Angular into the foundation of every frontend we do, from the product UI itself, to it’s documentation and even its installer.<br><br>Enter this journey with us and discover what Angular can do for you!",
+            "videoId": "5WOhCy-jEY0"
+          }
+        ]
+      },
+      "socials": [
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/jpsfs/?locale=en_US",
+          "name": "Linkedin"
         }
       ]
     }
