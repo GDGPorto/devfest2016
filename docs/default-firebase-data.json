@@ -1958,7 +1958,7 @@
       "id": "mario_cordeiro",
       "name": "Mário Cordeiro",
       "country": "Porto, Portugal",
-      "photoUrl": "/images/people/mario_cordeito.jpg",
+      "photoUrl": "/images/people/mario_cordeiro.jpg",
       "company": "Critical Manufacturing",
       "companyLogo": "/images/logos/critical_manufacturing.png",
       "title": "Technical Manager",
@@ -2031,7 +2031,8 @@
           {
             "title": "Android Data Binding",
             "description": "In the I/O 15 Google introduced the Android data binding. This technology is going to change the way we create and manage Android interfaces (for good), and we will be able to use mature patterns like MVVM to drastically reduce the amount of code in our Activities and Fragments.</p><p>Despite being a technology still in beta phase and not ready for production, we will learn how it works to be ready to use it from the first day when finally published.",
-            "videoId": "xdA5mHw47hM"
+            "videoId": "xdA5mHw47hM",
+            "presentation": "https://drive.google.com/open?id=0B-c8KPK0BrRGWGpsOWNLclFNS1k"
           }
         ],
         "2016": [
@@ -2106,7 +2107,7 @@
       "id": "nelson_sachse",
       "name": "Nelson Sachse",
       "country": "Porto, Portugal",
-      "photoUrl": "/images/people/nelson.jpg",
+      "photoUrl": "/images/people/nelson_sachse.jpg",
       "title": "Android Lead",
       "company": "Sainsbury's",
       "shortBio": "Nelson is a technologist that created digital solutions – with special focus in the Android ecosystem – for well establish brands as Universal, Societe Generale, Swisscom.",
@@ -2143,7 +2144,7 @@
       "id": "ricardo_loureiro",
       "name": "Ricardo Loureiro",
       "country": "Coimbra, Portugal",
-      "photoUrl": "/images/people/rjlouro.jpg",
+      "photoUrl": "/images/people/ricardo_loureiro.jpg",
       "company": "WIT Software",
       "companyLogo": "/images/logos/wit.png",
       "title": "Quality Manager",
@@ -2177,7 +2178,7 @@
       "id": "andre_maia",
       "name": "André Maia",
       "country": "Porto, Portugal",
-      "photoUrl": "/images/people/andremaia.jpg",
+      "photoUrl": "/images/people/andre_maia.jpg",
       "title": "Product Owner",
       "shortBio": "André Maia is Product Owner at Jumia Travel, the leading travelling company in Africa. He has more than 15 years of experience on IT. He loves working on Agile environments. His main objective is to build amazing products and work with great people!",
       "bio": "André Maia is Product Owner at Jumia Travel, the leading travelling company in Africa. He has more than 15 years of experience on IT. He loves working on Agile environments. His main objective is to build amazing products and work with great people!",
@@ -2205,7 +2206,7 @@
       "id": "diogo_junior",
       "name": "Diogo Júnior",
       "country": "Porto, Portugal",
-      "photoUrl": "/images/people/diogo.jpg",
+      "photoUrl": "/images/people/diogo_junior.jpg",
       "company": "Critical TechWorks",
       "title": "Android Engineer",
       "shortBio": "Diogo is an engineer from FEUP that started working at Fraunhofer Portugal as scientist where he coordinated/managed/developed some national and european projects and oriented also some students during their thesis.",
@@ -2238,7 +2239,7 @@
       "id": "vasco_santos",
       "name": "Vasco Santos",
       "country": "Porto, Portugal",
-      "photoUrl": "/images/people/vascomin.jpg",
+      "photoUrl": "/images/people/vasco_santos.jpg",
       "company": "Mindera",
       "companyLogo": "/images/logos/mindera.png",
       "title": "Java Sourcerer",
@@ -2279,7 +2280,7 @@
       "name": "Panayotis Tzinis",
       "title": "GDE, Design",
       "company": "X-Lab",
-      "photoUrl": "assets/img/speakers/Panayotis_Tzinis.jpg",
+      "photoUrl": "/images/people/panayotis_tzinis.jpg",
       "bio": "Panayotis (AKA Darth), is the Intelligence Tech Lead of the X | Lab. The X Lab is a tech tank based  on the planet of Mustafar, where crazy people, from scientists to artists, to developers to technologists, share their ideas in order to create moonshots! A moonshot is a radical solution, integrating breakthrough technology with native thinking. More than on projects we are exploring ambitions! Darth is also a Google Developer Expert on Product Design, and a GDE on Google Pay focusing on AI and Human Interface behaviour and a Google Sprint Master.",
       "sessions": {
         "2019": [
@@ -2401,7 +2402,7 @@
       "name": "Filipe Barroso",
       "title": "Flutter, Tensorflow",
       "company": "GDG Lisboa",
-      "photoUrl": "assets/img/speakers/Filipe_Barroso.jpg",
+      "photoUrl": "/images/people/filipe_barroso.jpeg",
       "bio": "Filipe Barroso, is a Software Engineer that loves getting out of his zone of comfort, if you don't see him at a tech event, he is probably organizing the next tech event by Google Developer Group Lisbon, reading about psychology or preparing the next bit of Standup comedy.  As a developer, He worked in android applications for Portugal Telecom now known as Altice, Brisa, Federação Portuguesa Futebol, TAP, Bayer among many others and currently he is working remotely as an Android Developer and Machine Learning Engineer.",
       "sessions": {
         "2019": [
@@ -2429,13 +2430,15 @@
       "name": "Carlos Mota",
       "title": "Android, Kotlin",
       "company": "WIT Software",
-      "photoUrl": "assets/img/speakers/Carlos_Mota.jpg",
+      "companyLogo": "/images/logos/wit.png",
+      "photoUrl": "/images/people/carlos_mota.jpeg",
       "bio": "Hello human, I'm a strong believer that... HAL didn't do anything to harm Dave, he(?) was truly preoccupied with his friend safety. Also the answer to life, the universe and everything seems to (still) be 42.  At night I'm fighting crime... oh wait; wrong bio here. Here it goes the uncensensored version: for several years now, I've been developing mobile applications. First on the energy consumption field, then Telco and, in the middle, of it I've found the time to create a game with some friends - Word Dare - it was fun! I'm currently working at WIT Software on the company RCSe applications - first for iOS and now on Android.  From time to time, I like to make long monologues and wait for the entire audience to fall asleep - lets call them \"talks\". I've been giving a few for University of Coimbra, WIT Software, DevFest, Pixels Camp, mdevcon, etc.",
       "sessions": {
         "2015": [
           {
             "title": "Android TV Strangelove",
-            "description": "The concept of a single device has been depreciated for years now. We have a smartphone on our pockets, a smartwatch on our wrists, a laptop on our desks, a tablet on our backpacks, a TV on our living rooms, etc. and although we have this diversity of devices, only recently they learn about the existence of each other and started to interact.\nIdeas like receiving a call on our phones and answer it instead on the computer or using our devices as remote controls for a TV game are now possible.\nOver the last years, our televisions have been losing our attention. They became difficult to use - we no longer have a small number of channels or 9 to 5 schedules which allowed us to watch a specific movie at a defined time - for example, we want to watch a movie after a long day at work without pressing dozens of buttons and without watching through long commercials.\nWe want the same experience that we have on our computers or tablets. Manufacturers have been attempting to solve this problem by filling our TV’s with a large amount of applications that we might have opened once to see how they work - and well… they are still there… somewhere. From the last two Google I/O's, Google has been focused on releasing what they believe to be next TV experience - Android TV. Their proposal is an android set top box along with a new support library - leanback - as well as a defined set of designing rules which will allow the user to take the best experience from their TV’s. Moreover, you can use your mobile phone as a secondary device/or remote control increasing the number of features available and providing new ways to interact with your TV. On this talk I’m planning to give an overview of what is possible to do with this new system along with some code samples - what to do, why to do it and how you can do it, examples and pitfalls to avoid."
+            "description": "The concept of a single device has been depreciated for years now. We have a smartphone on our pockets, a smartwatch on our wrists, a laptop on our desks, a tablet on our backpacks, a TV on our living rooms, etc. and although we have this diversity of devices, only recently they learn about the existence of each other and started to interact.\nIdeas like receiving a call on our phones and answer it instead on the computer or using our devices as remote controls for a TV game are now possible.\nOver the last years, our televisions have been losing our attention. They became difficult to use - we no longer have a small number of channels or 9 to 5 schedules which allowed us to watch a specific movie at a defined time - for example, we want to watch a movie after a long day at work without pressing dozens of buttons and without watching through long commercials.\nWe want the same experience that we have on our computers or tablets. Manufacturers have been attempting to solve this problem by filling our TV’s with a large amount of applications that we might have opened once to see how they work - and well… they are still there… somewhere. From the last two Google I/O's, Google has been focused on releasing what they believe to be next TV experience - Android TV. Their proposal is an android set top box along with a new support library - leanback - as well as a defined set of designing rules which will allow the user to take the best experience from their TV’s. Moreover, you can use your mobile phone as a secondary device/or remote control increasing the number of features available and providing new ways to interact with your TV. On this talk I’m planning to give an overview of what is possible to do with this new system along with some code samples - what to do, why to do it and how you can do it, examples and pitfalls to avoid.",
+            "presentation": "https://drive.google.com/open?id=0B-c8KPK0BrRGWi1RTTQyUkYyM0k"
           }
         ],
         "2018": [
@@ -2520,7 +2523,7 @@
       "name": "Alex Barlow",
       "title": "Microservices",
       "company": "Echo",
-      "photoUrl": "assets/img/speakers/Alex_Barlow.jpg",
+      "photoUrl": "/images/people/alex_barlow.jpg",
       "bio": "Principle Engineer for Echo, an online pharmacy sending thousands of patients their medications daily. Interested in service architecture and problems at scale",
       "sessions": {
         "2019": [
@@ -2615,7 +2618,7 @@
       "name": "José Silva",
       "title": "Angular, Web",
       "company": "Critical Manufacturing",
-      "photoUrl": "assets/img/speakers/Jose.jpg",
+      "photoUrl": "assets/img/speakers/jose_silva.jpg",
       "bio": "Web enthusiast, with the mission of bringing enterprise applications up to speed with Web Standards. José has been developing enterprise web applications with Angular (+2) since 2015 and is an avid “code once, use it everywhere” advocate.<br>José also volunteers as IEEE Portugal Chairman, supporting an amazing team of Engineers throughout the country, actively contributing to IEEE standards. On his free time, he plays the Tuba on some local groups and ensembles in north Portugal.",
       "sessions": {
         "2015": [
@@ -2652,7 +2655,8 @@
           {
             "title": "WebComponentes, Polymer and the new web",
             "description": "During this talk Google Developer Expert Víctor Sánchez will talk about web components, and an amazing library to build on them, Polymer.</p><p>With its brand new version Polymer 1.0 will be able to put back engineering into the web platform at blazing speed.</p><p>As we see it web components are the building blocks of the future. Do you want a ride?",
-            "videoId": "IjrWbYdiENk"
+            "videoId": "IjrWbYdiENk",
+            "presentation": "https://drive.google.com/open?id=0B-c8KPK0BrRGNjBFam1ycXY3aG8"
           }
         ]
       },
@@ -2675,13 +2679,15 @@
       "id": "sofia_rodrigues",
       "name": "Sofia Rodrigues",
       "company": "i2S",
+      "companyLogo": "/images/logos/i2s.png",
       "bio": "Sofia is an Usability and UX expert. In 2004 she began working in the media and design for dFUSION, an advertising agency, working in design, web application development, marketing, among others.</p><p>In 2009 she had the opportunity to start collaborating with i2S, specializing in myGIS portal interface, in the last to years she has launched the UX area for i2S.</p><p>Completely crazy, says many bad words, colleagues like to say ''Bom dia, Sofia'' regardless of time of day, is treated as ''one of the guys'' and is said to be pregnant for more than three years!",
       "sessions": {
         "2015": [
           {
             "title": "Cardboard, a user's perspective",
             "description": "Think about a very good restaurant... Have you seen the kitchen? No? Probably is a huge mess. But will this fact change your dinner experience? Maybe not if it all works fine.</p><p>As customers we won't go to the restaurant thinking about the kitchen but for the food, the nice environment, the friendliness of the staff , among other variables.</p><p>In the end, all of these variables make you have (or not) a good dinner experience. This is what happens with any product or service and it's called User eXperience.</p><p>The Google Cardboard is a good example where you can have an awesome user eXperience of virtual reality while only spending 5 euros and owning a smartphone.</p><p>Why not take it for a spin?",
-            "videoId": "reahAICvChw"
+            "videoId": "reahAICvChw",
+            "presentation": "https://drive.google.com/open?id=0B-c8KPK0BrRGZTd5cTVDc2FzRGc"
           }
         ]
       },"socials": [
@@ -2701,13 +2707,15 @@
       "id": "fabio_alves",
       "name": "Fabio Alves",
       "company": "i2S",
+      "companyLogo": "/images/logos/i2s.png",
       "bio": "Fábio is a frontend specialist and is reading for his Masters in Architecture, Systems and Networks. In 2011 he started the collaboration with i2S, usability team where he exudes AngularJS every day.</p><p>He aims to finish his thesis before retirement. Do not talk to him before 10 am, or call him to congratulate him on his birthday before 4PM. There is a  rumor that his ''boss'' hits him and recently hired a karate specialist to help her!",
       "sessions": {
         "2015": [
           {
             "title": "Cardboard, a user's perspective",
             "description": "Think about a very good restaurant... Have you seen the kitchen? No? Probably is a huge mess. But will this fact change your dinner experience? Maybe not if it all works fine.</p><p>As customers we won't go to the restaurant thinking about the kitchen but for the food, the nice environment, the friendliness of the staff , among other variables.</p><p>In the end, all of these variables make you have (or not) a good dinner experience. This is what happens with any product or service and it's called User eXperience.</p><p>The Google Cardboard is a good example where you can have an awesome user eXperience of virtual reality while only spending 5 euros and owning a smartphone.</p><p>Why not take it for a spin?",
-            "videoId": "reahAICvChw"
+            "videoId": "reahAICvChw",
+            "presentation": "https://drive.google.com/open?id=0B-c8KPK0BrRGZTd5cTVDc2FzRGc"
           }
         ]
       },"socials": [
@@ -2722,13 +2730,15 @@
       "id": "miriam_lopes",
       "name": "Miriam Lopes",
       "company": "WIT Software",
+      "companyLogo": "/images/logos/wit.png",
       "bio": "Miriam once dreamed about becoming a well-known writer. Well... that didn't worked out.</p><p>Now, she is a QA Engineer at WIT Software and the things she writes are test plans, test automation scripts and test reports. She has been testing over the past few years, manually and automatically, several Android applications that are used by millions of people worldwide.</p><p>As a part of WIT Software, she believes that good is not enough and that is why the pursuit for excellence is the every day challenge. Breaking applications can be fun, but the main goal is to deliver software that is compliant with WIT high quality standards.",
       "sessions": {
         "2015": [
           {
             "title": "Break it. To make it.",
             "description": "Testers vs Developers - should they fight to the death, or hug it out?</p><p>Software Quality Assurance area has been growing over the past few years. It's becoming more common each day to have testing teams working along with developers with the common goal of delivering software good enough to make them proud. In fact these two old enemies have become more close each day and this interaction has been proved decisive when it comes to software quality. But not everything is a fairy tale with a happy ending. Specially when it comes to mobile testing there are many challenges to overcome. Software complexity is increasing and the market is becoming more demanding. We want to do better and faster and cheaper. How to achieve that? For many organizations Automation is the answer. Want it faster? Automate. Want it cheaper? Automate. And then, you will have better. Is this the magical formula?</p><p>On this talk I will cover this topics, do some demonstrations and give some useful tips that developers can use to help testers on their QA quest.</p><p>Cause sometimes... the best way to make it, is to break it first.",
-            "videoId": "x9Cn9W7sgVw"
+            "videoId": "x9Cn9W7sgVw",
+            "presentation":  "https://drive.google.com/open?id=19GhL4b7gkZM6M8-9nE7kPKtsKSsCqd-tEOqkb4qqvHg"
           }
         ]
       },
@@ -2768,7 +2778,8 @@
           {
             "title": "The Project Tango from Google, understanding the surroundings",
             "description": "Google's Project Tango incorporates advanced computer vision capacities for the Android platform, using real time image processing techniques and special sensors. With many possible applications, Project Tango will shine on motion tracking, 3D sensing, and depth perception applications that developers are started to work on.</p><p>The talk will explain about the system abilities, explore some use cases, and have a live demo on stage and screen.",
-            "videoId": "PSeZU784A-M"
+            "videoId": "PSeZU784A-M",
+            "presentation": "https://docs.google.com/presentation/d/1khEmKc7vSAGWMhvpsokJcH8Xg-HKtIXW0vD659I1-1A/edit"
           }
         ]
       },
@@ -2846,7 +2857,8 @@
           {
             "title": "AngularJS: Building and maintaining a large scale application",
             "description": "At Blip we are currently rebuilding all our products and transforming them into single page apps. Application performance and fast releases are key points for the business.</p><p>In this talk I will share our current developing process, how do we handle weekly releases, how we manage to have more than 10 teams working on different projects sharing code and how AngularJs eases this process.",
-            "videoId": "1QxcBF_EF4k"
+            "videoId": "1QxcBF_EF4k",
+            "presentation": "https://github.com/carneiror/gdgporto-2015"
           }
         ]
       },
