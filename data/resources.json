@@ -126,8 +126,8 @@
     "callToAction": {
       "featuredSessions": {
         "description": "GDG DevFest Porto brings together the world class experts in Android, Web and Cloud technologies to Porto for a day of sessions, workshops and showcases.",
-        "label": "See last year speakers",
-        "link": "https://devfest18-gdgporto.firebaseapp.com/speakers"
+        "label": "See our previous speakers",
+        "link": "/previous-speakers/"
       },
       "howItWas": {
         "description": "Our team creates DevFest to be the best place for experience sharing in a phenomenal atmosphere. People said \"That was great. Never imagined to learn from a drug dealer, a guy that don't use passwords or a even from a girl that query APIs. Excellent job. See you in the next year \"",

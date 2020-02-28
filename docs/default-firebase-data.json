@@ -1877,7 +1877,7 @@
       "id": "manuel_ribeiro",
       "name": "Manuel Ribeiro",
       "country": "Porto, Portugal",
-      "photoUrl": "/images/people/manuel_ribeiro.jpg",
+      "photoUrl": "/images/people/manuel.jpg",
       "company": "i2S",
       "companyLogo": "/images/logos/i2s.png",
       "title": "Business Analyst Manager",
@@ -1951,9 +1951,9 @@
       "id": "mario_cordeiro",
       "name": "Mário Cordeiro",
       "country": "Porto, Portugal",
-      "photoUrl": "/images/people/mario_cordeiro.jpg",
+      "photoUrl": "/images/people/mario.webp",
       "company": "Critical Manufacturing",
-      "companyLogo": "/images/logos/critical_manufacturing.png",
+      "companyLogo": "/images/logos/critical.png",
       "title": "Technical Manager",
       "bio": "Mário Cordeiro is Software Engineer at Critical Manufacturing and a PhD student in the Doctoral Program in Informatics Engineering at Porto University. He is currently researching Event detection in social network data streams, a cross domain research topic in the areas of Social network analysis, Natural Language Processing and Data Stream Mining. Co-organizer of the Data Science Portugal community.",
       "shortBio": "Mário Cordeiro is Software Engineer at Critical Manufacturing and a PhD student in the Doctoral Program in Informatics Engineering at Porto University.",
@@ -2003,7 +2003,7 @@
       "id": "sergi_martinez",
       "name": "Sergi Martínez",
       "country": "Barcelona, Spain",
-      "photoUrl": "/images/people/sergi_martinez.jpg",
+      "photoUrl": "/images/people/sergi.webp",
       "company": "Schibsted Spain",
       "title": "Android Developer",
       "bio": "Working as Android dev at Schibsted and Google Developer Expert for Android. He loves to share, teach, discuss, learn with the community",
@@ -2301,7 +2301,7 @@
       "name": "Sara Viera",
       "title": "GraphQL",
       "company": "YLD",
-      "photoUrl": "assets/img/speakers/Sara_Vieira.png",
+      "photoUrl": "/images/people/Sara_Vieira.png",
       "bio": "Developer Advocate at @YLDio. GraphQL and Open Source enthusiast. Conference Speaker and Airport expert. I am also into drums and horror movies.",
       "sessions": {
         "2019": [
@@ -2325,7 +2325,7 @@
       "name": "Sam Bellen",
       "title": "GDE, Security",
       "company": "Auth0",
-      "photoUrl": "assets/img/speakers/Sam_Bellen.png",
+      "photoUrl": "/images/people/Sam_Bellen.png",
       "bio": "Sam Bellen is a Google Developer Expert who works as a Developer Evangelist at Auth0. At Auth0 we’re trying to make authentication and identification as easy as possible, while still keeping it secure. After office hours he likes to play around with the web-audio API, and other “exotic” browser API’s. One of his side projects is a library to add audio effects to an audio input using JavaScript.  When he's not behind a computer, you can find him playing the guitar, having a beer at a concert, or trying to snap the next perfect picture.",
       "sessions": {
         "2019": [
@@ -2349,7 +2349,7 @@
       "name": "Inês Santos Silva",
       "title": "PWIT",
       "company": "Portuguese Women in Tech",
-      "photoUrl": "assets/img/speakers/Ines_Santos.jpg",
+      "photoUrl": "/images/people/Ines_Santos.jpg",
       "bio": "Inês Silva is a co-founder at Portuguese Women in Tech and a Managing Partner at Aliados, an impact driven consulting firm working with public and private organisations to solve some of their biggest social and environmental challenges.",
       "sessions": {
         "2019": [
@@ -2372,7 +2372,7 @@
       "name": "Isabel Costa",
       "title": "Open Source, Android",
       "company": "Grupo Imprensa",
-      "photoUrl": "assets/img/speakers/Isabel_Costa.png",
+      "photoUrl": "/images/people/Isabel_Costa.png",
       "bio": "Isabel is a Software Developer at Grupo Impresa. She got into Open Source through Google Summer of Code (GSoC) program in 2018. During her time as a GSoC student, she started a project with Systers Open Source community, using python for the backend and Kotlin for the Android application. She started as a student and now is one of the maintainers of the project, using it to help beginners at Open Source do their first contributions.",
       "sessions": {
         "2019": [
@@ -2459,7 +2459,7 @@
       "name": "Daniel Mallcott",
       "title": "",
       "company": "TransferWise",
-      "photoUrl": "assets/img/speakers/Daniel_Mallcott.jpg",
+      "photoUrl": "/images/people/Daniel_Mallcott.jpg",
       "bio": "Daniel is an android engineer at TransferWise, coming all the way from Venezuela to build a career in the tech world. Today he’s working alongside fourteen other android nerds towards causing a positive impact in fintech, one user at a time. He likes taking long walks down the beach, fighting for diversity and building beautiful products. If you see him around say hi, his favourite hobby is making friends.",
       "sessions": {
         "2019": [
@@ -2482,7 +2482,7 @@
       "name": "João Reis",
       "title": "Android",
       "company": "ebankIt",
-      "photoUrl": "assets/img/speakers/Joao_Reis.jpg",
+      "photoUrl": "/images/people/Joao_Reis.jpg",
       "bio": "João Reis has been developing Android applications since 2014 and is currently a Senior Android Developer at eBankIT. A Kotlin enthusiast and passionate about software architecture he has worked in projects from hospitality applications to Telco and currently Fintech. João is also a music lover and metalhead by heart he never misses a chance to catch a concert",
       "sessions": {
         "2019": [
@@ -2499,7 +2499,7 @@
       "name": "João Teixeira",
       "title": "Design",
       "company": "WIT Software",
-      "photoUrl": "assets/img/speakers/Joao_Teixeira.png",
+      "photoUrl": "/images/people/Joao_Teixeira.png",
       "bio": "Design Manager at WIT Software. Digital design nerd, UX tinkerer, Product Design addict, 3D junkie and code monkey wannabe. Into obscure pop culture references, hygge and early Schwarzenegger movies.",
       "sessions": {
         "2019": [
@@ -2516,7 +2516,7 @@
       "name": "Alex Barlow",
       "title": "Microservices",
       "company": "Echo",
-      "photoUrl": "/images/people/alex_barlow.jpg",
+      "photoUrl": "/images/people/Alex_Barlow.jpg",
       "bio": "Principle Engineer for Echo, an online pharmacy sending thousands of patients their medications daily. Interested in service architecture and problems at scale",
       "sessions": {
         "2019": [
@@ -2539,7 +2539,7 @@
       "name": "Pedro Machado",
       "title": "Android",
       "company": "XING",
-      "photoUrl": "assets/img/speakers/Pedro_Machado.jpg",
+      "photoUrl": "/images/people/Pedro_Machado.jpg",
       "bio": "Pedro is a Software Engineer currently working on XING's Android app. He loves tearing stuff apart, just to put it back together again (this includes, but is not limited to the modularisation of Android projects). He has built solutions across the whole Android ecosystem, be it phones, watches, TVs, cars or even smart assistants. He's still waiting for the opportunity to create something for smart toasters or microwaves. It will eventually come along.",
       "sessions": {
         "2019": [
@@ -2563,7 +2563,7 @@
       "name": "Mostafa Hanafy",
       "title": "Android",
       "company": "XING",
-      "photoUrl": "assets/img/speakers/Hanafy.jpg",
+      "photoUrl": "/images/people/Hanafy.jpg",
       "bio": "Mostafa is a Software Engineer working on the Android app for XING. He is passionate about developing software for limited resources devices. He likes to keep the code always clean in a way that makes him panic when he sees legacy code, but also beleives that a little bit of legacy code won't hurt till next chance to refactor it.",
       "sessions": {
         "2019": [
@@ -2587,7 +2587,7 @@
       "name": "Rui Mendes",
       "title": "Android",
       "company": "Hostelworld",
-      "photoUrl": "assets/img/speakers/Rui_Mendes.jpg",
+      "photoUrl": "/images/people/Rui_Mendes.jpg",
       "bio": "5 years working with the Android platform and a tech enthusiast.<br>Most of his time is spent between beer, sports (mainly watching sports, not really practicing!) and a computer, with no particular order.<br><br>Likes to think he is a funny guy, but no one else seems to agree with him.",
       "sessions": {
         "2019": [
@@ -2611,7 +2611,7 @@
       "name": "José Silva",
       "title": "Angular, Web",
       "company": "Critical Manufacturing",
-      "photoUrl": "assets/img/speakers/jose_silva.jpg",
+      "photoUrl": "/images/people/Jose.jpg",
       "bio": "Web enthusiast, with the mission of bringing enterprise applications up to speed with Web Standards. José has been developing enterprise web applications with Angular (+2) since 2015 and is an avid “code once, use it everywhere” advocate.<br>José also volunteers as IEEE Portugal Chairman, supporting an amazing team of Engineers throughout the country, actively contributing to IEEE standards. On his free time, he plays the Tuba on some local groups and ensembles in north Portugal.",
       "sessions": {
         "2015": [
@@ -2641,7 +2641,7 @@
       "id": "victor_sanchez",
       "name": "Víctor Sanchéz",
       "company": "MashMeTV",
-      "photoUrl": "speaker_victor_sanchez.jpg",
+      "photoUrl": "/images/people/victor_sanchez.jpg",
       "bio": "Víctor is a developer, lecturer and entrepreneur. He runs his own company called MashMeTV that provides video collaboration applications to more than 800,000 users in 71 countries.</p><p>His new obsession is HTML5 and client-side applications. For the last couple of years, Víctor has been organizing tech events and conferences for kids and adults at places like HTML5 vs Android, Hack4Good Spain, HTML5Party, Iniciador Kids and others – in order to extend computer science and STEM.</p><p>Recently appointed Google Developer Expert in HTML5.",
       "sessions": {
         "2015": [
@@ -2673,6 +2673,7 @@
       "name": "Sofia Rodrigues",
       "company": "i2S",
       "companyLogo": "/images/logos/i2s.png",
+      "photoUrl": "/images/people/sofia_fabio.jpg",
       "bio": "Sofia is an Usability and UX expert. In 2004 she began working in the media and design for dFUSION, an advertising agency, working in design, web application development, marketing, among others.</p><p>In 2009 she had the opportunity to start collaborating with i2S, specializing in myGIS portal interface, in the last to years she has launched the UX area for i2S.</p><p>Completely crazy, says many bad words, colleagues like to say ''Bom dia, Sofia'' regardless of time of day, is treated as ''one of the guys'' and is said to be pregnant for more than three years!",
       "sessions": {
         "2015": [
@@ -2701,6 +2702,7 @@
       "name": "Fabio Alves",
       "company": "i2S",
       "companyLogo": "/images/logos/i2s.png",
+      "photoUrl": "/images/people/sofia_fabio.jpg",
       "bio": "Fábio is a frontend specialist and is reading for his Masters in Architecture, Systems and Networks. In 2011 he started the collaboration with i2S, usability team where he exudes AngularJS every day.</p><p>He aims to finish his thesis before retirement. Do not talk to him before 10 am, or call him to congratulate him on his birthday before 4PM. There is a  rumor that his ''boss'' hits him and recently hired a karate specialist to help her!",
       "sessions": {
         "2015": [
@@ -2724,6 +2726,7 @@
       "name": "Miriam Lopes",
       "company": "WIT Software",
       "companyLogo": "/images/logos/wit.png",
+      "photoUrl": "/images/people/miriam_lopes.jpg",
       "bio": "Miriam once dreamed about becoming a well-known writer. Well... that didn't worked out.</p><p>Now, she is a QA Engineer at WIT Software and the things she writes are test plans, test automation scripts and test reports. She has been testing over the past few years, manually and automatically, several Android applications that are used by millions of people worldwide.</p><p>As a part of WIT Software, she believes that good is not enough and that is why the pursuit for excellence is the every day challenge. Breaking applications can be fun, but the main goal is to deliver software that is compliant with WIT high quality standards.",
       "sessions": {
         "2015": [
@@ -2747,6 +2750,7 @@
       "id": "sergio_rodrigues",
       "name": "Sérgio Rodrigues",
       "company": "Sage Portugal",
+      "photoUrl": "/images/people/sergio_rodrigues.jpg",
       "bio": "He is and Engineer and Entrepreneur who has been, for most of his life, developing new products, finding new ways of using cutting edge technology to achieve the simplest goals.</p><p>He started working during University, and by 1996, his first real job was developing electronics on a huge hardware company. By 2000 he was CTO – Chief Technology Officer – of a leading hospitality software company.</p><p>In 2006 he started his first company and by now he has co-founded and sold a number of software technology companies. He has lived and done business in London, Hong Kong and Singapore but, currently, besides being product manager at Sage he is also Mentor at UPTEC and Business Angel</p><p>Like many serial entrepreneurs, he has many things going on at once.",
       "sessions": {
         "2015": [
@@ -2763,8 +2767,9 @@
     },
     "abreu_ibanez": {
       "id": "abreu_ibanez",
-      "name": "Abreu Ibáñez",
+      "name": "Andreu Ibáñez",
       "company": "GDG Lleida",
+      "photoUrl": "/images/people/andreu_ibanez.jpg",
       "bio": "Andreu Ibanez is a Google Expert, Google Developers Group Lleida Founder and lead organizer, Member of GDG Spain, Google Glass Explorer, Mentor admin and speaker Google Summer of Code, Founder Google Liquid Galaxy LAB, The Physical Web Google IoT proposal expert and speaker, Founder Lleida Drone, and Project Manager at Ponent 2002, a SMB located in Lleida, Spain, specialized in IT R+D+i projects.</p><p>Among many other projects Andreu is now working with Virtual and Augmented Reality tools from Google, being Project Tango tester and authorized speaker, and working on several Cardboard VR projects in education, tourism, cinema and marketing.",
       "sessions": {
         "2015": [
@@ -2805,6 +2810,7 @@
       "id": "juarez_filho",
       "name": "Juarez Filho",
       "company": "madewithlove",
+      "photoUrl": "/images/people/juarez_filho.jpg",
       "bio": "Juarez Filho is an enthusiastic Front end Engineer with over 7 years of experience, started his career as backend developer, but with his first CSS class he devoted completely to Front End and UX.</p><p>Currently building things with love at @madewithlove and also a GDG Organizer spreading the awesome Google Technologies mainly Firebase and web related topics.",
       "sessions": {
         "2015": [
@@ -2844,6 +2850,7 @@
       "id": "rui_carneiro",
       "name": "Rui Carneiro",
       "company": "Blip",
+      "photoUrl": "/images/people/rui_carneiro.jpg",
       "bio": "Rui obtained his masters in software engineering in 2009 but his love for Javascript started before that. He has always been passionate about web technologies and he is a member of the restricted group of developers that loves CSS.</p><p>He is a science enthusiast, a gamer geek and he has the unique ability of finding the weirdest things on the internet.",
       "sessions": {
         "2015": [
