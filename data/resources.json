@@ -1,8 +1,8 @@
 {
-  "title": "GDG DevFest Porto 2020",
-  "description": "Join the community, learn new things!",
+  "title": "GDG Porto DevFest 2020 celebrating IWD",
+  "description": "GDG Porto DevFest 2020 celebrating International Women's Day",
   "image": "images/social-share.jpg",
-  "keywords": "event, gdg, gde, devfest, google, programming, android, chrome, polymer, developers, web, cloud, androiddev",
+  "keywords": "event, gdg, porto, iwd, gde, devfest, google, programming, android, chrome, polymer, developers, web, cloud, androiddev",
   "dates": "April 4, 2020",
   "partnershipProposition": "https://drive.google.com/file/d/1PFfvcg1RzfuXgj7vAFfFbTxA1ec9yj3s/view?usp=sharing",
   "share": "Share",
@@ -48,6 +48,11 @@
         {
           "name": "DevFest",
           "url": "https://devfest.withgoogle.com/",
+          "newTab": true
+        },
+        {
+          "name": "Women Techmakers",
+          "url": "https://www.womentechmakers.com/",
           "newTab": true
         },
         {
@@ -267,7 +272,7 @@
     "blocks": [
       {
         "title": "Organizer",
-        "description": "<a href='https://gdgporto.xyz' target='_blank'>GDG Porto</a> is proud organizer of DevFest Porto with support of WomenTechMakers",
+        "description": "<a href='https://gdgporto.xyz' target='_blank'>GDG Porto</a> is proud organizer of DevFest Porto with support of Women Techmakers",
         "callToAction": {
           "label": "Open team page",
           "link": "/team"
