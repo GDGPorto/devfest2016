@@ -101,6 +101,16 @@
           this.$.video.pause();
           this.backdropElement.close();
           this.opened = false;
+          if (this.youtubeId) {
+            // The dialog was probably closed with Esc button, so, let's call the
+            // toggleVideoDialog as false to avoid that the video is open everytime a page is changed
+            uiActions.toggleVideoDialog({
+              opened: false,
+              disableControls: false,
+              youtubeId: '',
+              title: '',
+            });
+          }
         }
       }
 
