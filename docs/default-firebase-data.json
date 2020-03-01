@@ -90,6 +90,11 @@
       "logoUrl" : "../images/logos/dashdash.png",
       "name" : "dashdash",
       "url" : "https://dashdash.com/"
+    }, {
+      "order" : 1,
+      "logoUrl" : "../images/logos/mindera.png",
+      "name" : "Mindera",
+      "url" : "https://mindera.com/"
     }],
     "order" : 2,
     "title" : "Bronze Sponsors"
